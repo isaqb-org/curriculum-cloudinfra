@@ -29,9 +29,9 @@ toc::[]
 == How to contribute or participate
 Create an issue, a merge- or pull-request
 
-== How to use this template
+== How to work with the curriculum
 
-. Either click on "Use this template" in the Github UI or Clone the repository - including the submodule:
+. Clone the repository - including the submodule:
 +
 --
 [source,shell]
