@@ -1,0 +1,46 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-1-1]]
+==== LZ 1-1: Begriffe und Cloud Anbieter
+* wissen die unterschiedlichen *aaS Begriffe, Public/Private Cloud zu unterscheiden und können bestehende Angebote klassifizieren
+* kennen und verstehen die Gründe für den Betrieb in der Cloud und können die Vor- und Nachteile einschätzen
+* verstehen, wie und in welchem Umfang bei gängigen Cloud-Anbietern VMs und Netzwerke eingerichtet und konfiguriert werden können
+* verstehen, dass der hohe mögliche Grad von Automatisierung bei der Provisionierung/Skalierung und die Verfügbarkeit von höherwertigen Diensten Hauptgründe für die Verwendung eines Cloud-Anbieters sind
+* wissen, welcher Typ von Anbieter für welchen Einsatz am besten geeignet ist und wann dennoch der Einsatz von eigener Hardware (Bare Metal) sinnvoller sein kann
+* lernen, dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind, wie auch die Performanz der VMs und die maximal möglichen IOPS
+* lernen, dass Moderne Architekturen und deren Anforderungen an die Verfügbarkeit die Verteilung der Applikation auf mehrere Maschinen und Rechenzentren verlangen
+* lernen, wie der reduzierte Umfang von notwendigen Hosting-Kompetenzen bei der Verwendung eines Cloud-Anbieters Risiko und Kosten reduziert
+
+[[LZ-1-2]]
+==== LZ 1-2: Container und Container Manager
+* verstehen die technischen Grundlagen und den Mehrwert von Containern und Container-Managern
+* verstehen, wie die Verwendung von Containern und Container-Manager zu einer besseren Entkopplung von Verantwortlichkeiten und damit zu einer effektiveren Organisation führt
+* kennen den Unterschied zwischen konventionellem Deployment und dem mit Containern
+// end::DE[]
+
+// tag::EN[]
+[[LG-1-1]]
+==== LG 1-1: Terms and Cloud Provider
+* Know how to distinguish the different *aaS terms, public/private cloud and can classify existing offerings
+* know and understand the reasons for operating in the cloud and can assess the advantages and disadvantages
+* understand how and to what extent VMs and networks can be set up and configured with common cloud providers
+* Understand that the high level of automation possible in provisioning/scaling and the availability of higher-value services are key reasons for using a cloud provider
+* Know which type of provider is best suited for which deployment, and yet when it may make more sense to use in-house hardware (bare metal)
+* learn that data security aspects are relevant for the decision for or against a public cloud, as well as the performance of the VMs and the maximum possible IOPS
+* learn that modern architectures and their availability requirements demand that the application be distributed across multiple machines and data centers
+* learn how the reduced scope of hosting skills required when using a cloud provider reduces risk and cost
+
+[[LG-1-2]]
+==== LG 1-2: Container and Container Manager
+* Understand the technical fundamentals and added value of containers and container managers
+* understand how the use of containers and container managers leads to a better decoupling of responsibilities and thus to a more effective organization
+* Know the difference between conventional deployment and that with containers
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

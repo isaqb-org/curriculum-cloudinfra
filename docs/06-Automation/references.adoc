@@ -1,7 +1,5 @@
 === {references}
 
-<<bass>>, <<clements>>
-
 // tag::REMARK[]
 [NOTE]
 ====

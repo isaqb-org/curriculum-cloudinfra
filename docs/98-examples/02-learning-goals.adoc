@@ -2,22 +2,16 @@
 
 // tag::DE[]
 [[LZ-98-1]]
-==== LZ 98-1: Dies ist das letzte Lernziel des Lehrplans
-Hier wird ein mögliches Lernziel der Beispiele beschrieben, was Teilnehmer:innen lernen sollen.
-Das kann in Prosa-Text in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen.
-Dabei kann auch unterschieden werden, wie wichtig einzelne Aspekte des Lernziels sind.
-Es kann hier bereits auf Literatur verwiesen werden.
-
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+==== LZ 98-1: Vertiefung
+Die Case Study soll die Themen durch praktische Übungen vertiefen und die Praxis verdeutlichen
 
 // end::DE[]
 
 
 // tag::EN[]
 [[LG-98-1]]
-==== LG 98-1: Last learning goal of the curriculum
+==== LG 98-1: In-depth
+The Case Study is intended to deepen the topics through practical exercises and to clarify the practice
 // end::EN[]
 
 

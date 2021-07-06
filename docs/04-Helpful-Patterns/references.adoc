@@ -1,7 +1,5 @@
 === {references}
 
-<<hargis>>, <<starke>>
-
 
 // tag::REMARK[]
 [NOTE]

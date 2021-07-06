@@ -1,0 +1,38 @@
+// tag::DE[]
+|===
+| Dauer: 240 Min. | Übungszeit: 30 Min.
+|===
+
+=== Begriffe und Konzepte
+"Applications adopting the principles of Microservices, packaged and delivered as Containers, orchestrated by Platforms, running on top of Cloud infrastructure".
+
+NFRs to the Platform, Cloud Native Storage, Overlay Networking, Network Policies, Container Security, Container Linux.
+
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 240 min | Practice time: 30 min
+|===
+
+=== Terms and Principles
+"Applications adopting the principles of Microservices, packaged and delivered as Containers, orchestrated by Platforms, running on top of Cloud infrastructure".
+
+NFRs to the Platform, Cloud Native Storage, Overlay Networking, Network Policies, Container Security, Container Linux.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Überschrift in 00-structure.adoc ersetzen
+====
+// end::REMARK[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
+====
+// end::REMARK[]

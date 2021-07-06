@@ -1,9 +1,5 @@
 === {references}
 
-<<kruchten>>
-
-
-
 // tag::REMARK[]
 [NOTE]
 ====

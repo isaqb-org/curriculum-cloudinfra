@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Der Titel des dritten Moduls
+== Cloud Native Journey
 // end::DE[]
 
 // tag::EN[]
-== The Third Module's Title
+== Cloud Native Journey
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

@@ -1,21 +1,20 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 120 Min. | Übungszeit: 20 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
-
+Provisionierung, Infrastructure as Code, Configuration
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 20 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Provisioning, Infrastructure as Code, Configuration
 
 // end::EN[]
 

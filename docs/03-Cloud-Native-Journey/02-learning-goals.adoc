@@ -1,0 +1,96 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-3-1]]
+==== LZ 3-1: Cloud Native Konzept
+verstehen die Vorteile des Cloud Native Konzepts, insbesondere durch einheitliche...:
+
+* Schnittstellen zur Administration und Konfiguration
+* Ressourcen-Abstraktion
+* Lieferartefakte
+* Isolation der Applikation u. a. bezüglich des Hostsystems
+
+[[LZ-3-2]]
+==== LZ 3-2: Container Manager
+* verstehen die Abstraktionskonzepte aktueller Container-Manager und kennen Pattern und Best Practices, wie die Erfüllung nichtfunktionaler Anforderungen (NFR) auf sie übertragen werden kann. Zum Beispiel:
+** Finite Workloads wie (Cron-) Jobs
+** Health Check und Self Healing
+** Skalierung und Load Balancing
+** Placement
+* kennen die Prinzipien eines Overlay-Networks (VLAN) für Container und Container-Manager und verstehen, wie man verschiedene Services oder Systeme isolieren kann. Z. B. Realisierung einer verteilten Firewall zur Isolation von:
+** verschiedenen Mandanten
+** Testsystemen im Rahmen einer CI/CD
+
+[[LZ-3-3]]
+==== LZ 3-3: Container
+verstehen die Linux-Kernel-Isolationsmechanismen, die bei Containern Anwendung finden (Container Security), u. a.:
+
+* Capabilities
+* Privilegierte Container
+* AppArmor
+
+[[LZ-3-4]]
+==== LZ 3-4: Container Linux
+verstehen, wie aktuelle Core/Container-Linux-Distributionen auf den Betrieb von Containern optimiert sind, welche Vorteile sie bieten (u. a. bzgl. Kernel- und Distributionsupdates) und welche Folgen das für die betriebenen Applikationen hat
+
+[[LZ-3-5]]
+==== LZ 3-5: Peristenz
+verstehen die verschiedenen Wege um Daten zu persistieren:
+
+* verstehen den Unterschied von Object- und Block-Storage
+* können die verschiedenen Storage-Dienste der Cloud-Anbieter, unterschiedliche COTS-Produkte und selbstverwaltete Lösungen für unterschiedliche Einsatzszenarien klassifizieren
+* verstehen die Vor- und Nachteile einer Cloud-Native-Storage-Lösung
+* verstehen die höherwertigen Managed Services (wie etwa RDBMS) der CloudAnbieter mit der Verwendung selbstverwalteter Lösungen zu vergleichen
+* kennen verschiedene Konzepte, um Backup und Restore zu realisieren
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: Cloud Native Concept
+Understand the benefits of the Cloud Native concept, particularly through unified...:
+
+* Interfaces for administration and configuration
+* Resource abstraction
+* Delivery artifacts
+* Isolation of the application, with respects to the host, etc.
+
+[[LG-3-2]]
+==== LG 3-2: Container Manager
+* Understand the abstraction concepts of current container managers and know patterns and best practices for how to apply non-functional requirements (NFR) fulfillment to them. For example:
+** Finite workloads such as (cron) jobs
+** Health Check and Self Healing
+** Scaling and Load Balancing
+** Placement
+* Know the principles of an overlay network (VLAN) for containers and container managers and understand how to isolate different services or systems. E.g., implement a distributed firewall to isolate:
+** different clients
+** test systems in the context of a CI/CD
+
+[[LG-3-3]]
+==== LG 3-3: Container
+Understand the Linux kernel isolation mechanisms that apply to containers (container security), including:
+
+* Capabilities
+* Privileged Containers
+* AppArmor
+
+[[LG-3-4]]
+==== LG 3-4: Container Linux
+understand how current core/container Linux distributions are optimized for running containers, what advantages they offer (including kernel and distribution updates), and what the consequences are for the applications they run.
+
+[[LG-3-5]]
+==== LG 3-5: Persistence
+understand the different ways to persist data:
+
+* understand the difference between object and block storage
+* can classify the different cloud vendor storage services, different COTS products, and self-managed solutions for different deployment scenarios
+* understand the advantages and disadvantages of a cloud-native storage solution
+* understand the higher-end managed services (such as RDBMS) offered by cloud providers versus using self-managed solutions
+* know different concepts to implement backup and restore
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

@@ -1,0 +1,45 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-2-1]]
+==== LZ 2-1: Modularisierung und Kommunikation
+* verstehen die Ansätze moderner Architekturen (speziell Microservices, Self-contained Systems) und die Gründe, die zu diesen Lösungen führen
+* verstehen die unterschiedlichen Möglichkeiten der Kommunikation bzw. des Datenaustauschs der Services untereinander, zum Beispiel:
+** Event Sourcing
+** Messaging Middleware
+** RSS-Feeds
+* kennen die Auswirkungen einer Shared-Something/Nothing-Architektur, die insbesondere durch eine Skalierung über Container entsteht
+
+[[LZ-2-2]]
+==== LZ 2-2: Modularisierung und Integration
+verstehen, wie man mehrere Services über unterschiedliche Wege zu einer Applikation integrieren kann, zum Beispiel durch Integration über:
+
+* Backend (Message-Bus, Datenbank, etc.)
+* Frontend (UI-Integration)
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-1]]
+==== LG 2-1: Modularization and Communication
+* understand the approaches of modern architectures (especially microservices, self-contained systems) and the reasons that lead to these solutions
+* understand the different ways in which services communicate or exchange data with each other, for example:
+** event sourcing
+** messaging middleware
+** RSS feeds
+* understand the implications of a shared-something/nothing architecture, particularly as a result of scaling via containers
+
+[[LG-2-2]]
+==== LG 2-2: Modularization and Integration
+Understand how to integrate multiple services into one application using different paths, for example, integration via:
+
+* backend (message bus, database, etc.)
+* front-end (UI integration)
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]
