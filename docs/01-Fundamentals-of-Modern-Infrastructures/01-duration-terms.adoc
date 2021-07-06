@@ -1,0 +1,35 @@
+// tag::DE[]
+|===
+| Dauer: 120 Min. | Übungszeit: 0 Min.
+|===
+
+=== Begriffe und Konzepte
+
+IaaS, SaaS, PaaS, CaaS, FaaS etc. Infrastructure as Code, Umsetzung moderner Microservice-Architekturen, verteilte Anwendungen, Container, Container-Manager, Cloud-Anbieter, Bare Metal, Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations, Private/Public Cloud, Networking, Applikations-Orientierung.
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 120 min | Practice time: 0 min
+|===
+
+=== Terms and Principles
+
+IaaS, SaaS, PaaS, CaaS, FaaS etc. Infrastructure as Code, implementation of modern microservice architectures, distributed applications, containers, container managers, cloud providers, bare metal, time-to-market, availability, scaling, performance, IOPS, decoupling operations, private/public cloud, networking, application orientation.
+// end::EN[]
+
+
+// tag::REMARK[]
+[NOTE]
+====
+Überschrift in 00-structure.adoc ersetzen
+====
+// end::REMARK[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
+====
+// end::REMARK[]

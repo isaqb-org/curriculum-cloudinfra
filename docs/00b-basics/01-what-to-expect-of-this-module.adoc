@@ -1,15 +1,24 @@
 // tag::DE[]
 === Was vermittelt das Modul „{curriculum-short}“?
 
-Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-name} als …
-Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
+Microservices, Container und Container-Manager haben die Art und Weise wie wir Software konzipieren, entwickeln und in Produktion bringen in den letzten Jahren stark verändert. Moderne Applikationen müssen in einem Cluster von mehreren Knoten funktionieren, dynamisch platzierbar, skalierbar und fehlertolerant sein.
+
+Die Teilnehmer lernen hier Wege zur Realisierung dynamischer Cloud-Native-Architekturen, Container
+Application Design, Logging/Monitoring/Alerting, Container Native Storage und Möglichkeiten zur UIIntegration. Ebenso werden typische Konzepte aktueller Container-Manager aufgezeigt und vermittelt, wie sich damit für größere Webanwendungen gängige Qualitätsanforderungen realisieren lassen.
+Zusätzlich werden gängige Cloud-Anbieter klassifiziert, Möglichkeiten zur Automatisierung aufgezeigt, Ansätze der Softwareentwicklung und des Application Lifecycle besprochen.
+
+Bei {curriculum-short} stehen betriebliche Aspekte im Vordergrund. Die im Modul FLEX detaillierten Konzepte zu Entwurf und Umsetzung von Architekturen werden, wo zum Verständnis notwendig ist, übersichtsweise erläutert.
 // end::DE[]
 
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+Microservices, containers, and container managers have greatly changed the way we design, develop, and put software into production in recent years. Modern applications must operate in a cluster of multiple nodes, be dynamically placeable, scalable and fault tolerant.
+
+Participants will learn ways to implement dynamic cloud-native architectures, Container Application Design, Logging/Monitoring/Alerting, Container Native Storage and possibilities for UI integration. Likewise, typical concepts of current container managers will be shown and how they can be used to realize common quality requirements for larger web applications.
+Additionally, common cloud providers will be classified, possibilities for automation will be shown, software development approaches and application lifecycle will be discussed.
+
+In {curriculum-short}, the focus is on operational aspects. The concepts of design and implementation of architectures detailed in the FLEX module are explained in overview where necessary for understanding.
 // end::EN[]
 
 // tag::REMARK[]

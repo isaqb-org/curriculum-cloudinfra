@@ -1,22 +1,24 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 120 Min. | Übungszeit: 20 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Self-contained Systems, Microservices, Independent Systems Architecture, Integrationskonzepte,
+CQRS, Event Sourcing.
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 20 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
-// end::EN[]
+Self-contained Systems, Microservices, independent systems architecture, integration concepts,
+CQRS, Event Sourcing.
 
+// end::EN[]
 
 // tag::REMARK[]
 [NOTE]

@@ -3,15 +3,16 @@
 
 [cols="<,>", options="header"]
 |===
-| Inhalt | Empfohlene Mindestdauer (min)
-| 1. Thema mit Einleitung | 180
-| 2. Thema über xz | 150
-| 3. Thema mit viel Theorie | 120
-| 4. Thema mit xy und Beispiel | 180
-| 5. Thema mit abc und d | 210
-| 6. Thema mit Abschlussbeispiel | 120
+| Inhalt | Empfohlene Mindestdauer (Stunden)
+| 1. Grundlagen moderner Infrastrukturen | 2
+| 2. Gängige Architekturkonzepte | 2
+| 3. Cloud Native Journey | 4
+| 4. Hilfreiche Muster (Pattern) | 4
+| 5. Development, CI/CD und Betrieb | 4
+| 6. Automatisierung | 2
+| 7. Case Study | 2
 | |
-| Summe | 960 (16h)
+| Summe | 20 Stunden
 
 |===
 
@@ -23,15 +24,16 @@
 [cols="<,>", options="header"]
 |===
 | Content
-| Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
+| Recommended minimum duration (hours)
+| 1. Fundamentals of Modern Infrastructures | 2
+| 2. Common Architecture Concepts | 2
+| 3. Cloud Native Journey | 4
+| 4. Helpful Pattern | 4
+| 5. Development, CI/CD and Operation | 4
+| 6. Automation | 2
+| 7. Case Study | 2
 | |
-| Total | 960 (16h)
+| Total | 20h
 
 |===
 

@@ -1,21 +1,21 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 240 Min. | Übungszeit: 20 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Resilience Pattern, Container Application Design, Container Pattern, Service Mesh
 
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 240 min | Practice time: 20 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Resilience Pattern, Container Application Design, Container Pattern, Service Mesh
 // end::EN[]
 
 // tag::REMARK[]

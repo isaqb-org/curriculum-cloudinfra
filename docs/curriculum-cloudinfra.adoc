@@ -44,19 +44,22 @@ include::00b-basics/00-basics.adoc[{include_configuration}]
 
 <<<
 :sectnums:
-include::01-module-block-1/00-structure.adoc[{include_configuration}]
+include::01-Fundamentals-of-Modern-Infrastructures/00-structure.adoc[{include_configuration}]
 
 <<<
-include::02-module-block-2/00-structure.adoc[{include_configuration}]
+include::02-Common-Architecture-Concepts/00-structure.adoc[{include_configuration}]
 
 <<<
-include::03-module-block-3/00-structure.adoc[{include_configuration}]
+include::03-Cloud-Native-Journey/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-module-block-4/00-structure.adoc[{include_configuration}]
+include::04-Helpful-Patterns/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-module-block-5/00-structure.adoc[{include_configuration}]
+include::05-Development-CICD-and-Operation/00-structure.adoc[{include_configuration}]
+
+<<<
+include::06-Automation/00-structure.adoc[{include_configuration}]
 
 <<<
 include::98-examples/00-examples.adoc[{include_configuration}]
