@@ -12,8 +12,8 @@ ifdef::env-github[]
 endif::[]
 
 == Status 
-image:https://github.com/isaqb-org/curriculum-cloudinfra/workflows/CI/badge.svg?branch=master["CI"]
-image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-cloudinfra/master.svg["Last commit"]
+image:https://github.com/isaqb-org/curriculum-cloudinfra/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-cloudinfra/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-cloudinfra.svg["Contributors",link="https://github.com/isaqb-org/curriculum-cloudinfra/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-cloudinfra.svg["Issues",link="https://github.com/isaqb-org/curriculum-cloudinfra/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-cloudinfra.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-cloudinfra/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
