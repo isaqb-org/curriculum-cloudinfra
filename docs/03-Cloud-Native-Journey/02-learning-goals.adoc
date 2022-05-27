@@ -34,7 +34,7 @@ verstehen die Linux-Kernel-Isolationsmechanismen, die bei Containern Anwendung f
 verstehen, wie aktuelle Core/Container-Linux-Distributionen auf den Betrieb von Containern optimiert sind, welche Vorteile sie bieten (u. a. bzgl. Kernel- und Distributionsupdates) und welche Folgen das für die betriebenen Applikationen hat
 
 [[LZ-3-5]]
-==== LZ 3-5: Peristenz
+==== LZ 3-5: Persistenz
 verstehen die verschiedenen Wege um Daten zu persistieren:
 
 * verstehen den Unterschied von Object- und Block-Storage
