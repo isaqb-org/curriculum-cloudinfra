@@ -20,11 +20,3 @@ Additionally, common cloud providers will be classified, possibilities for autom
 
 In {curriculum-short}, the focus is on operational aspects. The concepts of design and implementation of architectures detailed in the FLEX module are explained in overview where necessary for understanding.
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Hier bitte das Modul bzw. dessen Lerninhalte zusammenfassend in 5-8 Sätzen beschreiben. Dabei `{curriculum-name}`
-nicht entfernen, beim Zusammenbauen wird dieser Platzhalter mit dem Modulnamen ersetzt.
-====
-// end::REMARK[]

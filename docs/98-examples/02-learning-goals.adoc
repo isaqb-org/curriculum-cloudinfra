@@ -14,11 +14,3 @@ Die Case Study soll die Themen durch praktische Übungen vertiefen und die Praxi
 The Case Study is intended to deepen the topics through practical exercises and to clarify the practice
 // end::EN[]
 
-
-// tag::REMARK[]
-
-[NOTE]
-====
-KURZE ERKLÄRUNG ZU DEN ZIELEN DIESER LERNEINHEIT
-====
-// end::REMARK[]
