@@ -5,7 +5,7 @@
 
 === Begriffe und Konzepte
 Self-contained Systems, Microservices, Independent Systems Architecture, Integrationskonzepte,
-CQRS, Event Sourcing.
+CQRS, Event Sourcing, Eventual Consistency.
 
 // end::DE[]
 
@@ -16,7 +16,7 @@ CQRS, Event Sourcing.
 
 === Terms and Principles
 Self-contained Systems, Microservices, independent systems architecture, integration concepts,
-CQRS, Event Sourcing.
+CQRS, Event Sourcing, Eventual Consistency.
 
 // end::EN[]
 
