@@ -4,17 +4,18 @@
 // tag::DE[]
 [[LZ-5-1]]
 ==== LZ 5-1: Projekte in oder mit der Cloud
-* kennen verschiedene Vorgehensweisen, um Projekte in oder mit der Cloud  durchzuführen. Zum Beispiel:
+* kennen verschiedene Vorgehensweisen, um Projekte in oder mit der Cloud durchzuführen. Zum Beispiel:
 ** Organisatorische Best Practices
 ** Development- und CI/CD-Umgebungen
 * kennen Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:
 ** Versionierung von Containern und Deployment-Spezifikationen etc.
-** Etablierte Formen der Bereitstellung von Anwendungen
+** Etablierte Formen der Bereitstellung von Anwendungen, wie z. B.:
+*** Rolling Deployment
+*** Canary Deployment
+*** Blue/Green Deployment
 * lernen Komponenten und Vorgehensmodelle kennen, um einen schnellen Test- und Deployment-Prozess zu realisieren. Insbesondere Konzepte zum Dev/Test/Prod Cluster wie:
 ** Verantwortlichkeiten und Zugriffskontrolle
 ** Best Practices zur Komponentengruppierung
-** Tests und Testbarkeit
-* kennen Anforderungen an Backup und Restore
 
 [[LZ-5-2]]
 ==== LZ 5-2: Beobachtbarkeit
