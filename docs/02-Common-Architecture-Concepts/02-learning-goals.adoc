@@ -38,8 +38,7 @@ They understand the different possibilities of decoupled communication and data 
 * Messaging Middleware
 * HTTP feeds
 
-Software architects understand the implications of a shared-something/nothing architecture, especially when scaling via containers.
-
+Software architects understand the implications of a shared-something/nothing architecture, particularly as a result of scaling via containers.
 
 [[LG-2-2]]
 ==== LG 2-2: Understand Modularization and Integration Options
