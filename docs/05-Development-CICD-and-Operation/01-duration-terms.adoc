@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Development Environment, Application Lifecycle Management, Canary Releases, Blue Green Deployment, Backup und Restore, Logging, Monitoring, Alerting, Distributed Tracing
+Development Environment, Application Lifecycle Management, Formen des Deployments, Backup und Restore, Logging, Monitoring, Alerting, Distributed Tracing, Mean Time To Recovery (MTTR)
 
 // end::DE[]
 
