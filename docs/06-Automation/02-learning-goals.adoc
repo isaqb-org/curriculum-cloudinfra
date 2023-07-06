@@ -25,11 +25,19 @@
 ==== LZ 6-4: Abstraktionsebenen von Container-Managern
 * kennen weitere Abstraktionsebenen von Container-Managern und können sie unterscheiden.
 * kennen die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
+
+[[LZ-6-5]]
+==== LZ 6-5: Berechnungen
+können u. a. folgende Berechnungen überschlägig durchführen:
+
+* Verfügbarkeit
+* Größe eines Clusters
+
 // end::DE[]
 
 // tag::EN[]
-[[LG-5-1]]
-==== LG 5-1: Infrastructure as Code
+[[LG-6-1]]
+==== LG 6-1: Infrastructure as Code
 * Learn about and distinguish between automation options for predictably creating, modifying, and improving infrastructure, including:
 ** Ansible
 ** Chef
@@ -37,13 +45,17 @@
 * Know best practices to manage different configurations of infrastructure
 * learn about and use the API of different cloud providers
 
-[[LG-5-2]]
-==== LG 5-2: Container Management Platforms
+[[LG-6-2]]
+==== LG 6-2: Container Management Platforms
 learn complete container management platforms and tools for administration, such as:
 
 * Rancher
 * Tectonic, Kops or Kubeadm
 * OpenShift
+
+[[LZ-6-5]]
+==== LZ 6-5: Berechnungen
+können u. a. folgende Berechnungen überschlägig durchführen:
 // end::EN[]
 
 
