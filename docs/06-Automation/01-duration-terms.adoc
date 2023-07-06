@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 120 Min. | Übungszeit: 20 Min.
+| Dauer: 180 Min. | Übungszeit: 20 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ DevOps, DevSecOps, Site Reliability Engineering (SRE), Konfiguration, Provisioni
 
 // tag::EN[]
 |===
-| Duration: 120 min | Practice time: 20 min
+| Duration: 180 min | Practice time: 20 min
 |===
 
 === Terms and Principles
