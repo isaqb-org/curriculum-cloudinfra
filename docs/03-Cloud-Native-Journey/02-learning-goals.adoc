@@ -14,9 +14,9 @@ Softwarearchitekt:innen verstehen die Vorteile des Cloud Native Konzepts, insbes
 [[LZ-3-2]]
 ==== LZ 3-2: Grundlegende Container Konzepte verstehen
 
-* verstehen die technischen Grundlagen und den Mehrwert von Containern
-* verstehen, wie die Verwendung von Containern zu einer besseren Entkopplung von Verantwortlichkeiten und damit zu einer effektiveren Organisation führt
-* kennen den Unterschied zwischen konventionellem Deployment und dem mit Containern
+Softwarearchitekt:innen verstehen die technischen Grundlagen und den Mehrwert von Containern und kennen den Unterschied zwischen konventionellem Deployment und dem mit Containern.
+
+Sie verstehen, wie die Verwendung von Containern zu einer besseren Entkopplung von Verantwortlichkeiten und damit zu einer effektiveren Organisation führt.
 
 Softwarearchitekt:innen verstehen Linux-Kernel-Isolationsmechanismen, die bei Containern Anwendung finden (Container Security), u. a.:
 
@@ -40,13 +40,13 @@ Softwarearchitekt:innen kennen die Prinzipien eines Overlay-Networks (VLAN) für
 * Mehreren Mandanten
 * Testsystemen im Rahmen von CI/CD
 
-[[LZ-3-5]]
-==== LZ 3-5: Vorteile spezialisierter Linux-Distributionen für Container verstehen
+[[LZ-3-4]]
+==== LZ 3-4: Vorteile spezialisierter Linux-Distributionen für Container verstehen
 
 Softwarearchitekt:innen verstehen, wie aktuelle Core/Container-Linux-Distributionen auf den Betrieb von Containern optimiert sind, welche Vorteile sie bieten (u. a. bzgl. Kernel- und Distributionsupdates) und welche Folgen das für die betriebenen Applikationen hat.
 
-[[LZ-3-6]]
-==== LZ 3-6: Persistenz in Cloud-Umgebungen verstehen
+[[LZ-3-5]]
+==== LZ 3-5: Persistenz in Cloud-Umgebungen verstehen
 
 Softwarearchitekt:innen kennen die verschiedenen Wege um Daten zu persistieren.
 
@@ -69,8 +69,18 @@ Software Architects understand the benefits of the Cloud Native concept, especia
 * Isolation of the application with respect to the host system, etc.
 
 [[LZ-3-2]]
-==== LZ 3-2: Grundlagen von Containern [de]
-tbd
+==== LZ 3-2: Understand basic container concepts
+
+Software architects understand the technical basics and the added value of containers and know the difference between conventional deployment and deployment with containers.
+
+They understand how the use of containers leads to a better decoupling of responsibilities and thus to a more effective organization.
+
+Software architects understand Linux kernel isolation mechanisms that apply to containers (container security), including:
+
+* Namespaces and cgroups
+* Capabilities
+
+They also understand the implications, usage scenarios, and threats of privileged containers.
 
 [[LG-3-3]]
 ==== LG 3-3: Understand Container Manager Abstraction Concepts
@@ -88,22 +98,12 @@ Software architects know the principles of an overlay network (VLAN) for contain
 * Test systems in the context of CI/CD
 
 [[LG-3-4]]
-==== LG 3-4: Understand basic container concepts
-
-Software architects understand Linux kernel isolation mechanisms that apply to containers (container security), including:
-
-* Namespaces and cgroups
-* Capabilities
-
-They also understand the implications, usage scenarios, and threats of privileged containers.
-
-[[LG-3-5]]
-==== LG 3-5: Understand advantages of specialized Linux distributions for containers
+==== LG 3-4: Understand advantages of specialized Linux distributions for containers
 
 Software architects understand how current core/container Linux distributions are optimized for container operation, what advantages they offer (including kernel and distribution updates), and what consequences this has for the applications they run.
 
-[[LG-3-6]]
-==== LG 3-6: Understand Persistence in Cloud Environments
+[[LG-3-5]]
+==== LG 3-5: Understand Persistence in Cloud Environments
 
 Software architects know the different ways to persist data.
 
