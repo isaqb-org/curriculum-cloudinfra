@@ -19,7 +19,7 @@
 
 [[LZ-5-2]]
 ==== LZ 5-2: Beobachtbarkeit
-* lernen, wie die für eine verteilte Anwendung essentielle Beobachtbarkeit sichergestellt werden kann
+* kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:
 ** Logging
 ** Monitoring/Metriken und Alerting
 ** Distributed Tracing
