@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Provisionierung, Infrastructure as Code, Configuration
+DevOps, DevSecOps, Site Reliability Engineering (SRE), Konfiguration, Provisionierung, Infrastructure as Code, Cloud Provider APIs
 
 // end::DE[]
 
