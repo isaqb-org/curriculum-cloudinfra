@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 240 Min. | Übungszeit: 20 Min.
+| Dauer: 180 Min. | Übungszeit: 20 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Development Environment, Application Lifecycle Management, Formen von Deployment
 
 // tag::EN[]
 |===
-| Duration: 240 min | Practice time: 20 min
+| Duration: 180 min | Practice time: 20 min
 |===
 
 === Terms and Principles
