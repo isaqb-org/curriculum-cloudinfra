@@ -7,7 +7,7 @@
 | 1. Grundlagen moderner Infrastrukturen | 120
 | 2. Gängige Architekturkonzepte | 120
 | 3. Cloud Native Journey | 240
-| 4. Muster für verteilte Applikationen und Cloud-Architekturen | 240
+| 4. Muster für verteilte Anwendungen und Cloud-Architektur | 240
 | 5. Development und CI/CD | 180
 | 6. Automatisierung und Betrieb | 180
 | 7. Case Study | 120
