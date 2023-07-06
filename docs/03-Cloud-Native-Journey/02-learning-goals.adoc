@@ -12,10 +12,18 @@ Softwarearchitekt:innen verstehen die Vorteile des Cloud Native Konzepts, insbes
 * Isolation der Applikation u. a. bezüglich des Hostsystems
 
 [[LZ-3-2]]
-==== LZ 3-2: Grundlagen von Containern
+==== LZ 3-2: Grundlegende Container Konzepte verstehen
+
 * verstehen die technischen Grundlagen und den Mehrwert von Containern
 * verstehen, wie die Verwendung von Containern zu einer besseren Entkopplung von Verantwortlichkeiten und damit zu einer effektiveren Organisation führt
 * kennen den Unterschied zwischen konventionellem Deployment und dem mit Containern
+
+Softwarearchitekt:innen verstehen Linux-Kernel-Isolationsmechanismen, die bei Containern Anwendung finden (Container Security), u. a.:
+
+* Namespaces und cgroups
+* Capabilities
+
+Sie kennen ausserdem die Auswirkungen, Nutzungszenarien und Gefahren privilegierter Container.
 
 [[LZ-3-3]]
 ==== LZ 3-3: Abstraktionskonzepte von Container Managern verstehen
@@ -31,16 +39,6 @@ Softwarearchitekt:innen kennen die Prinzipien eines Overlay-Networks (VLAN) für
 
 * Mehreren Mandanten
 * Testsystemen im Rahmen von CI/CD
-
-[[LZ-3-4]]
-==== LZ 3-4: Grundlegende Container Konzepte verstehen
-
-Softwarearchitekt:innen verstehen Linux-Kernel-Isolationsmechanismen, die bei Containern Anwendung finden (Container Security), u. a.:
-
-* Namespaces und cgroups
-* Capabilities
-
-Sie kennen ausserdem die Auswirkungen, Nutzungszenarien und Gefahren privilegierter Container.
 
 [[LZ-3-5]]
 ==== LZ 3-5: Vorteile spezialisierter Linux-Distributionen für Container verstehen
