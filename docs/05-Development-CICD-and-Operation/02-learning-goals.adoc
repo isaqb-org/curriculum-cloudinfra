@@ -25,12 +25,6 @@
 ** Distributed Tracing
 * lernen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts kennen
 
-[[LZ-5-3]]
-==== LZ 5-3: Berechnungen
-können u. a. folgende Berechnungen überschlägig durchführen:
-
-* Verfügbarkeit
-* Größe eines Clusters
 // end::DE[]
 
 // tag::EN[]
@@ -54,13 +48,6 @@ können u. a. folgende Berechnungen überschlägig durchführen:
 ** Monitoring/metrics and alerting
 ** Distributed Tracing
 * learn ways and responsibilities to create time series queries for alerts that are as predictive of errors as possible.
-
-[[LG-5-3]]
-==== LG 5-3: Calculations
-can perform the following calculations, among others, on a approximate basis:
-
-* Availability
-* Size of a cluster
 
 // end::EN[]
 
