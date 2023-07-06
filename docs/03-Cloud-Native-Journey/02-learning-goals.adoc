@@ -12,7 +12,13 @@ Softwarearchitekt:innen verstehen die Vorteile des Cloud Native Konzepts, insbes
 * Isolation der Applikation u. a. bezüglich des Hostsystems
 
 [[LZ-3-2]]
-==== LZ 3-2: Abstraktionskonzepte von Container Managern verstehen
+==== LZ 3-2: Grundlagen von Containern
+* verstehen die technischen Grundlagen und den Mehrwert von Containern
+* verstehen, wie die Verwendung von Containern zu einer besseren Entkopplung von Verantwortlichkeiten und damit zu einer effektiveren Organisation führt
+* kennen den Unterschied zwischen konventionellem Deployment und dem mit Containern
+
+[[LZ-3-3]]
+==== LZ 3-3: Abstraktionskonzepte von Container Managern verstehen
 
 Softwarearchitekt:innen verstehen die Abstraktionskonzepte aktueller Container-Manager und kennen Muster und Best Practices, wie die Erfüllung nichtfunktionaler Anforderungen (NFR) auf sie übertragen werden kann. Zum Beispiel:
 
@@ -26,8 +32,8 @@ Softwarearchitekt:innen kennen die Prinzipien eines Overlay-Networks (VLAN) für
 * Mehreren Mandanten
 * Testsystemen im Rahmen von CI/CD
 
-[[LZ-3-3]]
-==== LZ 3-3: Grundlegende Container Konzepte verstehen
+[[LZ-3-4]]
+==== LZ 3-4: Grundlegende Container Konzepte verstehen
 
 Softwarearchitekt:innen verstehen Linux-Kernel-Isolationsmechanismen, die bei Containern Anwendung finden (Container Security), u. a.:
 
@@ -36,13 +42,13 @@ Softwarearchitekt:innen verstehen Linux-Kernel-Isolationsmechanismen, die bei Co
 
 Sie kennen ausserdem die Auswirkungen, Nutzungszenarien und Gefahren privilegierter Container.
 
-[[LZ-3-4]]
-==== LZ 3-4: Vorteile spezialisierter Linux-Distributionen für Container verstehen
+[[LZ-3-5]]
+==== LZ 3-5: Vorteile spezialisierter Linux-Distributionen für Container verstehen
 
 Softwarearchitekt:innen verstehen, wie aktuelle Core/Container-Linux-Distributionen auf den Betrieb von Containern optimiert sind, welche Vorteile sie bieten (u. a. bzgl. Kernel- und Distributionsupdates) und welche Folgen das für die betriebenen Applikationen hat.
 
-[[LZ-3-5]]
-==== LZ 3-5: Persistenz in Cloud-Umgebungen verstehen
+[[LZ-3-6]]
+==== LZ 3-6: Persistenz in Cloud-Umgebungen verstehen
 
 Softwarearchitekt:innen kennen die verschiedenen Wege um Daten zu persistieren.
 
@@ -64,8 +70,12 @@ Software Architects understand the benefits of the Cloud Native concept, especia
 * Delivery artifacts
 * Isolation of the application with respect to the host system, etc.
 
-[[LG-3-2]]
-==== LG 3-2: Understand Container Manager Abstraction Concepts
+[[LZ-3-2]]
+==== LZ 3-2: Grundlagen von Containern [de]
+tbd
+
+[[LG-3-3]]
+==== LG 3-3: Understand Container Manager Abstraction Concepts
 
 Software architects understand the abstraction concepts of current container managers and know patterns and best practices on how to apply non-functional requirements (NFR) fulfillment to them. For example:
 
@@ -79,8 +89,8 @@ Software architects know the principles of an overlay network (VLAN) for contain
 * Multiple tenants
 * Test systems in the context of CI/CD
 
-[[LG-3-3]]
-==== LG 3-3: Understand basic container concepts
+[[LG-3-4]]
+==== LG 3-4: Understand basic container concepts
 
 Software architects understand Linux kernel isolation mechanisms that apply to containers (container security), including:
 
@@ -89,13 +99,13 @@ Software architects understand Linux kernel isolation mechanisms that apply to c
 
 They also understand the implications, usage scenarios, and threats of privileged containers.
 
-[[LG-3-4]]
-==== LG 3-4: Understand advantages of specialized Linux distributions for containers
+[[LG-3-5]]
+==== LG 3-5: Understand advantages of specialized Linux distributions for containers
 
 Software architects understand how current core/container Linux distributions are optimized for container operation, what advantages they offer (including kernel and distribution updates), and what consequences this has for the applications they run.
 
-[[LG-3-5]]
-==== LG 3-5: Understand Persistence in Cloud Environments
+[[LG-3-6]]
+==== LG 3-6: Understand Persistence in Cloud Environments
 
 Software architects know the different ways to persist data.
 
