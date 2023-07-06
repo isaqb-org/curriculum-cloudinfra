@@ -22,10 +22,9 @@
 * kennen Unterschied zwischen Konfiguration und Provisionierung
 
 [[LZ-6-4]]
-==== LZ 6-4: Container-Management-Plattformen
-* lernen vollständige Container-Management-Plattformen und Tools zur Administration kennen und zu unterscheiden:
-** lernen Werkzeuge zum Container-Management kennen und zu unterscheiden
-* kennen Unterschiede der Container-Management-Plattformen
+==== LZ 6-4: Abstraktionsebenen von Container-Managern
+* kennen weitere Abstraktionsebenen von Container-Managern und können sie unterscheiden.
+* kennen die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
 // end::DE[]
 
 // tag::EN[]
