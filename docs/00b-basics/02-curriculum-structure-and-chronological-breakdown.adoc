@@ -8,8 +8,8 @@
 | 2. Gängige Architekturkonzepte | 2
 | 3. Cloud Native Journey | 4
 | 4. Hilfreiche Muster (Pattern) | 4
-| 5. Development, CI/CD und Betrieb | 4
-| 6. Automatisierung | 2
+| 5. Development und CI/CD | 4
+| 6. Automatisierung und Betrieb | 2
 | 7. Case Study | 2
 | |
 | Summe | 20 Stunden
@@ -29,8 +29,8 @@
 | 2. Common Architecture Concepts | 2
 | 3. Cloud Native Journey | 4
 | 4. Helpful Pattern | 4
-| 5. Development, CI/CD and Operation | 4
-| 6. Automation | 2
+| 5. Development and CI/CD | 4
+| 6. Automation and Operation | 2
 | 7. Case Study | 2
 | |
 | Total | 20h
