@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-DevOps, DevSecOps, Site Reliability Engineering (SRE), Konfiguration, Provisionierung, Infrastructure as Code, Cloud Provider APIs
+DevOps, DevSecOps, Site Reliability Engineering (SRE), Konfiguration, Provisionierung, Infrastructure as Code, Cloud Provider APIs, Container-Management-Plattformen
 
 // end::DE[]
 
