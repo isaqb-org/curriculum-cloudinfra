@@ -3,7 +3,8 @@
 // tag::DE[]
 [[LZ-1-1]]
 ==== LZ 1-1: Begriffe und Cloud Anbieter
-* wissen die unterschiedlichen *aaS Begriffe, Public/Private Cloud zu unterscheiden und können bestehende Angebote klassifizieren
+* kennen die Definition der Cloud
+* wissen die unterschiedlichen *aaS Begriffe, Cloud-Ausprägungen (Public, Private, etc.) zu unterscheiden und können bestehende Angebote klassifizieren
 * kennen und verstehen die Gründe für den Betrieb in der Cloud und können die Vor- und Nachteile einschätzen
 * verstehen, wie und in welchem Umfang bei gängigen Cloud-Anbietern VMs und Netzwerke eingerichtet und konfiguriert werden können
 * verstehen, dass der hohe mögliche Grad von Automatisierung bei der Provisionierung/Skalierung und die Verfügbarkeit von höherwertigen Diensten Hauptgründe für die Verwendung eines Cloud-Anbieters sind
@@ -11,6 +12,7 @@
 * lernen, dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind, wie auch die Performanz der VMs und die maximal möglichen IOPS
 * lernen, dass Moderne Architekturen und deren Anforderungen an die Verfügbarkeit die Verteilung der Applikation auf mehrere Maschinen und Rechenzentren verlangen
 * lernen, wie der reduzierte Umfang von notwendigen Hosting-Kompetenzen bei der Verwendung eines Cloud-Anbieters Risiko und Kosten reduziert
+* verstehen, dass organisatorische und/oder rechtliche Anforderungen die Wahl der Cloudform beeinflussen können
 
 [[LZ-1-2]]
 ==== LZ 1-2: Container und Container Manager
