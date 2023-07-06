@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Development Environment, Application Lifecycle Management, Arten des Cloud-Deployment, Backup und Restore, Logging, Monitoring, Alerting, Distributed Tracing
+Development Environment, Application Lifecycle Management, Formen des Deployments, Backup und Restore, Logging, Monitoring, Alerting, Distributed Tracing
 
 // end::DE[]
 
