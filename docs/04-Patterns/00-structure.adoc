@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Hilfreiche Patterns
+== Muster für verteilte Anwendungen und Cloud Native Architekturen
 // end::DE[]
 
 // tag::EN[]
-== Helpful Patterns
+== Patterns for Distributed Applications and Cloud Native Architectures
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

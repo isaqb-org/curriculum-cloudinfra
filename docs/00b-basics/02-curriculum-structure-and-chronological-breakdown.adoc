@@ -28,7 +28,7 @@
 | 1. Fundamentals of Modern Infrastructures | 120
 | 2. Common Architecture Concepts | 120
 | 3. Cloud Native Journey | 240
-| 4. Helpful Pattern | 240
+| 4. Patterns for Distributed Applications and Cloud Native Architectures | 240
 | 5. Development and CI/CD | 180
 | 6. Automation and Operation | 180
 | 7. Case Study | 120

@@ -47,7 +47,7 @@ include::02-Common-Architecture-Concepts/00-structure.adoc[{include_configuratio
 include::03-Cloud-Native-Journey/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-Helpful-Patterns/00-structure.adoc[{include_configuration}]
+include::04-Patterns/00-structure.adoc[{include_configuration}]
 
 <<<
 include::05-Development-CICD-and-Operation/00-structure.adoc[{include_configuration}]
