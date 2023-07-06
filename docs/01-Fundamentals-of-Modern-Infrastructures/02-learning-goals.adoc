@@ -2,40 +2,84 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Begriffe und Cloud Anbieter
-* wissen die unterschiedlichen *aaS Begriffe, Public/Private Cloud zu unterscheiden und können bestehende Angebote klassifizieren
-* kennen und verstehen die Gründe für den Betrieb in der Cloud und können die Vor- und Nachteile einschätzen
-* verstehen, wie und in welchem Umfang bei gängigen Cloud-Anbietern VMs und Netzwerke eingerichtet und konfiguriert werden können
-* verstehen, dass der hohe mögliche Grad von Automatisierung bei der Provisionierung/Skalierung und die Verfügbarkeit von höherwertigen Diensten Hauptgründe für die Verwendung eines Cloud-Anbieters sind
-* wissen, welcher Typ von Anbieter für welchen Einsatz am besten geeignet ist und wann dennoch der Einsatz von eigener Hardware (Bare Metal) sinnvoller sein kann
-* lernen, dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind, wie auch die Performanz der VMs und die maximal möglichen IOPS
-* lernen, dass Moderne Architekturen und deren Anforderungen an die Verfügbarkeit die Verteilung der Applikation auf mehrere Maschinen und Rechenzentren verlangen
-* lernen, wie der reduzierte Umfang von notwendigen Hosting-Kompetenzen bei der Verwendung eines Cloud-Anbieters Risiko und Kosten reduziert
+==== LZ 1-1: Cloud-Arten, Cloud-Muster und Cloud Migrationsmuster verstehen und unterscheiden
+
+Softwarearchitekt:innen kennen die gängigen Cloud-Begriffe und können verschiedene Arten wie Public, Private, Hybrid/Multi und On-Premise voneinander unterscheiden. 
+
+Sie verstehen Cloud-Muster und Cloud-Migrationsmuster, sowie deren Anwendung.
+
+Sie verstehen den Unterschied zwischen Cloud- und On-Premise-Betrieb sowie die Argumente für und gegen den Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
 
 [[LZ-1-2]]
-==== LZ 1-2: Container und Container Manager
-* verstehen die technischen Grundlagen und den Mehrwert von Containern und Container-Managern
-* verstehen, wie die Verwendung von Containern und Container-Manager zu einer besseren Entkopplung von Verantwortlichkeiten und damit zu einer effektiveren Organisation führt
-* kennen den Unterschied zwischen konventionellem Deployment und dem mit Containern
+==== LZ 1-2: Entscheidungskriterien für die Nutzung von managed Services und self-managed Services verstehen
+
+Softwarearchitekt:innen kennen unterschiedliche Cloud Service Modelle (*aaS) und können Services anhand dieser Modelle klassifizieren.
+
+Sie verstehen das Shared-Responsibility-Modell und dessen Relevanz für Kosten- und Risikobewertungen bei der Nutzung von managed Cloud Services.
+
+Sie kennen das Konzept des Vendor Lock-in und seine Relevanz für die Entscheidungsfindung zwischen managed und self-managed Services.
+
+[[LZ-1-3]]
+==== LZ 1-3: Compliance und organisatorische Aspekte bei der Cloud-Architektur berücksichtigen
+
+Softwarearchitekt:innen kennen die organisatorischen Aspekte der Cloud Migration und die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud, z. b.:
+
+* DSGVO (GDPR)
+* GoBD
+* ISO 27001
+* BSI IT-Grundschutz
+
+Sie verstehen, dass die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind und dass organisatorische und/oder rechtliche Anforderungen die Wahl der verwendeten Cloud-Art beeinflussen.
+
+[[LZ-1-4]]
+==== LZ 1-4: Verfügbarkeit, Skalierung und Performance als Anforderungsparameter beim Cloud-Architektur-Design anwenden
+
+Softwarearchitekt:innen kennen die Auswirkungen der Cloud auf Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations und Networking.
+
+Sie können einschätzen, wann Cloud-Anwendungen eine Verteilung über mehrere Verfügbarkeitszonen und Rechenzentren erfordern.
+
+Sie kennen die Leistungsanforderungen an die Infrastruktur und die Limitierungen der Public Cloud, wie z.B. IOPS für Speicher.
 // end::DE[]
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: Terms and Cloud Provider
-* Know how to distinguish the different *aaS terms, public/private cloud and can classify existing offerings
-* know and understand the reasons for operating in the cloud and can assess the advantages and disadvantages
-* understand how and to what extent VMs and networks can be set up and configured with common cloud providers
-* Understand that the high level of automation possible in provisioning/scaling and the availability of higher-value services are key reasons for using a cloud provider
-* Know which type of provider is best suited for which deployment, and yet when it may make more sense to use in-house hardware (bare metal)
-* learn that data security aspects are relevant for the decision for or against a public cloud, as well as the performance of the VMs and the maximum possible IOPS
-* learn that modern architectures and their availability requirements demand that the application be distributed across multiple machines and data centers
-* learn how the reduced scope of hosting skills required when using a cloud provider reduces risk and cost
+==== LG 1-1: Understand and Distinguish Cloud Types, Cloud Patterns and Cloud Migration Patterns
+
+Software architects know the common cloud terms and can distinguish between different types such as public, private, hybrid/multi and on-premise. 
+
+They understand cloud patterns and cloud migration patterns, and how to apply them.
+
+They understand the difference between cloud and on-premise operations, as well as the arguments for and against cloud operations. They also recognize when the use of own hardware (bare metal) is more appropriate.
 
 [[LG-1-2]]
-==== LG 1-2: Container and Container Manager
-* Understand the technical fundamentals and added value of containers and container managers
-* understand how the use of containers and container managers leads to a better decoupling of responsibilities and thus to a more effective organization
-* Know the difference between conventional deployment and that with containers
+==== LG 1-2: Understand Decision Criteria for the Use of Managed Services and Self-Managed Services
+
+Software architects know different cloud service models (*aaS) and can classify services based on these models.
+
+They understand the shared responsibility model and its relevance for cost and risk assessments when using managed cloud services. 
+
+They know the concept of vendor lock-in and its relevance for decision-making between managed and self-managed services.
+
+[[LG-1-3]]
+==== LG 1-3: Incorporate Compliance and Organizational Aspects Into Cloud Architecture
+
+Software architects are familiar with the organizational aspects of cloud migration and the legal framework for operating applications in the cloud, e.g:
+
+* DSGVO (GDPR)
+* GoBD (Principles for electronical accounting and archiving)
+* ISO 27001
+* IT-Grundschutz (A systematic basis for information security)
+
+They understand that the aspects of data security are relevant for the decision for or against a public cloud and that organizational and/or legal requirements influence the choice of the type of cloud used.
+
+[[LG-1-4]]
+==== LG 1-4: Apply Availability, Scaling and Performance Requirements as Parameters in Cloud Architecture Design
+
+Software architects understand the impact of the cloud on time-to-market, availability, scaling, performance, IOPS, decoupling operations, and networking.
+
+They can assess when cloud applications require distribution across multiple availability zones and data centers.
+
+Know infrastructure performance requirements and public cloud limitations, such as IOPS for storage.
 // end::EN[]
 
 

@@ -1,0 +1,71 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-4-1]]
+==== LZ 4-1: Verschiedene Muster für die Modularisierung von Cloud-Native Architekturen kennen
+
+Softwarearchitekt:innen kennen die Konzepte des Container Application Designs (Container Pattern), um Softwarekomponenten in Container modularisieren zu können und Cloud-native Architekturen zu realisieren.
+
+Sie kennen verschiedene Container Application Design Muster, wie zum Beispiel:
+
+* Ambassador/Adapter/Sidecar
+* Scatter & Gather
+* Work Queue
+
+Softwarearchitekt:innen kennen Methoden, um technische von fachlichen Aufgaben durch getrennte Container zu realisieren und verstehen, wie Container-Manager über dieses Prinzip technische Aufgaben übernehmen, insbesondere:
+
+* Konfiguration und Initialisierung von Anwendungen
+* Adaptive Skalierung über Custom Metrics
+* Container Management durch Operator bzw. Controller
+
+[[LZ-4-2]]
+==== LZ 4-2: Passende Resilienzmuster zur Erhöhung von Fehlertoleranz auswählen
+
+Softwarearchitekt:innen verstehen, wie bei einer verteilten Anwendung die Kommunikation zwischen den Services fehlertolerant realisiert werden kann.
+
+Sie verstehen, durch welche Muster Fehlertoleranz auf der Kommunikationsebene erhöht werden kann und wie gängige Service-Mesh-Konzepte verwendet werden können, um die Implementation von Resilienzmustern vom fachlichen Code zu trennen.
+
+Softwarearchitekt:innen kennen u. a. folgende Resilienzmuster:
+
+* Circuit Breaker
+* Conditional Rate Limits
+* Traffic Shifting
+
+Sie kennen das Konzept von Chaos Engineering und dessen Methoden, die Systemresilienz durch gezieltes Einbringen von Störungen zu testen.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-4-1]]
+==== LG 4-1: Know Different Patterns for Modularizing Cloud-Native Architectures
+
+Software architects are familiar with the concepts of container application design (container pattern) to modularize software components into containers and implement cloud-native architectures.
+
+They are aware of various container application design patterns, such as:
+
+* Ambassador/Adapter/Sidecar
+* Scatter & Gather
+* Work Queue
+
+Software architects are familiar with methods for separating technical and business tasks through separate containers and understand how container managers handle technical tasks through this principle, particularly:
+
+* Configuration and initialization of applications
+* Adaptive scaling using custom metrics
+* Container management through operators or controllers
+
+[[LG-4-2]]
+==== LG 4-2: Ability to Select Appropriate Resilience Patterns to Increase Fault Tolerance
+
+Software architects understand how communication between services in a distributed application can be made fault-tolerant.
+
+They understand which patterns can increase fault tolerance at the communication level and how common service mesh concepts can be used to separate the implementation of resilience patterns from the business code.
+
+Software architects are familiar with the following resilience patterns, among others:
+
+* Circuit Breaker
+* Conditional Rate Limits
+* Traffic Shifting
+
+They are familiar with the concept of chaos engineering and its methods to test system resilience by deliberately introducing disruptions.
+
+// end::EN[]

@@ -1,13 +1,13 @@
-// header file for curriculum section 5: Lerneinheit 5
+// header file for curriculum section 4: Lerneinheit 4
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Automatisierung
+== Muster für verteilte Anwendungen und Cloud Native Architekturen
 // end::DE[]
 
 // tag::EN[]
-== Automation
+== Patterns for Distributed Applications and Cloud Native Architectures
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
