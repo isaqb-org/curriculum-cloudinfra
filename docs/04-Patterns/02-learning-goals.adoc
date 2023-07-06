@@ -2,51 +2,71 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Container Application Design
-* kennen die Konzepte des Container Application Designs (Container Pattern), um...
-** Software-Komponenten moderner Architekturen in Container modularisieren zu können. Zum Beispiel:
-*** Ambassador/Adapter/Sidekick
-*** Scatter & Gather
-*** Work Queue
-** technische von fachlichen Aufgaben durch getrennte Container zu realisieren
-** bei Verwendung eines Container-Managers übliche Aufgaben zu realisieren, insbesondere:
-*** Konfiguration und Initialisierung der Applikation
-*** Adaptierte Skalierung über Custom Metrics
-*** Managed Container durch Operator bzw. Controller
+==== LZ 4-1: Container Application Design Muster für verteilte Anwendungen kennen
+
+Softwarearchitekt:innen kennen die Konzepte des Container Application Designs (Container Pattern), um Software-Komponenten in Container modularisieren zu können und Cloud-native Architekturen zu realisieren.
+
+Sie kennen verschiedene Container Application Design Muster, wie zum Beispiel:
+
+* Ambassador/Adapter/Sidekick
+* Scatter & Gather
+* Work Queue
+
+Softwarearchitekt:innen kennen Methoden, um technische von fachlichen Aufgaben durch getrennte Container zu realisieren und verstehen, wie Container-Manager über dieses Prinzip technische Aufgaben übernimmt, insbesondere:
+
+* Konfiguration und Initialisierung von Anwendungen
+* Adaptive Skalierung über Custom Metrics
+* Container Management durch Operator bzw. Controller
 
 [[LZ-4-2]]
-==== LZ 4-2: Resilience
-* verstehen, dass bei einer verteilten Anwendung die Kommunikation von außen und zwischen den Services fehlertolerant realisiert werden muss
-** verstehen durch welche Pattern die notwendige Fehlertoleranz auf der Kommunikationsebene sichergestellt werden kann
-** verstehen wie man gängige Service-Mesh-Konzepte verwenden kann, um Resilience Patterns vom fachlichen Code zu trennen und warum ein Service Mesh für moderne Webanwendungen sinnvoll ist. Besprochene Pattern sind u. a.:
-*** Circuit Breaker
-*** Conditional Rate Limits
-*** Traffic Shifting
+==== LZ 4-2: Resilienz-Muster verteilter Anwendungen verstehen
+
+Softwarearchitekt:innen verstehen, wie bei einer verteilten Anwendung die Kommunikation zwischen den Services fehlertolerant realisiert werden kann.
+
+Sie verstehen, durch welche Muster Fehlertoleranz auf der Kommunikationsebene erhöht werden kann und wie gängige Service-Mesh-Konzepte verwendet werden können, um die Implementation Resilienz-Mustern vom fachlichen Code zu trennen.
+
+Softwarearchitekt:innen kennen u. a. folgende Resilienz-Muster:
+
+* Circuit Breaker
+* Conditional Rate Limits
+* Traffic Shifting
+
+Sie kennen das Konzept von Chaos Engineering und dessen Methoden, die Systemresilienz durch gezieltes Einbringen von Störungen zu testen.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: Container Application Design
-* know the concepts of container application design (container pattern) in order...
-** to be able to modularize software components of modern architectures into containers. For example:
-*** Ambassador/Adapter/Sidekick
-*** Scatter & Gather
-*** Work Queue
-** to realize technical and business tasks through separate containers
-** to realize common tasks when using a container manager, in particular:
-*** Configuration and initialization of the application
-*** adapted scaling via custom metrics
-*** Managed container by Operator or Controller
+==== LG 4-1: Know container application design patterns for distributed applications
+
+Software architects know the concepts of container application design (container pattern) in order to modularize software components in containers and to realize cloud-native architectures.
+
+They are familiar with various container application design patterns, such as:
+
+* Ambassador/Adapter/Sidekick
+* Scatter & Gather
+* Work Queue
+
+Software architects know methods to implement technical and business tasks using separate containers and understand how container managers take over technical tasks based on this principle, in particular:
+
+* Configuration and initialization of applications
+* Adaptive scaling through custom metrics
+* Container management through operators or controllers
 
 [[LG-4-2]]
-==== LG 4-2: Resilience
-* Understand that with a distributed application, communication from the outside and between services must be implemented in a fault-tolerant manner
-** Understand which patterns can be used to ensure the necessary fault tolerance at communication level
-** understand how to use common service mesh concepts to separate resilience patterns from business code and why a service mesh makes sense for modern web applications. Patterns discussed include:
-*** Circuit Breaker
-*** Conditional Rate Limits
-*** Traffic Shifting
+==== LG 4-2: Understand resilience patterns for distributed applications
+
+Software architects understand how communication between services can be implemented with fault tolerance in a distributed application.
+
+They understand which patterns can increase fault tolerance at the communication level and how common service mesh concepts can be used to separate the implementation of resilience patterns from the business code.
+
+Software architects are familiar with the following resilience patterns, among others:
+
+* Circuit Breaker
+* Conditional Rate Limits
+* Traffic Shifting
+
+They are familiar with the concept of chaos engineering and its methods to test system resilience by deliberately introducing disruptions.
 // end::EN[]
 
 
