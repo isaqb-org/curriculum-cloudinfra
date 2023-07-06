@@ -3,22 +3,29 @@
 
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Infrastructure as Code
-* lernen die Möglichkeiten der Automatisierung zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur kennen und zu unterscheiden, u. a.:
-** Ansible
-** Chef
-** Terraform
-* kennen Best Practices, um unterschiedliche Konfigurationen der Infrastruktur verwalten
-* lernen die API unterschiedlicher Cloud-Anbieter kennen und einzusetzen
+==== LZ 5-2: DevOps, DevSecOps
+* lernen die Definition von DevOps und DevSecOps kennen und zu unterscheiden
+* kennen die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps kennen
 
-[[LZ-5-2]]
-==== LZ 5-2: Container-Management-Plattformen
-lernen vollständige Container-Management-Plattformen und Tools zur Administration kennen, wie zum Beispiel:
+[[LZ-5-1]]
+==== LZ 5-2: Site Reliability Engineering
+* lernen die Definition von Site Reliability Engineering kennen
+* lernen Herausforderungen des Site Reliability Engineering kennen
+* lernen Methoden zum Site Reliability Engineering kennen
 
-* Rancher
-* Tectonic, Kops oder Kubeadm
-* OpenShift
+[[LZ-5-3]]
+==== LZ 5-3: Infrastructure as Code
+* lernen die Möglichkeiten der Automatisierung zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur kennen und zu unterscheiden:
+** lernen Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur kennen und zu unterscheiden
+** lernen die API unterschiedlicher Cloud-Anbieter kennen und einzusetzen 
+* kennen etablierte Vorgehensweisen, um unterschiedliche Konfigurationen der Infrastruktur verwalten
+* kennen Unterschied zwischen Konfiguration und Provisionierung
 
+[[LZ-5-4]]
+==== LZ 5-4: Container-Management-Plattformen
+* lernen vollständige Container-Management-Plattformen und Tools zur Administration kennen und zu unterscheiden:
+** lernen Werkzeuge zum Container-Management kennen und zu unterscheiden
+* kennen Unterschiede der Container-Management-Plattformen
 // end::DE[]
 
 // tag::EN[]
