@@ -5,7 +5,7 @@
 
 === Begriffe und Konzepte
 
-Cloud, *aaS, Cloud-Ausprägungen, Vendor Lock-in, Service-Level Agreement (SLA), Infrastructure as Code, Umsetzung moderner Microservice-Architekturen, verteilte Anwendungen, Container, Container-Manager, Cloud-Anbieter, On Premise, Manages Services, Cloud-Native Services, Rechtliche Anforderungen an Cloud-Betrieb, Cloud- Muster, Cloud-Migrationsmuster, Organisation Cloud-Übergang, Bare Metal, Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations, Networking, Applikations-Orientierung.
+Cloud, *aaS, Cloud-Ausprägungen, Vendor Lock-in, Service-Level Agreement (SLA), Infrastructure as Code, Umsetzung moderner Microservice-Architekturen, verteilte Anwendungen, Container, Container-Manager, Cloud-Anbieter, On Premise, Manages Services, Cloud-Native Services, Rechtliche Anforderungen an Cloud-Betrieb, Cloud-Muster, Cloud-Migrationsmuster, Organisation Cloud-Übergang, Bare Metal, Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations, Networking, Applikations-Orientierung.
 
 // end::DE[]
 
