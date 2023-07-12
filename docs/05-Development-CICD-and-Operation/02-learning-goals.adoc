@@ -4,32 +4,56 @@
 // tag::DE[]
 [[LZ-5-1]]
 ==== LZ 5-1: Projekte in oder mit der Cloud
-* kennen verschiedene Vorgehensweisen, um Projekte in oder mit der Cloud durchzuführen. Zum Beispiel:
-** Organisatorische Best Practices
-** Development- und CI/CD-Umgebungen
-* kennen Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:
-** Versionierung von Containern und Deployment-Spezifikationen etc.
+Anforderungen an die Umsetzung von Projekten in und mit der Cloud kennen lernen, wie
+
+* verschiedene Vorgehensweisen, um Projekte in oder mit der Cloud durchzuführen. Zum Beispiel:
+** Etablierte organisatorische Methoden zur Umsetzung
+** die Mean Time To Recovery (MTTR) zur Verbesserung der Verfügbarkeit der Anwendung
+** Gestaltung von Development- und CI/CD-Umgebungen
+* Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:
+** Versionierung von Containern und Deployment-Spezifikationen u. a.
 ** Etablierte Formen der Bereitstellung von Anwendungen, wie z. B.:
 *** Rolling Deployment
 *** Canary Deployment
 *** Blue/Green Deployment
-* lernen Komponenten und Vorgehensmodelle kennen, um einen schnellen Test- und Deployment-Prozess zu realisieren. Insbesondere Konzepte zum Dev/Test/Prod Cluster wie:
+* Komponenten und Vorgehensmodelle, um einen schnellen Test- und Deployment-Prozess zu realisieren. Insbesondere Konzepte zum Dev-, Test-, Staging-, Prod-Cluster Design wie:
+** Gestaltung der Cluster in den Bereitstellungsstufen
 ** Verantwortlichkeiten und Zugriffskontrolle
-** Best Practices zur Komponentengruppierung
+** Etablierte Methoden zur Komponentengruppierung
 
 [[LZ-5-2]]
 ==== LZ 5-2: Beobachtbarkeit
-* kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:
-** Logging
-** Monitoring/Metriken und Alerting
-** Distributed Tracing
-* lernen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts kennen
+Anforderungen an die Beobachtbarkeit und das Monitoring kennen lernen, wie
 
+* die besonderen Rahmenbedingungen verteilter Anwendungen und deren Einfluss auf die Beobachtbarkeit mittels:
+** Logging
+** Monitoring
+** Metriken
+** Alerting
+** Distributed Tracing
+* Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts
 // end::DE[]
 
 // tag::EN[]
 [[LG-5-1]]
 ==== LG 5-1: Projects in or with the cloud
+Know the requirements for the implementation of projects in and with the cloud, like
+
+* verschiedene Vorgehensweisen, um Projekte in oder mit der Cloud durchzuführen. Zum Beispiel:
+** Etablierte organisatorische Methoden zur Umsetzung
+** die Mean Time To Recovery (MTTR) zur Verbesserung der Verfügbarkeit der Anwendung
+** Gestaltung von Development- und CI/CD-Umgebungen
+* Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:
+** Versionierung von Containern und Deployment-Spezifikationen u. a.
+** Etablierte Formen der Bereitstellung von Anwendungen, wie z. B.:
+*** Rolling Deployment
+*** Canary Deployment
+*** Blue/Green Deployment
+* Komponenten und Vorgehensmodelle, um einen schnellen Test- und Deployment-Prozess zu realisieren. Insbesondere Konzepte zum Dev-, Test-, Staging-, Prod-Cluster Design wie:
+** Gestaltung der Cluster in den Bereitstellungsstufen
+** Verantwortlichkeiten und Zugriffskontrolle
+** Etablierte Methoden zur Komponentengruppierung
+
 * Know different approaches to execute projects in or with the cloud. For example:
 ** Organizational best practices
 ** Development and CI/CD environments
@@ -43,6 +67,16 @@
 
 [[LG-5-2]]
 ==== LG 5-2: Observability
+Know the requirements for observability and monitoring, like
+
+* die besonderen Rahmenbedingungen verteilter Anwendungen und deren Einfluss auf die Beobachtbarkeit mittels:
+** Logging
+** Monitoring
+** Metriken
+** Alerting
+** Distributed Tracing
+* Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts
+
 * learn how to ensure observability, which is essential for a distributed application
 ** logging
 ** Monitoring/metrics and alerting
