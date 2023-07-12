@@ -4,40 +4,72 @@
 // tag::DE[]
 [[LZ-6-1]]
 ==== LZ 6-1: DevOps, DevSecOps
-* lernen die Definition von DevOps und DevSecOps kennen und zu unterscheiden
-* kennen die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps kennen
+Personelle Organisationstrukturen für Cloud Anwendungen kennen lernen und klassifizieren können, wie
+
+* die Definition von DevOps und DevSecOps
+* die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps
 
 [[LZ-6-2]]
 ==== LZ 6-2: Site Reliability Engineering
-* lernen die Definition von Site Reliability Engineering kennen
-* lernen Herausforderungen des Site Reliability Engineering kennen
-* lernen Methoden zum Site Reliability Engineering kennen
+Möglichkeiten zur Verbesserung der Verfügbarkeit von Cloud-Anwendungen kennen lernen, wie
+
+* die Definition von Site Reliability Engineering
+* Herausforderungen des Site Reliability Engineerings
+* Methoden zum Site Reliability Engineering
 
 [[LZ-6-3]]
 ==== LZ 6-3: Infrastructure as Code
-* lernen die Möglichkeiten der Automatisierung zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur kennen und zu unterscheiden:
-** lernen Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur kennen und zu unterscheiden
-** lernen die API unterschiedlicher Cloud-Anbieter kennen und einzusetzen 
-* kennen etablierte Vorgehensweisen, um unterschiedliche Konfigurationen der Infrastruktur verwalten
-* kennen Unterschied zwischen Konfiguration und Provisionierung
+Konzepte zur Konfiguration und Provisierung von Cloud-Anwendungen durch Infrastructure as Code und Cloud Provider APIs kennen lernen, zu unterscheiden und einzusetzen, wie
+
+* die Möglichkeiten der Automatisierung zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur, z. B.:
+** Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur
+** die API unterschiedlicher Cloud-Anbieter
+* etablierte Vorgehensweisen, für den größtmöglichsten Nutzen aus Infrastructure as Code 
+* den Unterschied zwischen Konfiguration und Provisionierung
+* dass der höchst mögliche Grad von Automatisierung bei der Konfiguration bzw. Provisionierung von höherwertigen Diensten Hauptgründe für die Verwendung einer Cloud-Umgebung sind
 
 [[LZ-6-4]]
 ==== LZ 6-4: Abstraktionsebenen von Container-Managern
-* kennen weitere Abstraktionsebenen von Container-Managern und können sie unterscheiden.
-* kennen die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
+Die verschiedenen Abstraktionsebenen von Container Managern und deren Nutzen kennen und klassifizieren können, wie
+
+* die Abstraktionsebenen von Container-Managern
+* die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
 
 [[LZ-6-5]]
 ==== LZ 6-5: Berechnungen
-können u. a. folgende Berechnungen überschlägig durchführen:
+Überschlägige Berechnungen für die Auslegung durchführen können, wie
 
 * Verfügbarkeit
 * Größe eines Clusters
-
 // end::DE[]
 
 // tag::EN[]
-[[LG-6-1]]
-==== LG 6-1: Infrastructure as Code
+[[LZ-6-1]]
+==== LZ 6-1: DevOps, DevSecOps
+Know and classify personal organizational structures for cloud applications, like
+
+* die Definition von DevOps und DevSecOps
+* die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps
+
+[[LZ-6-2]]
+==== LZ 6-2: Site Reliability Engineering
+Learn ways to improve cloud application availability, like
+
+* die Definition von Site Reliability Engineering
+* Herausforderungen des Site Reliability Engineerings
+* Methoden zum Site Reliability Engineering
+
+[[LZ-6-3]]
+==== LZ 6-3: Infrastructure as Code
+Know, distinguish and use concepts for configuring and provisioning of cloud applications through Infrastructure as Code and Cloud Provider APIs, like
+
+* die Möglichkeiten der Automatisierung zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur, z. B.:
+** Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur
+** die API unterschiedlicher Cloud-Anbieter
+* etablierte Vorgehensweisen, für den größtmöglichsten Nutzen aus Infrastructure as Code 
+* den Unterschied zwischen Konfiguration und Provisionierung
+* dass der höchst mögliche Grad von Automatisierung bei der Konfiguration bzw. Provisionierung von höherwertigen Diensten Hauptgründe für die Verwendung einer Cloud-Umgebung sind
+
 * Learn about and distinguish between automation options for predictably creating, modifying, and improving infrastructure, including:
 ** Ansible
 ** Chef
@@ -45,17 +77,19 @@ können u. a. folgende Berechnungen überschlägig durchführen:
 * Know best practices to manage different configurations of infrastructure
 * learn about and use the API of different cloud providers
 
-[[LG-6-2]]
-==== LG 6-2: Container Management Platforms
-learn complete container management platforms and tools for administration, such as:
+[[LZ-6-4]]
+==== LZ 6-4: Abstraction Levels of Container Managers
+Know and being able to classify the different abstraction levels of container managers and their use cases, such as
 
-* Rancher
-* Tectonic, Kops or Kubeadm
-* OpenShift
+* die Abstraktionsebenen von Container-Managern
+* die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
 
 [[LZ-6-5]]
-==== LZ 6-5: Berechnungen
-können u. a. folgende Berechnungen überschlägig durchführen:
+==== LZ 6-5: Calculations
+Can perform rough calculations for the design, such as
+
+* Availability
+* Cluster Size
 // end::EN[]
 
 
