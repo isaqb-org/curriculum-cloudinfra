@@ -50,10 +50,10 @@ include::03-Cloud-Native-Journey/00-structure.adoc[{include_configuration}]
 include::04-Patterns/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-Development-CICD-and-Operation/00-structure.adoc[{include_configuration}]
+include::05-Development-and-CICD/00-structure.adoc[{include_configuration}]
 
 <<<
-include::06-Automation/00-structure.adoc[{include_configuration}]
+include::06-Automation-and-Operation/00-structure.adoc[{include_configuration}]
 
 <<<
 include::07-Case-Study/00-structure.adoc[{include_configuration}]

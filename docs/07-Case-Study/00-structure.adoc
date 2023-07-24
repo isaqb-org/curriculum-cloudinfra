@@ -1,4 +1,14 @@
-== {Case Study}
+// header file for curriculum section 7: Lerneinheit 7
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+// tag::DE[]
+== Case Study
+// end::DE[]
+
+// tag::EN[]
+== Case Study
+// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 

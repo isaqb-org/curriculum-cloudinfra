@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Development und CI/CD
+== Development and CI/CD
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
