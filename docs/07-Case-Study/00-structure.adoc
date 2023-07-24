@@ -1,18 +1,17 @@
-// header file for curriculum section 5: Lerneinheit 5
+// header file for curriculum section 7: Lerneinheit 7
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Development, CI/CD und Betrieb
+== Case Study
 // end::DE[]
 
 // tag::EN[]
-== Development, CI/CD and Operation
+== Case Study
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 
 include::02-learning-goals.adoc[{include_configuration}]
 
-// references (if any!)
 include::references.adoc[{include_configuration}]

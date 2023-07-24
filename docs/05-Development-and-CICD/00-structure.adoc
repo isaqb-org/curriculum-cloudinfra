@@ -1,16 +1,14 @@
-// header file for curriculum section 1: Lerneinheit 1
+// header file for curriculum section 5: Lerneinheit 5
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-
 // tag::DE[]
-== Grundlagen moderner Infrastrukturen
+== Development und CI/CD
 // end::DE[]
 
 // tag::EN[]
-== Fundamentals of Modern Infrastructures
+== Development and CI/CD
 // end::EN[]
-
 
 include::01-duration-terms.adoc[{include_configuration}]
 

@@ -1,0 +1,95 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-6-1]]
+==== LZ 6-1: Neue Rollen und deren Aufgaben kennen und unterscheiden
+Softwarearchitekt:innen wissen, dass für den Betrieb von Applikationen in der Cloud neue Rollen definiert wurden.
+
+Sie kennen die Definition von DevOps und DevSecOps kennen und deren Unterscheide.
+
+Sie verstehen die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps.
+
+[[LZ-6-2]]
+==== LZ 6-2: Wege zur Schaffung von skalierbaren und hochzuverlässigen Systeme verstehen
+Softwarearchitekt:innen verstehen die Möglichkeiten zur Schaffung skalierbarer und hochzuverlässiger Systeme.
+
+Sie lernen die Definition, Methoden und die Herausforderungen des Site Reliability Engineering kennen.
+
+[[LZ-6-3]]
+==== LZ 6-3: Automatisierungskonzepte zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur verstehen
+Softwarearchitekt:innen verstehen, dass Automatisierung durch Infrastructure as Code ein Schlüsselmethode von DevOps und eine Komponente des Continuous Delivery ist.
+
+Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies über Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur oder die API unterschiedlicher Cloud-Anbieter realisiert werden kann.
+
+Sie kennen etablierte Vorgehensweisen, um unterschiedliche Konfigurationen der Infrastruktur verwalten.
+
+Sie kennen den Unterschied zwischen Konfiguration und Provisionierung.
+
+[[LZ-6-4]]
+==== LZ 6-4: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
+Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunktionalität der Container-Orchestrierungswerkzeuge erweitern lassen.
+
+Sie kennen weitere Abstraktionsebenen von Container-Managern und können sie unterscheiden.
+
+Sie kennen die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen.
+
+[[LZ-6-5]]
+==== LZ 6-5: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
+Softwarearchitekt:innen kennen Methoden zur Berechnung der Auslegung von Ressourcen, wie
+
+* Verfügbarkeit
+* Größe eines Clusters
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-6-1]]
+==== LG 6-1: DevOps, DevSecOps
+Know and classify personal organizational structures for cloud applications, like
+
+* die Definition von DevOps und DevSecOps
+* die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps
+
+[[LG-6-2]]
+==== LG 6-2: Site Reliability Engineering
+Learn ways to improve cloud application availability, like
+
+* die Definition von Site Reliability Engineering
+* Herausforderungen des Site Reliability Engineerings
+* Methoden zum Site Reliability Engineering
+
+[[LG-6-3]]
+==== LG 6-3: Infrastructure as Code
+Know, distinguish and use concepts for configuring and provisioning of cloud applications through Infrastructure as Code and Cloud Provider APIs, like
+
+* die Möglichkeiten der Automatisierung zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur, z. B.:
+** Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur
+** die API unterschiedlicher Cloud-Anbieter
+* etablierte Vorgehensweisen, für den größtmöglichsten Nutzen aus Infrastructure as Code 
+* den Unterschied zwischen Konfiguration und Provisionierung
+* dass der höchst mögliche Grad von Automatisierung bei der Konfiguration bzw. Provisionierung von höherwertigen Diensten Hauptgründe für die Verwendung einer Cloud-Umgebung sind
+
+* Learn about and distinguish between automation options for predictably creating, modifying, and improving infrastructure, including:
+** Ansible
+** Chef
+** Terraform
+* Know best practices to manage different configurations of infrastructure
+* learn about and use the API of different cloud providers
+
+[[LG-6-4]]
+==== LG 6-4: Abstraction Levels of Container Managers
+Know and being able to classify the different abstraction levels of container managers and their use cases, such as
+
+* die Abstraktionsebenen von Container-Managern
+* die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
+
+[[LG-6-5]]
+==== LG 6-5: Calculations
+Can perform rough calculations for the design, such as
+
+* Availability
+* Cluster Size
+// end::EN[]
+
+
