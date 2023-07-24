@@ -1,10 +1,7 @@
 === {references}
 
-=== {references}
-
 - Cornelia Davis: Cloud Native Patterns. Designing Change-tolerant Software. Manning, 2019
 
-// tag::DE[]
 * Ansätze moderner Architekturen
 
 ** Monolith
@@ -31,7 +28,3 @@
 ** Anwendungs-Integration
 *** https://www.microservice-api-patterns.org/patterns/foundation/FrontendIntegration
 *** https://www.microservice-api-patterns.org/patterns/foundation/BackendIntegration
-// end::DE[]
-
-// tag::EN[]
-// end::EN[]
