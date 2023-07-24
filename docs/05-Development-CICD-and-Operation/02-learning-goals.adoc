@@ -3,10 +3,10 @@
 
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Durchführung von Projekten in oder mit der Cloud verstehen
-Softwarearchitekt:innen wissen, dass es bei der Arbeit in oder mit der Cloud neue Anfoderungen an den Softwareentwicklungsprozess gibt.
+==== LZ 5-1: Projekte in Cloud-Umgebungen umsetzen
+Softwarearchitekt:innen wissen, dass es bei der Arbeit in Cloud-Umgebungen neue Anforderungen an den Softwareentwicklungsprozess gibt.
 
-Sie kennen verschiedene Vorgehensweisen, um Projekte in oder mit der Cloud durchzuführen. Zum Beispiel:
+Sie kennen verschiedene Vorgehensweisen, um Projekte in Cloud-Umgebungen durchzuführen. Zum Beispiel:
 * Organisatorische Best Practices
 * Development- und CI/CD-Umgebungen
 
