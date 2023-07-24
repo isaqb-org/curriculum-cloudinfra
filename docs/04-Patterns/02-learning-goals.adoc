@@ -67,6 +67,7 @@ Software architects are familiar with the following resilience patterns, among o
 * Traffic Shifting
 
 They are familiar with the concept of chaos engineering and its methods to test system resilience by deliberately introducing disruptions.
+
 // end::EN[]
 
 

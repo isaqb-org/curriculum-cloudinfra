@@ -6,7 +6,6 @@
 === Begriffe und Konzepte
 Resilienz Muster, Container Application Design, Cloud Native Architekturen, Container Pattern, Service Mesh
 
-
 // end::DE[]
 
 // tag::EN[]
@@ -16,6 +15,7 @@ Resilienz Muster, Container Application Design, Cloud Native Architekturen, Cont
 
 === Terms and Principles
 Resilience Pattern, Container Application Design, Cloud Native Architectures, Container Pattern, Service Mesh
+
 // end::EN[]
 
 
