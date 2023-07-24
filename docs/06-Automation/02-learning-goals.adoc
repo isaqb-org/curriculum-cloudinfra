@@ -37,8 +37,10 @@ Sie kennen die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
 [[LZ-6-5]]
 ==== LZ 6-5: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
 Softwarearchitekt:innen kennen Methoden zur Berechnung der Auslegung von Ressourcen, wie
+
 * Verfügbarkeit
 * Größe eines Clusters
+
 // end::DE[]
 
 // tag::EN[]
