@@ -5,7 +5,7 @@
 
 === Begriffe und Konzepte
 
-Cloud, Cloud Service Modelle (*aaS), Cloud-Arten, Vendor Lock-in, Cloud-Anbieter, On Premise, Managed Services, Cloud Native Services, Rechtliche Rahmenbedingungen, Cloud-Muster, Cloud-Migrationsmuster, Organisatorische Aspekte der Cloud Migration, Bare Metal, Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations, Networking.
+Cloud, Cloud-Arten, Cloud-Anbieter, On Premise, Bare Metal, Cloud Service Modelle (*aaS), Vendor Lock-in, Managed Services, Cloud Native Services, Cloud-Muster, Cloud-Migrationsmuster, Organisatorische Aspekte der Cloud Migration, Rechtliche Rahmenbedingungen, Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations, Networking.
 
 // end::DE[]
 
@@ -16,7 +16,7 @@ Cloud, Cloud Service Modelle (*aaS), Cloud-Arten, Vendor Lock-in, Cloud-Anbieter
 
 === Terms and Principles
 
-IaaS, SaaS, PaaS, CaaS, FaaS etc. Infrastructure as Code, implementation of modern microservice architectures, distributed applications, containers, container managers, cloud providers, bare metal, time-to-market, availability, scaling, performance, IOPS, decoupling operations, private/public cloud, networking, application orientation.
+Cloud, cloud types, cloud provider, on premise, bare metal, cloud service models (*aaS), vendor lock-in, managed services, cloud native services, cloud patterns, cloud migration patterns, organizational aspects of cloud migration, legal conditions, time-to-market, availability, scaling, performance, IOPS, decoupling operations, networking.
 // end::EN[]
 
 
