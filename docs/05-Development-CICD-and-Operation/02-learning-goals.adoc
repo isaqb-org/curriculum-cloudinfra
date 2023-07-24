@@ -34,7 +34,7 @@ Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einflus
 * Monitoring/Metriken und Alerting
 * Distributed Tracing
 
-Sie lernen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts kennen
+Sie lernen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts kennen.
 // end::DE[]
 
 // tag::EN[]
