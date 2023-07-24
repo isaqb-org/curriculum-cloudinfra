@@ -3,6 +3,7 @@
 
 // tag::DE[]
 [[LZ-6-1]]
+<<<<<<< Updated upstream
 ==== LZ 6-1: DevOps, DevSecOps
 Personelle Organisationstrukturen für Cloud Anwendungen kennen lernen und klassifizieren können, wie
 
@@ -39,6 +40,44 @@ Die verschiedenen Abstraktionsebenen von Container Managern und deren Nutzen ken
 ==== LZ 6-5: Berechnungen
 Überschlägige Berechnungen für die Auslegung durchführen können, wie
 
+=======
+==== LZ 6-1: Neue Rollen und deren Aufgaben kennen und unterscheiden
+Softwarearchitekt:innen wissen, dass für den Betrieb von Applikationen in der Cloud neue Rollen definiert wurden.
+
+Sie kennen die Definition von DevOps und DevSecOps kennen und deren Unterscheide.
+
+Sie verstehen die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps.
+
+[[LZ-6-2]]
+==== LZ 6-2: Schaffung von skalierbaren und hochzuverlässigen Systeme verstehen
+Softwarearchitekt:innen verstehen die Möglichkeiten zur Schaffung skalierbarer und hochzuverlässiger Systeme.
+
+Sie lernen die Definition und die Herausforderungen des Site Reliability Engineering kennen.
+
+Sie verstehen die Methoden zum Site Reliability Engineering kennen
+
+[[LZ-6-3]]
+==== LZ 6-3: Automatisierung zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur verstehen
+Softwarearchitekt:innen verstehen, dass Automatisierung durch Infrastructure as Code ein Schlüsselmethode von DevOps und eine Komponente des Continuous Delivery ist.
+
+Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies über Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur oder die API unterschiedlicher Cloud-Anbieter realisiert werden kann.
+
+Sie kennen etablierte Vorgehensweisen, um unterschiedliche Konfigurationen der Infrastruktur verwalten.
+
+Sie kennen Unterschied zwischen Konfiguration und Provisionierung.
+
+[[LZ-6-4]]
+==== LZ 6-4: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
+Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunktionalität der Container-Orchestrierungswerkzeuge erweitern lassen.
+
+Sie kennen weitere Abstraktionsebenen von Container-Managern und können sie unterscheiden.
+
+Sie kennen die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
+
+[[LZ-6-5]]
+==== LZ 6-5: Berechnungen zur Dimensionierung von Ressourcen kennen
+Softwarearchitekt:innen kennen Methoden zur Berechnung der Auslegung von Ressource, wie
+>>>>>>> Stashed changes
 * Verfügbarkeit
 * Größe eines Clusters
 // end::DE[]

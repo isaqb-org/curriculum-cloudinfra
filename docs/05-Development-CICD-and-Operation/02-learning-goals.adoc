@@ -3,6 +3,7 @@
 
 // tag::DE[]
 [[LZ-5-1]]
+<<<<<<< Updated upstream
 ==== LZ 5-1: Projekte in oder mit der Cloud
 Anforderungen an die Umsetzung von Projekten in und mit der Cloud kennen lernen, wie
 
@@ -24,6 +25,36 @@ Anforderungen an die Umsetzung von Projekten in und mit der Cloud kennen lernen,
 [[LZ-5-2]]
 ==== LZ 5-2: Beobachtbarkeit
 Anforderungen an die Beobachtbarkeit und das Monitoring kennen lernen, wie
+=======
+==== LZ 5-1: Durchführung von Projekten in oder mit der Cloud verstehen
+Softwarearchitekt:innen wissen, dass es bei der Arbeit in oder mit der Cloud neue Anfoderungen an den Softwareentwicklungsprozess gibt.
+
+Sie kennen verschiedene Vorgehensweisen, um Projekte in oder mit der Cloud durchzuführen. Zum Beispiel:
+* Organisatorische Best Practices
+* Development- und CI/CD-Umgebungen
+
+Sie kennen Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:
+* Versionierung von Containern und Deployment-Spezifikationen etc.
+* Etablierte Formen der Bereitstellung von Anwendungen, wie z. B.:
+** Rolling Deployment
+** Canary Deployment
+** Blue/Green Deployment
+
+Sie lernen Komponenten und Vorgehensmodelle kennen, um einen schnellen Test- und Deployment-Prozess zu realisieren. Insbesondere Konzepte zum Dev/Test/Prod Cluster wie:
+* Verantwortlichkeiten und Zugriffskontrolle
+* Best Practices zur Komponentengruppierung
+
+[[LZ-5-2]]
+==== LZ 5-2: Wege der Beobachtbarkeit von verteilten Applikationen kennen
+Softwarearchitekt:innen wissen, dass es durch die verteilte Ausführung von Prozessen neue Herausforderungen an die Beobachtbarkeit verteilter Applikationen gibt.
+
+Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:
+* Logging
+* Monitoring/Metriken und Alerting
+* Distributed Tracing
+
+Sie lernen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts kennen
+>>>>>>> Stashed changes
 
 * die besonderen Rahmenbedingungen verteilter Anwendungen und deren Einfluss auf die Beobachtbarkeit mittels:
 ** Logging

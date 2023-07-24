@@ -1,3 +1,33 @@
 === {references}
 
+// tag::DE[]
+* Ansätze moderner Architekturen
 
+** Monolith
+*** https://www.techtarget.com/whatis/definition/monolithic-architecture
+*** https://microservices.io/patterns/monolithic.html
+*** https://martinfowler.com/articles/break-monolith-into-microservices.html
+
+** Microservice
+*** https://martinfowler.com/articles/microservices.html
+*** https://microservices.io/patterns/microservices.html
+*** https://www.martinfowler.com/bliki/MonolithFirst.html
+
+** Self Contained Systems
+*** https://scs-architecture.org
+*** https://www.infoq.com/articles/scs-microservices-done-right/
+*** https://roca-style.org
+
+** Möglichkeiten Kommunikation / Datenaustausch
+*** https://landscape.cncf.io/card-mode?category=streaming-messaging&grouping=category
+*** https://microservices.io/patterns/data/event-sourcing.html
+*** https://microservices.io/patterns/communication-style/messaging.html
+*** https://www.rssboard.org/rss-specification
+
+** Anwendungs-Integration
+*** https://www.microservice-api-patterns.org/patterns/foundation/FrontendIntegration
+*** https://www.microservice-api-patterns.org/patterns/foundation/BackendIntegration
+// end::DE[]
+
+// tag::EN[]
+// end::EN[]
