@@ -6,26 +6,20 @@
 == {references}
 
 // tag::DE[]
-Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
+Dieser Abschnitt enthält Ressourcen, die zur Erfüllung des Lehrplans verwendet werden sollten.
 // end::DE[]
 
 // tag::EN[]
-This section contains references that are cited in the curriculum.
+This section contains ressources that should be used fulfilling the curriculum.
 // end::EN[]
 
-[NOTE]
-====
-Aufbau eines Eintrags-Ankers:
-```
-- [[[label,Text der erscheint]]]
-```
-ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
+- Brendan Burns: Designing Distributed Systems. Patterns and Paradigms for Scaleable, Reliable Services. O'Reilly Media, 2018
 
-= = =
+- Cornelia Davis: Cloud Native Patterns. Designing Change-tolerant Software. Manning, 2019
 
-Structure of an anchor:
-```
-- [[[label,text that will be shown]]]
-```
-ATTENTION: labels have to be non-numeric.
-====
+- Ibryam Bilgin, Roland Huss: Kubernetes Patterns. Reusable Elements for Designing Cloud Native Applications. O'Reilly Media, Second edition, 2023
+
+- Beyer Betsy, Chris Jones, Jennifer Petoff, Niall Richard Murphy: Site Reliability Engineering. How Google Runs Production Systems. O'Reilly, 2016
+
+- Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: The Devops Handbook. How to Create World-Class Agility Reliability and Security in Technology Organizations. IT Revolution Press, Second edition, 2021
+
