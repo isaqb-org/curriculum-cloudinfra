@@ -1,13 +1,13 @@
-// header file for curriculum section 6: Lerneinheit 6
+// header file for curriculum section 4: Lerneinheit 4
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Automatisierung und Betrieb
+== Hilfreiche Patterns
 // end::DE[]
 
 // tag::EN[]
-== Automation and Operation
+== Helpful Patterns
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

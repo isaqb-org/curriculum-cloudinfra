@@ -1,0 +1,23 @@
+// tag::DE[]
+|===
+| Dauer: 120 Min. | Übungszeit: 20 Min.
+|===
+
+=== Begriffe und Konzepte
+Provisionierung, Infrastructure as Code, Configuration
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 120 min | Practice time: 20 min
+|===
+
+=== Terms and Principles
+Provisioning, Infrastructure as Code, Configuration
+
+// end::EN[]
+
+
+
+

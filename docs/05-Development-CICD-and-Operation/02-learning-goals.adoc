@@ -1,0 +1,65 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Projekte in oder mit der Cloud
+* kennen verschiedene Vorgehensweisen, um Projekte in oder mit der Cloud zu durchzuführen. Zum Beispiel:
+** Organisatorische Best Practices
+** Development- und CI/CD-Umgebungen
+* kennen Möglichkeiten, um in einer Cloud-Umgebung mit Container-Managern Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:
+** Versionierung von Containern und Deployment-Spezifikationen etc.
+** Canary Releases und Blue Green Deployment
+* lernen Komponenten und Vorgehensmodelle kennen, um einen schnellen Test- und Deployment-Prozess zu realisieren. Insbesondere Konzepte zum Dev/Test/Prod Cluster wie:
+** Verantwortlichkeiten und Zugriffskontrolle
+** Best Practices zur Komponentengruppierung
+** Tests und Testbarkeit
+
+[[LZ-5-2]]
+==== LZ 5-2: Beobachtbarkeit
+* lernen, wie die für eine verteilte Anwendung essentielle Beobachtbarkeit sichergestellt werden kann
+** Logging
+** Monitoring/Metriken und Alerting
+** Distributed Tracing
+* lernen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts kennen
+
+[[LZ-5-3]]
+==== LZ 5-3: Berechnungen
+können u. a. folgende Berechnungen überschlägig durchführen:
+
+* Verfügbarkeit
+* Größe eines Clusters
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: Projects in or with the cloud
+* Know different approaches to execute projects in or with the cloud. For example:
+** Organizational best practices
+** Development and CI/CD environments
+* Know ways to implement deployments and application lifecycle management in a cloud environment with container managers, specifically:
+** Container versioning and deployment specifications, etc.
+** Canary Releases and Blue Green Deployment
+* get to know components and procedure models to realize a fast test and deployment process. In particular, concepts related to the Dev/Test/Prod cluster such as:
+** responsibilities and access control
+** Best practices for component clustering
+** Tests and testability
+
+[[LG-5-2]]
+==== LG 5-2: Observability
+* learn how to ensure observability, which is essential for a distributed application
+** logging
+** Monitoring/metrics and alerting
+** Distributed Tracing
+* learn ways and responsibilities to create time series queries for alerts that are as predictive of errors as possible.
+
+[[LG-5-3]]
+==== LG 5-3: Calculations
+can perform the following calculations, among others, on a approximate basis:
+
+* Availability
+* Size of a cluster
+
+// end::EN[]
+
+

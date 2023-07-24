@@ -1,0 +1,23 @@
+// tag::DE[]
+|===
+| Dauer: 240 Min. | Übungszeit: 20 Min.
+|===
+
+=== Begriffe und Konzepte
+Development Environment, Application Lifecycle Management, Canary Releases, Blue Green Deployment, Backup und Restore, Logging, Monitoring, Alerting, Distributed Tracing
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 240 min | Practice time: 20 min
+|===
+
+=== Terms and Principles
+Development Environment, Application Lifecycle Management, Canary Releases, Blue Green Deployment, Backup und Restore, Logging, Monitoring, Alerting, Distributed Tracing
+
+// end::EN[]
+
+
+
+

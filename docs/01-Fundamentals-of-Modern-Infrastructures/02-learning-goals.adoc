@@ -3,47 +3,25 @@
 // tag::DE[]
 [[LZ-1-1]]
 ==== LZ 1-1: Begriffe und Cloud Anbieter
-Im Cloud Umfeld verwendete Begriffe verstehen, unterscheiden und klassifizieren können, wie
+* wissen die unterschiedlichen *aaS Begriffe, Public/Private Cloud zu unterscheiden und können bestehende Angebote klassifizieren
+* kennen und verstehen die Gründe für den Betrieb in der Cloud und können die Vor- und Nachteile einschätzen
+* verstehen, wie und in welchem Umfang bei gängigen Cloud-Anbietern VMs und Netzwerke eingerichtet und konfiguriert werden können
+* verstehen, dass der hohe mögliche Grad von Automatisierung bei der Provisionierung/Skalierung und die Verfügbarkeit von höherwertigen Diensten Hauptgründe für die Verwendung eines Cloud-Anbieters sind
+* wissen, welcher Typ von Anbieter für welchen Einsatz am besten geeignet ist und wann dennoch der Einsatz von eigener Hardware (Bare Metal) sinnvoller sein kann
+* lernen, dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind, wie auch die Performanz der VMs und die maximal möglichen IOPS
+* lernen, dass Moderne Architekturen und deren Anforderungen an die Verfügbarkeit die Verteilung der Applikation auf mehrere Maschinen und Rechenzentren verlangen
+* lernen, wie der reduzierte Umfang von notwendigen Hosting-Kompetenzen bei der Verwendung eines Cloud-Anbieters Risiko und Kosten reduziert
 
-* Definition des Begriffs Cloud
-* unterschiedliche Cloud-Arten (Public, Private, On-Premise, Hybrid/Multi)
-* die Unterschiede zwischen Cloud-Anbieter und On Premise
-* die Gründe für den Betrieb in der Cloud und deren Vor- und Nachteile
-* wie der reduzierte Umfang von notwendigen Hosting-Kompetenzen bei der Verwendung eines Cloud-Anbieters Risiko und Kosten reduziert
-* welche Cloud-Art für welchen Einsatz am besten geeignet ist und wann dennoch der Einsatz von eigener Hardware (Bare Metal) sinnvoller sein kann
-* unterschiedliche Cloud Service Modelle (*aaS)
-* den Begriff Vendor Lock-in und dessen Zusammenhang mit Managed Services sowie Cloud Native Services
-* den Unterschied zwischen Cloud-Muster und Cloud-Migrationsmuster
-* die organisatorischen Aspekte der Cloud Migration
-* die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud
-* dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind
-* dass organisatorische und/oder rechtliche Anforderungen die Wahl der verwendeten Cloud-Art beeinflussen
-* welche Auswirkungen die Cloud auf Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations und Networking hat
-* dass Cloud Anwendungen und deren Anforderungen an die Verfügbarkeit, die Skalierung und Performance die Verteilung auf mehrere Verfügbarkeitszonen und Rechenzentren verlangen
-* welche Anforderungen die Performance an die Infrastruktur und die maximal möglichen IOPS stellt
+[[LZ-1-2]]
+==== LZ 1-2: Container und Container Manager
+* verstehen die technischen Grundlagen und den Mehrwert von Containern und Container-Managern
+* verstehen, wie die Verwendung von Containern und Container-Manager zu einer besseren Entkopplung von Verantwortlichkeiten und damit zu einer effektiveren Organisation führt
+* kennen den Unterschied zwischen konventionellem Deployment und dem mit Containern
 // end::DE[]
 
 // tag::EN[]
 [[LG-1-1]]
 ==== LG 1-1: Terms and Cloud Provider
-Understand, differentiate and classify terms used in the cloud environment, such as
-
-* Definition des Begriffs Cloud
-* unterschiedliche Cloud-Arten (Public, Private, On-Premise, Hybrid/Multi)
-* die Unterschiede zwischen Cloud-Anbieter und On Premise
-* die Gründe für den Betrieb in der Cloud und deren Vor- und Nachteile
-* wie der reduzierte Umfang von notwendigen Hosting-Kompetenzen bei der Verwendung eines Cloud-Anbieters Risiko und Kosten reduziert
-* welche Cloud-Art für welchen Einsatz am besten geeignet ist und wann dennoch der Einsatz von eigener Hardware (Bare Metal) sinnvoller sein kann
-* unterschiedliche Cloud Service Modelle (*aaS)
-* den Begriff Vendor Lock-in und dessen Zusammenhang mit Managed Services sowie Cloud Native Services
-* den Unterschied zwischen Cloud-Muster und Cloud-Migrationsmuster
-* die organisatorischen Aspekte der Cloud Migration
-* die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud
-* dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind
-* dass organisatorische und/oder rechtliche Anforderungen die Wahl der verwendeten Cloud-Art beeinflussen
-* welche Auswirkungen die Cloud auf Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations und Networking hat
-* dass Cloud Anwendungen und deren Anforderungen an die Verfügbarkeit, die Skalierung und Performance die Verteilung auf mehrere Verfügbarkeitszonen und Rechenzentren verlangen
-* welche Anforderungen die Performance an die Infrastruktur und die maximal möglichen IOPS stellt
 * Know how to distinguish the different *aaS terms, public/private cloud and can classify existing offerings
 * know and understand the reasons for operating in the cloud and can assess the advantages and disadvantages
 * understand how and to what extent VMs and networks can be set up and configured with common cloud providers
@@ -52,6 +30,12 @@ Understand, differentiate and classify terms used in the cloud environment, such
 * learn that data security aspects are relevant for the decision for or against a public cloud, as well as the performance of the VMs and the maximum possible IOPS
 * learn that modern architectures and their availability requirements demand that the application be distributed across multiple machines and data centers
 * learn how the reduced scope of hosting skills required when using a cloud provider reduces risk and cost
+
+[[LG-1-2]]
+==== LG 1-2: Container and Container Manager
+* Understand the technical fundamentals and added value of containers and container managers
+* understand how the use of containers and container managers leads to a better decoupling of responsibilities and thus to a more effective organization
+* Know the difference between conventional deployment and that with containers
 // end::EN[]
 
 
