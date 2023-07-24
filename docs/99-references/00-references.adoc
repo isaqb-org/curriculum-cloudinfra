@@ -10,7 +10,7 @@ Dieser Abschnitt enthält Ressourcen, die zur Erfüllung des Lehrplans verwendet
 // end::DE[]
 
 // tag::EN[]
-This section contains ressources that should be used fulfilling the curriculum.
+This section contains resources that should be used to fulfill the curriculum.
 // end::EN[]
 
 - Brendan Burns: Designing Distributed Systems. Patterns and Paradigms for Scaleable, Reliable Services. O'Reilly Media, 2018
