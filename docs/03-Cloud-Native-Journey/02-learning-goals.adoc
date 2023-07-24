@@ -68,8 +68,8 @@ Software Architects understand the benefits of the Cloud Native concept, especia
 * Delivery artifacts
 * Isolation of the application with respect to the host system, etc.
 
-[[LZ-3-2]]
-==== LZ 3-2: Understand basic container concepts
+[[LG-3-2]]
+==== LG 3-2: Understand basic container concepts
 
 Software architects understand the technical basics and the added value of containers and know the difference between conventional deployment and deployment with containers.
 

@@ -1,4 +1,4 @@
-== {examples}
+== {Case Study}
 
 include::01-duration-terms.adoc[{include_configuration}]
 

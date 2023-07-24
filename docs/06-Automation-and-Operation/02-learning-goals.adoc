@@ -44,23 +44,23 @@ Softwarearchitekt:innen kennen Methoden zur Berechnung der Auslegung von Ressour
 // end::DE[]
 
 // tag::EN[]
-[[LZ-6-1]]
-==== LZ 6-1: DevOps, DevSecOps
+[[LG-6-1]]
+==== LG 6-1: DevOps, DevSecOps
 Know and classify personal organizational structures for cloud applications, like
 
 * die Definition von DevOps und DevSecOps
 * die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps
 
-[[LZ-6-2]]
-==== LZ 6-2: Site Reliability Engineering
+[[LG-6-2]]
+==== LG 6-2: Site Reliability Engineering
 Learn ways to improve cloud application availability, like
 
 * die Definition von Site Reliability Engineering
 * Herausforderungen des Site Reliability Engineerings
 * Methoden zum Site Reliability Engineering
 
-[[LZ-6-3]]
-==== LZ 6-3: Infrastructure as Code
+[[LG-6-3]]
+==== LG 6-3: Infrastructure as Code
 Know, distinguish and use concepts for configuring and provisioning of cloud applications through Infrastructure as Code and Cloud Provider APIs, like
 
 * die Möglichkeiten der Automatisierung zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur, z. B.:
@@ -77,15 +77,15 @@ Know, distinguish and use concepts for configuring and provisioning of cloud app
 * Know best practices to manage different configurations of infrastructure
 * learn about and use the API of different cloud providers
 
-[[LZ-6-4]]
-==== LZ 6-4: Abstraction Levels of Container Managers
+[[LG-6-4]]
+==== LG 6-4: Abstraction Levels of Container Managers
 Know and being able to classify the different abstraction levels of container managers and their use cases, such as
 
 * die Abstraktionsebenen von Container-Managern
 * die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
 
-[[LZ-6-5]]
-==== LZ 6-5: Calculations
+[[LG-6-5]]
+==== LG 6-5: Calculations
 Can perform rough calculations for the design, such as
 
 * Availability
