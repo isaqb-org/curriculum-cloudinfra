@@ -56,7 +56,7 @@ include::05-Development-CICD-and-Operation/00-structure.adoc[{include_configurat
 include::06-Automation/00-structure.adoc[{include_configuration}]
 
 <<<
-include::98-examples/00-examples.adoc[{include_configuration}]
+include::07-Case-Study/00-structure.adoc[{include_configuration}]
 
 <<<
 include::99-references/00-references.adoc[{include_configuration}]

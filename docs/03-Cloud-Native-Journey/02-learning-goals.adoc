@@ -2,90 +2,117 @@
 
 // tag::DE[]
 [[LZ-3-1]]
-==== LZ 3-1: Cloud Native Konzept
-verstehen die Vorteile des Cloud Native Konzepts, insbesondere durch einheitliche...:
+==== LZ 3-1: Nutzen und Ziele des Cloud Native Konzepts verstehen
+
+Softwarearchitekt:innen verstehen den Nutzen und die Ziele des Cloud Native Konzepts. Sie kennen die Vorteile des Konzepts insbesondere durch einheitliche:
 
 * Schnittstellen zur Administration und Konfiguration
 * Ressourcen-Abstraktion
 * Lieferartefakte
-* Isolation der Applikation u. a. bezüglich des Hostsystems
+* Isolation der Applikation u. a. vom Hostsystem
 
 [[LZ-3-2]]
-==== LZ 3-2: Container Manager
-* verstehen die Abstraktionskonzepte aktueller Container-Manager und kennen Pattern und Best Practices, wie die Erfüllung nichtfunktionaler Anforderungen (NFR) auf sie übertragen werden kann. Zum Beispiel:
-** Finite Workloads wie (Cron-) Jobs
-** Health Check und Self Healing
-** Skalierung und Load Balancing
-** Placement
-* kennen die Prinzipien eines Overlay-Networks (VLAN) für Container und Container-Manager und verstehen, wie man verschiedene Services oder Systeme isolieren kann. Z. B. Realisierung einer verteilten Firewall zur Isolation von:
-** verschiedenen Mandanten
-** Testsystemen im Rahmen einer CI/CD
+==== LZ 3-2: Grundlegende Container Konzepte verstehen
+
+Softwarearchitekt:innen verstehen die technischen Grundlagen und den Mehrwert von Containern und kennen den Unterschied zwischen konventionellem Deployment und dem mit Containern.
+
+Sie verstehen, wie die Verwendung von Containern zu einer besseren Entkopplung von Verantwortlichkeiten und damit zu einer effektiveren Organisation führt.
+
+Softwarearchitekt:innen verstehen Linux-Kernel-Isolationsmechanismen, die bei Containern Anwendung finden (Container Security), u. a.:
+
+* Namespaces und cgroups
+* Capabilities
+
+Sie kennen ausserdem die Auswirkungen, Nutzungszenarien und Gefahren privilegierter Container.
 
 [[LZ-3-3]]
-==== LZ 3-3: Container
-verstehen die Linux-Kernel-Isolationsmechanismen, die bei Containern Anwendung finden (Container Security), u. a.:
+==== LZ 3-3: Abstraktionskonzepte von Container Managern verstehen
 
-* Capabilities
-* Privilegierte Container
-* AppArmor
+Softwarearchitekt:innen verstehen die Abstraktionskonzepte aktueller Container-Manager und kennen bewährte Muster und Praktiken, wie die Erfüllung nichtfunktionaler Anforderungen (NFR) auf sie übertragen werden kann. Zum Beispiel:
+
+* Finite Workloads wie (Cron-) Jobs
+* Health Check und Self Healing
+* Skalierung und Load Balancing
+* Placement
+
+Softwarearchitekt:innen kennen die Prinzipien eines Overlay-Networks (VLAN) für Container und Container-Manager und verstehen, wie verschiedene Services oder Systeme isoliert werden. Sie kennen Anforderungszenarien wie z. B. die Realisierung einer verteilten Firewall zur Isolation von:
+
+* Mehreren Mandanten
+* Testsystemen im Rahmen von CI/CD
 
 [[LZ-3-4]]
-==== LZ 3-4: Container Linux
-verstehen, wie aktuelle Core/Container-Linux-Distributionen auf den Betrieb von Containern optimiert sind, welche Vorteile sie bieten (u. a. bzgl. Kernel- und Distributionsupdates) und welche Folgen das für die betriebenen Applikationen hat
+==== LZ 3-4: Vorteile spezialisierter Linux-Distributionen für den Betrieb von Containern verstehen
+
+Softwarearchitekt:innen verstehen, wie aktuelle Core/Container-Linux-Distributionen auf den Betrieb von Containern optimiert sind, welche Vorteile sie bieten (u. a. bzgl. Kernel- und Distributionsupdates) und welche Folgen das für die betriebenen Applikationen hat.
 
 [[LZ-3-5]]
-==== LZ 3-5: Persistenz
-verstehen die verschiedenen Wege um Daten zu persistieren:
+==== LZ 3-5: Persistenzlösungen in Cloud-Umgebungen bewerten und auswählen
 
-* verstehen den Unterschied von Object- und Block-Storage
-* können die verschiedenen Storage-Dienste der Cloud-Anbieter, unterschiedliche COTS-Produkte und selbstverwaltete Lösungen für unterschiedliche Einsatzszenarien klassifizieren
-* verstehen die Vor- und Nachteile einer Cloud-Native-Storage-Lösung
-* verstehen die höherwertigen Managed Services (wie etwa RDBMS) der CloudAnbieter mit der Verwendung selbstverwalteter Lösungen zu vergleichen
-* kennen verschiedene Konzepte, um Backup und Restore zu realisieren
+Softwarearchitekt:innen kennen die verschiedenen Wege um Daten zu persistieren.
+
+Sie kennen den Unterschied von Object- und Block-Storage und können die verschiedenen Storage-Dienste der Cloud-Anbieter, unterschiedliche COTS-Produkte und selbstverwaltete Lösungen für unterschiedliche Einsatzszenarien klassifizieren.
+
+Softwarearchitekt:innen verstehen die Vor- und Nachteile einer Cloud-Native-Storage-Lösung und können die höherwertigen Managed Services (wie etwa RDBMS) der Cloud-Anbieter mit der Verwendung selbstverwalteter Lösungen vergleichen.
+
+Sie kennen verschiedene Konzepte, um Backup und Restore von persistenten Daten in der Cloud zu realisieren.
 // end::DE[]
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: Cloud Native Concept
-Understand the benefits of the Cloud Native concept, particularly through unified...:
+==== LG 3-1: Understand the Cloud Native Concept
+
+Software Architects understand the benefits of the Cloud Native concept, especially through unified:
 
 * Interfaces for administration and configuration
 * Resource abstraction
 * Delivery artifacts
-* Isolation of the application, with respects to the host, etc.
+* Isolation of the application with respect to the host system, etc.
 
-[[LG-3-2]]
-==== LG 3-2: Container Manager
-* Understand the abstraction concepts of current container managers and know patterns and best practices for how to apply non-functional requirements (NFR) fulfillment to them. For example:
-** Finite workloads such as (cron) jobs
-** Health Check and Self Healing
-** Scaling and Load Balancing
-** Placement
-* Know the principles of an overlay network (VLAN) for containers and container managers and understand how to isolate different services or systems. E.g., implement a distributed firewall to isolate:
-** different clients
-** test systems in the context of a CI/CD
+[[LZ-3-2]]
+==== LZ 3-2: Understand basic container concepts
+
+Software architects understand the technical basics and the added value of containers and know the difference between conventional deployment and deployment with containers.
+
+They understand how the use of containers leads to a better decoupling of responsibilities and thus to a more effective organization.
+
+Software architects understand Linux kernel isolation mechanisms that apply to containers (container security), including:
+
+* Namespaces and cgroups
+* Capabilities
+
+They also understand the implications, usage scenarios, and threats of privileged containers.
 
 [[LG-3-3]]
-==== LG 3-3: Container
-Understand the Linux kernel isolation mechanisms that apply to containers (container security), including:
+==== LG 3-3: Understand Container Manager Abstraction Concepts
 
-* Capabilities
-* Privileged Containers
-* AppArmor
+Software architects understand the abstraction concepts of current container managers and know patterns and best practices on how to apply non-functional requirements (NFR) fulfillment to them. For example:
+
+* Finite workloads such as (cron) jobs.
+* Health Check and Self Healing
+* Scaling and load balancing
+* Placement
+
+Software architects know the principles of an overlay network (VLAN) for containers and container managers and understand how different services or systems are isolated. They know requirement scenarios such as the realization of a distributed firewall for the isolation of:
+
+* Multiple tenants
+* Test systems in the context of CI/CD
 
 [[LG-3-4]]
-==== LG 3-4: Container Linux
-understand how current core/container Linux distributions are optimized for running containers, what advantages they offer (including kernel and distribution updates), and what the consequences are for the applications they run.
+==== LG 3-4: Understand advantages of specialized Linux distributions for containers
+
+Software architects understand how current core/container Linux distributions are optimized for container operation, what advantages they offer (including kernel and distribution updates), and what consequences this has for the applications they run.
 
 [[LG-3-5]]
-==== LG 3-5: Persistence
-understand the different ways to persist data:
+==== LG 3-5: Understand Persistence in Cloud Environments
 
-* understand the difference between object and block storage
-* can classify the different cloud vendor storage services, different COTS products, and self-managed solutions for different deployment scenarios
-* understand the advantages and disadvantages of a cloud-native storage solution
-* understand the higher-end managed services (such as RDBMS) offered by cloud providers versus using self-managed solutions
-* know different concepts to implement backup and restore
+Software architects know the different ways to persist data.
+
+They know the difference between object and block storage and can classify the various storage services of the cloud providers, different COTS products and self-managed solutions for different deployment scenarios.
+
+Software architects understand the advantages and disadvantages of a cloud-native storage solution and can compare the higher-value managed services (such as RDBMS) of the cloud providers with the use of self-managed solutions.
+
+They know different concepts to realize backup and restore of persistent data in the cloud.
+
 // end::EN[]
 
 
