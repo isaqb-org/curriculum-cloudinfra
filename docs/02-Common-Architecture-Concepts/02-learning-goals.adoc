@@ -2,7 +2,6 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-<<<<<<< HEAD
 ==== LZ 2-1: Situativ passende Kommunikations-Technologien verteilter Anwendungen auswählen
 
 Softwarearchitekt:innen kennen Muster moderner Architekturen für verteilte Anwendungen (speziell Microservices, Self-contained Systems) und verstehen die Gründe, die zu diesen Lösungen führen.
@@ -20,23 +19,6 @@ Softwarearchitekt:innen kennen die Auswirkungen einer Shared-Something/Nothing-A
 
 Softwarearchitekt:innen verstehen, wie mehrere Services über unterschiedliche Wege zu einer Applikation integriert werden können, zum Beispiel durch Integration über:
 
-=======
-==== LZ 2-1: Konzepte in Zusammenhang von Modularisierung und Kommunikation abgrenzen
-Softwarearchitekt:innen verstehen, dass es unterschiedliche Architekturen für Cloud-Applikationen gibt und kennen die Möglichkeiten, wie Komponenten untereinander lose gekoppelt kommunizieren können.
-
-Sie verstehen die Ansätze moderner Architekturen (speziell Microservices, Self-contained Systems) und die Gründe, die zu diesen Lösungen führen.
-
-Sie verstehen die unterschiedlichen Möglichkeiten der Kommunikation bzw. des Datenaustauschs der Services untereinander, zum Beispiel:
-* Event Sourcing
-* Messaging Middleware
-* RSS-Feeds
-
-Sie kennen die Auswirkungen einer Shared-Something/Nothing-Architektur, die insbesondere durch eine Skalierung über Container entsteht
-
-[[LZ-2-2]]
-==== LZ 2-2: Möglichkeiten der Modularisierung und Integration kennen und verstehen
-Softwarearchitekt:innen kennen die Möglichkeiten, wie man mehrere Services über unterschiedliche Arten zu einer Applikation integrieren kann, zum Beispiel durch Integration über:
->>>>>>> 2023-update-mh-learning-goals
 * Backend (Message-Bus, Datenbank, etc.)
 * Frontend (UI-Integration)
 
