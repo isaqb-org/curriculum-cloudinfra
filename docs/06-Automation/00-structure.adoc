@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Automatisierung
+== Automatisierung und Betrieb
 // end::DE[]
 
 // tag::EN[]
-== Automation
+== Automation and Operation
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
