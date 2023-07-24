@@ -2,7 +2,7 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Container Application Design Muster für verteilte Anwendungen kennen
+==== LZ 4-1: Verschiedene Muster für die Modularisierung von Cloud-Native Architekturen kennen
 
 Softwarearchitekt:innen kennen die Konzepte des Container Application Designs (Container Pattern), um Software-Komponenten in Container modularisieren zu können und Cloud-native Architekturen zu realisieren.
 
@@ -19,7 +19,7 @@ Softwarearchitekt:innen kennen Methoden, um technische von fachlichen Aufgaben d
 * Container Management durch Operator bzw. Controller
 
 [[LZ-4-2]]
-==== LZ 4-2: Resilienz-Muster verteilter Anwendungen verstehen
+==== LZ 4-2: Passende Resilienz-Muster zur Erhöhung von Fehlertoleranz auswählen
 
 Softwarearchitekt:innen verstehen, wie bei einer verteilten Anwendung die Kommunikation zwischen den Services fehlertolerant realisiert werden kann.
 

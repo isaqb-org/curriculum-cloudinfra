@@ -2,14 +2,14 @@
 
 // tag::DE[]
 [[LZ-3-1]]
-==== LZ 3-1: Cloud Native Konzept verstehen
+==== LZ 3-1: Nutzen und Ziele des Cloud Native Konzepts verstehen
 
-Softwarearchitekt:innen verstehen die Vorteile des Cloud Native Konzepts, insbesondere durch einheitliche:
+Softwarearchitekt:innen verstehen den Nutzen und die Ziele des Cloud Native Konzepts. Sie kennen die Vorteile des Konzepts insbesondere durch einheitliche:
 
 * Schnittstellen zur Administration und Konfiguration
 * Ressourcen-Abstraktion
 * Lieferartefakte
-* Isolation der Applikation u. a. bezüglich des Hostsystems
+* Isolation der Applikation u. a. vom Hostsystem
 
 [[LZ-3-2]]
 ==== LZ 3-2: Grundlegende Container Konzepte verstehen
@@ -28,7 +28,7 @@ Sie kennen ausserdem die Auswirkungen, Nutzungszenarien und Gefahren privilegier
 [[LZ-3-3]]
 ==== LZ 3-3: Abstraktionskonzepte von Container Managern verstehen
 
-Softwarearchitekt:innen verstehen die Abstraktionskonzepte aktueller Container-Manager und kennen Muster und Best Practices, wie die Erfüllung nichtfunktionaler Anforderungen (NFR) auf sie übertragen werden kann. Zum Beispiel:
+Softwarearchitekt:innen verstehen die Abstraktionskonzepte aktueller Container-Manager und kennen bewährte Muster und Praktiken, wie die Erfüllung nichtfunktionaler Anforderungen (NFR) auf sie übertragen werden kann. Zum Beispiel:
 
 * Finite Workloads wie (Cron-) Jobs
 * Health Check und Self Healing
@@ -41,12 +41,12 @@ Softwarearchitekt:innen kennen die Prinzipien eines Overlay-Networks (VLAN) für
 * Testsystemen im Rahmen von CI/CD
 
 [[LZ-3-4]]
-==== LZ 3-4: Vorteile spezialisierter Linux-Distributionen für Container verstehen
+==== LZ 3-4: Vorteile spezialisierter Linux-Distributionen für den Betrieb von Containern verstehen
 
 Softwarearchitekt:innen verstehen, wie aktuelle Core/Container-Linux-Distributionen auf den Betrieb von Containern optimiert sind, welche Vorteile sie bieten (u. a. bzgl. Kernel- und Distributionsupdates) und welche Folgen das für die betriebenen Applikationen hat.
 
 [[LZ-3-5]]
-==== LZ 3-5: Persistenz in Cloud-Umgebungen verstehen
+==== LZ 3-5: Persistenzlösungen in Cloud-Umgebungen bewerten und auswählen
 
 Softwarearchitekt:innen kennen die verschiedenen Wege um Daten zu persistieren.
 
