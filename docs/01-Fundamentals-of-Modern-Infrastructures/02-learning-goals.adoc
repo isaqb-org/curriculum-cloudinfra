@@ -2,25 +2,33 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Begriffe und Cloud Anbieter
-Im Cloud Umfeld verwendete Begriffe verstehen, unterscheiden und klassifizieren können, wie
+==== LZ 1-1: Im Cloud Umfeld verwendete Begriffe verstehen und unterscheiden
 
-* Definition des Begriffs Cloud
-* unterschiedliche Cloud-Arten (Public, Private, On-Premise, Hybrid/Multi)
-* die Unterschiede zwischen Cloud-Anbieter und On Premise
-* die Gründe für den Betrieb in der Cloud und deren Vor- und Nachteile
-* wie der reduzierte Umfang von notwendigen Hosting-Kompetenzen bei der Verwendung eines Cloud-Anbieters Risiko und Kosten reduziert
-* welche Cloud-Art für welchen Einsatz am besten geeignet ist und wann dennoch der Einsatz von eigener Hardware (Bare Metal) sinnvoller sein kann
-* unterschiedliche Cloud Service Modelle (*aaS)
-* den Begriff Vendor Lock-in und dessen Zusammenhang mit Managed Services sowie Cloud Native Services
-* den Unterschied zwischen Cloud-Muster und Cloud-Migrationsmuster
-* die organisatorischen Aspekte der Cloud Migration
-* die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud
-* dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind
-* dass organisatorische und/oder rechtliche Anforderungen die Wahl der verwendeten Cloud-Art beeinflussen
-* welche Auswirkungen die Cloud auf Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations und Networking hat
-* dass Cloud Anwendungen und deren Anforderungen an die Verfügbarkeit, die Skalierung und Performance die Verteilung auf mehrere Verfügbarkeitszonen und Rechenzentren verlangen
-* welche Anforderungen die Performance an die Infrastruktur und die maximal möglichen IOPS stellt
+Softwarearchitekt:innen kennen die im Cloud Umfeld verwendeten Begriffe und können deren Bedeutung unterscheiden.
+
+Sie verstehen die Definition des Begriffs Cloud und kennen unterschiedliche Cloud-Arten (Public, Private, On-Premise, Hybrid/Multi).
+
+Sie kennen die Unterschiede zwischen Cloud-Anbieter und On Premise Betrieb. Außerdem kennen sie die Gründe für den Betrieb in der Cloud und die Vor- und Nachteile dieser Betriebsform.
+
+Sie verstehen, wie der reduzierte Umfang von notwendigen Hosting-Kompetenzen bei der Verwendung eines Cloud-Anbieters sich auf Risiko und Kosten auswirkt.
+
+Sie verstehen welche Cloud-Art für welchen Einsatz am besten geeignet ist und wann dennoch der Einsatz von eigener Hardware (Bare Metal) sinnvoller sein kann.
+
+Teilnehmende kennen unterschiedliche Cloud Service Modelle (*aaS) und können Services anhand dieser Modelle klassifizieren.
+
+Sie kennen den Begriff Vendor Lock-in und dessen Zusammenhang mit Managed Services sowie Cloud Native Services.
+
+Sie verstehen den Unterschied zwischen Cloud-Muster und Cloud-Migrationsmuster.
+
+Sie kennen die organisatorischen Aspekte der Cloud Migration und die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud. 
+
+Sie verstehen, dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind und dass organisatorische und/oder rechtliche Anforderungen die Wahl der verwendeten Cloud-Art beeinflussen.
+
+Teilnehmende kennen die Auswirkungen der Cloud auf Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations und Networking hat.
+
+Sie verstehen, dass Cloud Anwendungen und deren Anforderungen an die Verfügbarkeit, die Skalierung und Performance die Verteilung auf mehrere Verfügbarkeitszonen und Rechenzentren verlangen.
+
+Sie verstehen, welche Anforderungen die Performance an die Infrastruktur und die maximal möglichen IOPS stellt.
 // end::DE[]
 
 // tag::EN[]
