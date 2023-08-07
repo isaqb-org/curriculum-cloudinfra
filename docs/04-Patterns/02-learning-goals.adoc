@@ -37,26 +37,26 @@ Sie kennen das Konzept von Chaos Engineering und dessen Methoden, die Systemresi
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: Know container application design patterns for distributed applications
+==== LG 4-1: Know different patterns for modularizing cloud-native architectures
 
-Software architects know the concepts of container application design (container pattern) in order to modularize software components in containers and to realize cloud-native architectures.
+Software architects are familiar with the concepts of container application design (container pattern) to modularize software components into containers and implement cloud-native architectures.
 
-They are familiar with various container application design patterns, such as:
+They are aware of various container application design patterns, such as:
 
 * Ambassador/Adapter/Sidekick
 * Scatter & Gather
 * Work Queue
 
-Software architects know methods to implement technical and business tasks using separate containers and understand how container managers take over technical tasks based on this principle, in particular:
+Software architects are familiar with methods for separating technical and business tasks through separate containers and understand how container managers handle technical tasks through this principle, particularly:
 
 * Configuration and initialization of applications
-* Adaptive scaling through custom metrics
+* Adaptive scaling using custom metrics
 * Container management through operators or controllers
 
 [[LG-4-2]]
-==== LG 4-2: Understand resilience patterns for distributed applications
+==== LG 4-2: Ability to select appropriate resilience patterns to increase fault tolerance
 
-Software architects understand how communication between services can be implemented with fault tolerance in a distributed application.
+Software architects understand how communication between services in a distributed application can be made fault-tolerant.
 
 They understand which patterns can increase fault tolerance at the communication level and how common service mesh concepts can be used to separate the implementation of resilience patterns from the business code.
 

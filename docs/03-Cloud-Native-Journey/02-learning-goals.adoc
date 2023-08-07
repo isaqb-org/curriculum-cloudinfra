@@ -4,12 +4,12 @@
 [[LZ-3-1]]
 ==== LZ 3-1: Nutzen und Ziele des Cloud Native Konzepts verstehen
 
-Softwarearchitekt:innen verstehen den Nutzen und die Ziele des Cloud Native Konzepts. Sie kennen die Vorteile des Konzepts insbesondere durch einheitliche:
+Softwarearchitekt:innen verstehen den Nutzen und die Ziele des Cloud Native Konzepts. Sie kennen die Vorteile des Konzepts insbesondere durch:
 
-* Schnittstellen zur Administration und Konfiguration
+* Einheitliche Schnittstellen zur Administration und Konfiguration
 * Ressourcen-Abstraktion
 * Lieferartefakte
-* Isolation der Applikation u. a. vom Hostsystem
+* Isolation der Applikation vom Hostsystem
 
 [[LZ-3-2]]
 ==== LZ 3-2: Grundlegende Container Konzepte verstehen
@@ -61,12 +61,12 @@ Sie kennen verschiedene Konzepte, um Backup und Restore von persistenten Daten i
 [[LG-3-1]]
 ==== LG 3-1: Understand the Cloud Native Concept
 
-Software Architects understand the benefits of the Cloud Native concept, especially through unified:
+Software architects understand the benefits and goals of the Cloud Native concept. They are familiar with the advantages of the concept, particularly through:
 
-* Interfaces for administration and configuration
+* Unified interfaces for administration and configuration
 * Resource abstraction
 * Delivery artifacts
-* Isolation of the application with respect to the host system, etc.
+
 
 [[LG-3-2]]
 ==== LG 3-2: Understand basic container concepts
@@ -92,26 +92,27 @@ Software architects understand the abstraction concepts of current container man
 * Scaling and load balancing
 * Placement
 
-Software architects know the principles of an overlay network (VLAN) for containers and container managers and understand how different services or systems are isolated. They know requirement scenarios such as the realization of a distributed firewall for the isolation of:
+Software architects know the principles of an overlay network (VLAN) for containers and container managers and understand how different services or systems are isolated. They are familiar with requirement scenarios such as implementing a distributed firewall for isolating:
+
 
 * Multiple tenants
 * Test systems in the context of CI/CD
 
 [[LG-3-4]]
-==== LG 3-4: Understand advantages of specialized Linux distributions for containers
+==== LG 3-4: Understand the benefits of specialized Linux distributions for operating containers
 
-Software architects understand how current core/container Linux distributions are optimized for container operation, what advantages they offer (including kernel and distribution updates), and what consequences this has for the applications they run.
+Software architects understand how current core/container Linux distributions are optimized for operating containers, the benefits they offer (including kernel and distribution updates), and the implications for the applications being run.
 
 [[LG-3-5]]
-==== LG 3-5: Understand Persistence in Cloud Environments
+==== LG 3-5: Evaluate and Select Persistence Solutions in Cloud Environments
 
-Software architects know the different ways to persist data.
+Software architects are familiar with the different ways to persist data.
 
-They know the difference between object and block storage and can classify the various storage services of the cloud providers, different COTS products and self-managed solutions for different deployment scenarios.
+They understand the difference between object and block storage and can classify the different storage services provided by cloud providers, various COTS products, and self-managed solutions for different use cases.
 
-Software architects understand the advantages and disadvantages of a cloud-native storage solution and can compare the higher-value managed services (such as RDBMS) of the cloud providers with the use of self-managed solutions.
+Software architects understand the advantages and disadvantages of a cloud-native storage solution and can compare higher-level managed services (such as RDBMS) provided by cloud providers with the use of self-managed solutions.
 
-They know different concepts to realize backup and restore of persistent data in the cloud.
+They are familiar with various concepts for backing up and restoring persistent data in the cloud.
 
 // end::EN[]
 

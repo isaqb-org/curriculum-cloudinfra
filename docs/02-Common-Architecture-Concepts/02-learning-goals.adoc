@@ -43,7 +43,7 @@ Software architects understand the implications of a shared-something/nothing ar
 [[LG-2-2]]
 ==== LG 2-2: Understand Modularization and Integration Options
 
-Software Architects understand how multiple services can be integrated into one application via different ways, for example, integration via:
+Software architects understand how multiple services can be integrated into an application through different approaches, such as integration via:
 
 * Backend (message bus, database, etc.)
 * Frontend (UI integration)

@@ -4,39 +4,39 @@
 // tag::DE[]
 [[LZ-6-1]]
 ==== LZ 6-1: Neue Rollen und deren Aufgaben kennen und unterscheiden
-Softwarearchitekt:innen wissen, dass für den Betrieb von Applikationen in der Cloud neue Rollen definiert wurden.
 
-Sie kennen die Definition von DevOps und DevSecOps kennen und deren Unterscheide.
+Softwarearchitekt:innen kennen die neuen Rollen, die im Kontext des Betriebs von Applikationen in der Cloud populär geworden sind, wie DevOps, DevSecOps und SRE.
 
-Sie verstehen die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps.
+Sie verstehen die Herausforderungen der Adaption dieser neuen Rollen in klassischen Organisationsstrukturen.
 
 [[LZ-6-2]]
 ==== LZ 6-2: Wege zur Schaffung von skalierbaren und hochzuverlässigen Systeme verstehen
+
 Softwarearchitekt:innen verstehen die Möglichkeiten zur Schaffung skalierbarer und hochzuverlässiger Systeme.
 
-Sie lernen die Definition, Methoden und die Herausforderungen des Site Reliability Engineering kennen.
+Sie kennen die Definition, Methoden und die Herausforderungen des Site Reliability Engineerings.
 
 [[LZ-6-3]]
 ==== LZ 6-3: Automatisierungskonzepte zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur verstehen
-Softwarearchitekt:innen verstehen, dass Automatisierung durch Infrastructure as Code ein Schlüsselmethode von DevOps und eine Komponente des Continuous Delivery ist.
 
-Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies über Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur oder die API unterschiedlicher Cloud-Anbieter realisiert werden kann.
+Softwarearchitekt:innen verstehen, dass Automatisierung durch Infrastructure as Code eine Schlüsselmethode modernen Betriebs und eine Komponente des Continuous Delivery ist.
 
-Sie kennen etablierte Vorgehensweisen, um unterschiedliche Konfigurationen der Infrastruktur verwalten.
+Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies mit Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur über die APIs unterschiedlicher Cloud-Anbieter realisiert werden kann.
 
-Sie kennen den Unterschied zwischen Konfiguration und Provisionierung.
+Sie kennen den Unterschied zwischen Infrastruktur-Konfiguration und -Provisionierung, sowie etablierte Vorgehensweisen der Infrastruktur-Verwaltung.
+
 
 [[LZ-6-4]]
 ==== LZ 6-4: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
+
 Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunktionalität der Container-Orchestrierungswerkzeuge erweitern lassen.
 
-Sie kennen weitere Abstraktionsebenen von Container-Managern und können sie unterscheiden.
-
-Sie kennen die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen.
+Sie kennen die Einsatzmöglichkeiten vom Container-Managern und können ihre Abstraktionsebenen unterscheiden.
 
 [[LZ-6-5]]
 ==== LZ 6-5: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
-Softwarearchitekt:innen kennen Methoden zur Berechnung der Auslegung von Ressourcen, wie
+
+Softwarearchitekt:innen kennen Methoden zur Berechnung des Ressourcenbedarfs für:
 
 * Verfügbarkeit
 * Größe eines Clusters
@@ -45,51 +45,43 @@ Softwarearchitekt:innen kennen Methoden zur Berechnung der Auslegung von Ressour
 
 // tag::EN[]
 [[LG-6-1]]
-==== LG 6-1: DevOps, DevSecOps
-Know and classify personal organizational structures for cloud applications, like
+==== LG 6-1: Understand and Differentiate New Roles and Their Responsibilities
 
-* die Definition von DevOps und DevSecOps
-* die Herausforderungen vom Übergang klassischer Strukturen zu DevOps bzw. DevSecOps
+Software architects are familiar with the new roles that have become popular in the context of operating applications in the cloud, such as DevOps, DevSecOps, and SRE.
+
+They understand the challenges of adapting these new roles in traditional organizational structures.
+
 
 [[LG-6-2]]
-==== LG 6-2: Site Reliability Engineering
-Learn ways to improve cloud application availability, like
+==== LG 6-2: Understand Ways to Create Scalable and Highly Reliable Systems
 
-* die Definition von Site Reliability Engineering
-* Herausforderungen des Site Reliability Engineerings
-* Methoden zum Site Reliability Engineering
+Software architects understand the possibilities for creating scalable and highly reliable systems.
+
+They are familiar with the definition, methods, and challenges of Site Reliability Engineering.
 
 [[LG-6-3]]
-==== LG 6-3: Infrastructure as Code
-Know, distinguish and use concepts for configuring and provisioning of cloud applications through Infrastructure as Code and Cloud Provider APIs, like
+==== LG 6-3: Understand Automation Concepts for Predictable Infrastructure Creation, Modification, and Improvement
 
-* die Möglichkeiten der Automatisierung zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur, z. B.:
-** Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur
-** die API unterschiedlicher Cloud-Anbieter
-* etablierte Vorgehensweisen, für den größtmöglichsten Nutzen aus Infrastructure as Code 
-* den Unterschied zwischen Konfiguration und Provisionierung
-* dass der höchst mögliche Grad von Automatisierung bei der Konfiguration bzw. Provisionierung von höherwertigen Diensten Hauptgründe für die Verwendung einer Cloud-Umgebung sind
+Software architects understand that automation through Infrastructure as Code is a key method of modern operations and a component of Continuous Delivery.
 
-* Learn about and distinguish between automation options for predictably creating, modifying, and improving infrastructure, including:
-** Ansible
-** Chef
-** Terraform
-* Know best practices to manage different configurations of infrastructure
-* learn about and use the API of different cloud providers
+They are familiar with the possibilities of automation and understand how this can be realized using tools for automated provisioning of cloud infrastructure through the APIs of different cloud providers.
+
+They understand the difference between infrastructure configuration and provisioning, as well as established practices for infrastructure management.
 
 [[LG-6-4]]
-==== LG 6-4: Abstraction Levels of Container Managers
-Know and being able to classify the different abstraction levels of container managers and their use cases, such as
+==== LG 6-4: Differentiate and Understand Different Abstraction Layers of Container Managers
 
-* die Abstraktionsebenen von Container-Managern
-* die Einsatzmöglichkeiten vom Container-Managern und ihren Werkzeugen
+Software architects are aware that container managers can extend the basic functionality of container orchestration tools.
+
+They are familiar with the use cases for container managers and can differentiate their abstraction layers.
 
 [[LG-6-5]]
-==== LG 6-5: Calculations
-Can perform rough calculations for the design, such as
+==== LG 6-5: Understand Resource Sizing Calculation Methods
+
+Software architects are familiar with methods for calculating resource requirements for:
 
 * Availability
-* Cluster Size
+* Cluster size
 // end::EN[]
 
 

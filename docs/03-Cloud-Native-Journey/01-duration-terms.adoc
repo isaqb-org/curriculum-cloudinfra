@@ -4,8 +4,6 @@
 |===
 
 === Begriffe und Konzepte
-"Applications adopting the principles of Microservices, packaged and delivered as Containers, orchestrated by Platforms, running on top of Cloud infrastructure".
-
 NFRs to the Platform, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux.
 
 
@@ -17,8 +15,6 @@ NFRs to the Platform, Cloud Native Storage, Backup & Restore, Overlay Networking
 |===
 
 === Terms and Principles
-"Applications adopting the principles of Microservices, packaged and delivered as Containers, orchestrated by Platforms, running on top of Cloud infrastructure".
-
 NFRs to the Platform, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux.
 
 // end::EN[]

@@ -14,7 +14,7 @@ Resilienz Muster, Container Application Design, Cloud Native Architekturen, Cont
 |===
 
 === Terms and Principles
-Resilience Pattern, Container Application Design, Cloud Native Architectures, Container Pattern, Service Mesh
+Resilience Patterns, Container Application Design, Cloud Native Architectures, Container Patterns, Service Mesh
 
 // end::EN[]
 
