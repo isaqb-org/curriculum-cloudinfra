@@ -2,29 +2,41 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Im Cloud Umfeld verwendete Begriffe verstehen und unterscheiden
+==== LZ 1-1: Cloud-Arten, Cloud-Muster und Cloud Migrationsmuster verstehen und unterscheiden
 
-Softwarearchitekt:innen kennen die im Cloud Umfeld verwendeten Begriffe und können deren Bedeutung unterscheiden.
-
-Sie verstehen die Definition des Begriffs Cloud und kennen unterschiedliche Cloud-Arten (Public, Private, On-Premise, Hybrid/Multi).
+Softwarearchitekt:innen verstehen die Definition des Begriffs Cloud und kennen unterschiedliche Cloud-Arten (Public, Private, On-Premise, Hybrid/Multi).
 
 Sie kennen die Unterschiede zwischen Cloud-Anbieter und On Premise Betrieb. Außerdem kennen sie die Gründe für den Betrieb in der Cloud und die Vor- und Nachteile dieser Betriebsform.
 
-Sie verstehen, wie der reduzierte Umfang von notwendigen Hosting-Kompetenzen bei der Verwendung eines Cloud-Anbieters sich auf Risiko und Kosten auswirkt.
-
 Sie verstehen welche Cloud-Art für welchen Einsatz am besten geeignet ist und wann dennoch der Einsatz von eigener Hardware (Bare Metal) sinnvoller sein kann.
-
-Teilnehmende kennen unterschiedliche Cloud Service Modelle (*aaS) und können Services anhand dieser Modelle klassifizieren.
-
-Sie kennen den Begriff Vendor Lock-in und dessen Zusammenhang mit Managed Services sowie Cloud Native Services.
 
 Sie verstehen den Unterschied zwischen Cloud-Muster und Cloud-Migrationsmuster.
 
-Sie kennen die organisatorischen Aspekte der Cloud Migration und die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud. 
+[[LZ-1-2]]
+==== LZ 1-2: Entscheidungkriterien für die Nutzung von managed Services und self-managed Services verstehen
+
+Softwarearchitekt:innen kennen unterschiedliche Cloud Service Modelle (*aaS) und können Services anhand dieser Modelle klassifizieren.
+
+Sie kennen das Shared Responsibility Modell und wissen, wie es bei der Einschätzung von Kosten und Risiko bei der Auswahl von managed Cloud Services hilfreich sein kann.
+
+Sie kennen den Begriff Vendor Lock-in und dessen Zusammenhang mit managed Services sowie self-managed Services.
+
+[[LZ-1-3]]
+==== LZ 1-3: Organisatorische und konformitätsaspekte für die Auswahl der Cloud-Architektur berücksichtigen
+
+Softwarearchitekt:innen kennen die organisatorischen Aspekte der Cloud Migration und die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud, z. b.:
+
+* DSGVO (GDPR)
+* GoBD
+* ISO 27001
+* BSI-Grundschutzverordnung 
 
 Sie verstehen, dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind und dass organisatorische und/oder rechtliche Anforderungen die Wahl der verwendeten Cloud-Art beeinflussen.
 
-Teilnehmende kennen die Auswirkungen der Cloud auf Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations und Networking hat.
+[[LZ-1-4]]
+==== LZ 1-4: Verfügbarkeit, Skalierung und Performance als Anforderungsparameter beim Cloud-Architektur-Design anwenden
+
+Softwarearchitekt:innen kennen die Auswirkungen der Cloud auf Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations und Networking hat.
 
 Sie verstehen, dass Cloud Anwendungen und deren Anforderungen an die Verfügbarkeit, die Skalierung und Performance die Verteilung auf mehrere Verfügbarkeitszonen und Rechenzentren verlangen.
 
