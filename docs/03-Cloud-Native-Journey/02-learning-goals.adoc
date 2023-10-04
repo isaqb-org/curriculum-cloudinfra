@@ -94,7 +94,6 @@ Software architects understand the abstraction concepts of current container man
 
 Software architects know the principles of an overlay network (VLAN) for containers and container managers and understand how different services or systems are isolated. They are familiar with requirement scenarios such as implementing a distributed firewall for isolating:
 
-
 * Multiple tenants
 * Test systems in the context of CI/CD
 
