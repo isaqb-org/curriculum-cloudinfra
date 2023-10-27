@@ -12,6 +12,8 @@ Sie kennen verschiedene Container Application Design Muster, wie zum Beispiel:
 * Scatter & Gather
 * Work Queue
 
+Literatur: <<burns>>
+
 Softwarearchitekt:innen kennen Methoden, um technische von fachlichen Aufgaben durch getrennte Container zu realisieren und verstehen, wie Container-Manager über dieses Prinzip technische Aufgaben übernimmt, insbesondere:
 
 * Konfiguration und Initialisierung von Anwendungen
@@ -31,6 +33,8 @@ Softwarearchitekt:innen kennen u. a. folgende Resilienz-Muster:
 * Conditional Rate Limits
 * Traffic Shifting
 
+Literatur: <<davis>>
+
 Sie kennen das Konzept von Chaos Engineering und dessen Methoden, die Systemresilienz durch gezieltes Einbringen von Störungen zu testen.
 
 // end::DE[]
@@ -46,6 +50,8 @@ They are aware of various container application design patterns, such as:
 * Ambassador/Adapter/Sidecar
 * Scatter & Gather
 * Work Queue
+
+References: <<burns>>
 
 Software architects are familiar with methods for separating technical and business tasks through separate containers and understand how container managers handle technical tasks through this principle, particularly:
 
@@ -66,8 +72,8 @@ Software architects are familiar with the following resilience patterns, among o
 * Conditional Rate Limits
 * Traffic Shifting
 
+References: <<davis>>
+
 They are familiar with the concept of chaos engineering and its methods to test system resilience by deliberately introducing disruptions.
 
 // end::EN[]
-
-
