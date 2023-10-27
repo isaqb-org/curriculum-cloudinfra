@@ -8,7 +8,7 @@ Softwarearchitekt:innen kennen die Konzepte des Container Application Designs (C
 
 Sie kennen verschiedene Container Application Design Muster, wie zum Beispiel:
 
-* Ambassador/Adapter/Sidekick
+* Ambassador/Adapter/Sidecar
 * Scatter & Gather
 * Work Queue
 
@@ -47,7 +47,7 @@ Software architects are familiar with the concepts of container application desi
 
 They are aware of various container application design patterns, such as:
 
-* Ambassador/Adapter/Sidekick
+* Ambassador/Adapter/Sidecar
 * Scatter & Gather
 * Work Queue
 
