@@ -74,7 +74,7 @@ Software architects understand the benefits and goals of the Cloud Native concep
 References: <<davis>>
 
 [[LG-3-2]]
-==== LG 3-2: Understand basic container concepts
+==== LG 3-2: Understand Basic Container Concepts
 
 Software architects understand the technical basics and the added value of containers and know the difference between conventional deployment and deployment with containers.
 
@@ -105,7 +105,7 @@ Software architects know the principles of an overlay network (VLAN) for contain
 * Test systems in the context of CI/CD
 
 [[LG-3-4]]
-==== LG 3-4: Understand the benefits of specialized Linux distributions for operating containers
+==== LG 3-4: Understand the Benefits of Specialized Linux Distributions for Operating Containers
 
 Software architects understand how current core/container Linux distributions are optimized for operating containers, the benefits they offer (including kernel and distribution updates), and the implications for the applications being run.
 

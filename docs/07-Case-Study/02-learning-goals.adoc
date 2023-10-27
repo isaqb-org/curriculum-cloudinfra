@@ -10,7 +10,7 @@ Die Fallstudie soll die Themen durch praktische Übungen vertiefen und die Praxi
 
 // tag::EN[]
 [[LG-7-1]]
-==== LG 7-1: Deepening the understanding by practical exercises
+==== LG 7-1: Deepening the Understanding by Practical Exercises
 The Case Study is intended to deepen the topics through practical exercises and to clarify the practice.
 // end::EN[]
 

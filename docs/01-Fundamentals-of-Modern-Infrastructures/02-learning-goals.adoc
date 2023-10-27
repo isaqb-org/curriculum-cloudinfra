@@ -11,7 +11,7 @@ Sie verstehen Cloud-Muster und Cloud-Migrationsmuster, sowie deren Anwendung.
 Sie verstehen den Unterschied zwischen Cloud- und On-Premise-Betrieb sowie die Argumente für und gegen den Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
 
 [[LZ-1-2]]
-==== LZ 1-2: Entscheidungkriterien für die Nutzung von managed Services und self-managed Services verstehen
+==== LZ 1-2: Entscheidungskriterien für die Nutzung von managed Services und self-managed Services verstehen
 
 Softwarearchitekt:innen kennen unterschiedliche Cloud Service Modelle (*aaS) und können Services anhand dieser Modelle klassifizieren.
 
@@ -52,7 +52,7 @@ They understand cloud patterns and cloud migration patterns, and how to apply th
 They understand the difference between cloud and on-premise operations, as well as the arguments for and against cloud operations. They also recognize when the use of own hardware (bare metal) is more appropriate.
 
 [[LG-1-2]]
-==== LG 1-2: Understand Decision Criteria for the Use of Managed Services and Self-managed Services
+==== LG 1-2: Understand Decision Criteria for the Use of Managed Services and Self-Managed Services
 
 Software architects know different cloud service models (*aaS) and can classify services based on these models.
 
@@ -61,7 +61,7 @@ They understand the shared responsibility model and its relevance for cost and r
 They know the concept of vendor lock-in and its relevance for decision-making between managed and self-managed services.
 
 [[LG-1-3]]
-==== LG 1-3: Incorporate Compliance and Organizational Aspects into Cloud Architecture
+==== LG 1-3: Incorporate Compliance and Organizational Aspects Into Cloud Architecture
 
 Software architects are familiar with the organizational aspects of cloud migration and the legal framework for operating applications in the cloud, e.g:
 

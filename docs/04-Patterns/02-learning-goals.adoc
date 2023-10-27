@@ -41,7 +41,7 @@ Sie kennen das Konzept von Chaos Engineering und dessen Methoden, die Systemresi
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: Know different patterns for modularizing cloud-native architectures
+==== LG 4-1: Know Different Patterns for Modularizing Cloud-Native Architectures
 
 Software architects are familiar with the concepts of container application design (container pattern) to modularize software components into containers and implement cloud-native architectures.
 
@@ -60,7 +60,7 @@ Software architects are familiar with methods for separating technical and busin
 * Container management through operators or controllers
 
 [[LG-4-2]]
-==== LG 4-2: Ability to select appropriate resilience patterns to increase fault tolerance
+==== LG 4-2: Ability to Select Appropriate Resilience Patterns to Increase Fault Tolerance
 
 Software architects understand how communication between services in a distributed application can be made fault-tolerant.
 
