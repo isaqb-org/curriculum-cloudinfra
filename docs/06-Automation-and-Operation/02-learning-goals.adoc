@@ -23,7 +23,7 @@ Softwarearchitekt:innen verstehen, dass Automatisierung durch Infrastructure as 
 
 Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies mit Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur über die APIs unterschiedlicher Cloud-Anbieter realisiert werden kann.
 
-Sie kennen den Unterschied zwischen Infrastruktur-Konfiguration und -Provisionierung, sowie etablierte Vorgehensweisen der Infrastruktur-Verwaltung.
+Sie kennen den Unterschied zwischen Infrastrukturkonfiguration und -Provisionierung, sowie etablierte Vorgehensweisen der Infrastruktur-Verwaltung.
 
 
 [[LZ-6-4]]

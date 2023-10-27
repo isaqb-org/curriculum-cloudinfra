@@ -13,13 +13,36 @@ Dieser Abschnitt enthält Ressourcen, die zur Erfüllung des Lehrplans verwendet
 This section contains resources that should be used to fulfill the curriculum.
 // end::EN[]
 
-- Brendan Burns: Designing Distributed Systems. Patterns and Paradigms for Scaleable, Reliable Services. O'Reilly Media, 2018
+- [[[davis,Davis 2019]]] Cornelia Davis: Cloud Native Patterns. Designing Change-tolerant Software. Manning, 2019
 
-- Cornelia Davis: Cloud Native Patterns. Designing Change-tolerant Software. Manning, 2019
+- [[[awati_wigmore,Awati, R. & Wigmore, I. (2022). Monolithic architecture]]] Awati, R. & Wigmore, I. (2022). Monolithic architecture. WhatIs.com. https://www.techtarget.com/whatis/definition/monolithic-architecture
 
-- Ibryam Bilgin, Roland Huss: Kubernetes Patterns. Reusable Elements for Designing Cloud Native Applications. O'Reilly Media, Second edition, 2023
+- [[[microservices_monolith,Monolithic architecture pattern. (o. D.). microservices.io]]] Monolithic architecture pattern. (o. D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/monolithic.html
 
-- Beyer Betsy, Chris Jones, Jennifer Petoff, Niall Richard Murphy: Site Reliability Engineering. How Google Runs Production Systems. O'Reilly, 2016
+- [[[fowler_monolith,Dehghani, Z. (o.D.). How to break a monolith into microservices]]] Dehghani, Z. (o.D.). How to break a monolith into microservices. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://martinfowler.com/articles/break-monolith-into-microservices.html
 
-- Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: The Devops Handbook. How to Create World-Class Agility Reliability and Security in Technology Organizations. IT Revolution Press, Second edition, 2021
+- [[[fowler_monolithfirst,Fowler, M. (o.D.). Bliki: MonolithFirst]]] Fowler, M. (o.D.). Bliki: MonolithFirst. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://www.martinfowler.com/bliki/MonolithFirst.html
 
+- [[[fowler_microservices,Lewis, J. (o.D.). Microservices]]] Lewis, J. (o.D.). Microservices. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://martinfowler.com/articles/microservices.html
+
+- [[[microservices_microservice,Microservice Architecture Pattern. (o.D.). microservices.io]]] Microservice Architecture Pattern. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/microservices.html
+
+- [[[scs,SCS: Self-contained systems (o. D.)]]] SCS: Self-contained systems. (o.D.). Abgerufen am 4. Oktober 2023, von https://scs-architecture.org/
+
+- [[[scs_wolff,Wolff, E. (2017, 3. Mai). Self Contained Systems (SCS): Microservices done right]]] Wolff, E. (2017, 3. Mai). Self Contained Systems (SCS): Microservices done right. InfoQ. Abgerufen am 4. Oktober 2023, von https://www.infoq.com/articles/scs-microservices-done-right/
+
+- [[[microservices_event-sourcing,Event sourcing. (o.D.). microservices.io]]] Event sourcing. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/data/event-sourcing.html
+
+- [[[cncf_landscape_streaming_messaging,Cloud Native landscape. (o.D.). Cloud Native Landscape]]] Cloud Native landscape. (o.D.). Cloud Native Landscape. Abgerufen am 4. Oktober 2023, von https://landscape.cncf.io/card-mode?category=streaming-messaging&grouping=category
+
+- [[[microservices_messaging,Messaging. (o.D.). microservices.io]]] Messaging. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/communication-style/messaging.html
+
+- [[[rss,RSS 2.0 specification (Current). (o.D.)]]] RSS 2.0 specification (Current). (o.D.). Abgerufen am 4. Oktober 2023, von https://www.rssboard.org/rss-specification
+
+- [[[backend_integration,Backend integration. (o.D.)]]] Backend integration. (o.D.). Abgerufen am 4. Oktober 2023, von https://www.microservice-api-patterns.org/patterns/foundation/BackendIntegration
+
+- [[[frontend_integration,Frontend Integration. (o.D.)]]] Frontend Integration. (o.D.). Abgerufen am 4. Oktober 2023, von https://www.microservice-api-patterns.org/patterns/foundation/FrontendIntegration
+
+- [[[Betsy]]] Beyer Betsy, Chris Jones, Jennifer Petoff, Niall Richard Murphy: Site Reliability Engineering. How Google Runs Production Systems. O'Reilly, 2016
+
+- [[[kim]]] Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: The Devops Handbook. How to Create World-Class Agility Reliability and Security in Technology Organizations. IT Revolution Press, Second edition, 2021

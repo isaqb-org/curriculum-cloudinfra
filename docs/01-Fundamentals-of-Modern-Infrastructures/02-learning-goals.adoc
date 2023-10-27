@@ -8,14 +8,14 @@ Softwarearchitekt:innen kennen die gängigen Cloud-Begriffe und können verschie
 
 Sie verstehen Cloud-Muster und Cloud-Migrationsmuster, sowie deren Anwendung.
 
-Sie verstehen den Unterschied zwischen Cloud- und On-Premise-Betrieb sowie die Argumente für und gegen den Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller sein.
+Sie verstehen den Unterschied zwischen Cloud- und On-Premise-Betrieb sowie die Argumente für und gegen den Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
 
 [[LZ-1-2]]
 ==== LZ 1-2: Entscheidungkriterien für die Nutzung von managed Services und self-managed Services verstehen
 
 Softwarearchitekt:innen kennen unterschiedliche Cloud Service Modelle (*aaS) und können Services anhand dieser Modelle klassifizieren.
 
-Sie verstehen das Shared Responsibility Modell und dessen Relevanz für Kosten- und Risikobewertungen bei der Nutzung von managed Cloud Services. 
+Sie verstehen das Shared-Responsibility-Modell und dessen Relevanz für Kosten- und Risikobewertungen bei der Nutzung von managed Cloud Services.
 
 Sie kennen das Konzept des Vendor Lock-in und seine Relevanz für die Entscheidungsfindung zwischen managed und self-managed Services.
 
@@ -29,7 +29,7 @@ Softwarearchitekt:innen kennen die organisatorischen Aspekte der Cloud Migration
 * ISO 27001
 * BSI IT-Grundschutz
 
-Sie verstehen, dass sowohl die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind und dass organisatorische und/oder rechtliche Anforderungen die Wahl der verwendeten Cloud-Art beeinflussen.
+Sie verstehen, dass die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind und dass organisatorische und/oder rechtliche Anforderungen die Wahl der verwendeten Cloud-Art beeinflussen.
 
 [[LZ-1-4]]
 ==== LZ 1-4: Verfügbarkeit, Skalierung und Performance als Anforderungsparameter beim Cloud-Architektur-Design anwenden
@@ -70,7 +70,7 @@ Software architects are familiar with the organizational aspects of cloud migrat
 * ISO 27001
 * IT-Grundschutz (A systematic basis for information security)
 
-They understand both that the aspects of data security are relevant for the decision for or against a public cloud and that organizational and/or legal requirements influence the choice of the type of cloud used.
+They understand that the aspects of data security are relevant for the decision for or against a public cloud and that organizational and/or legal requirements influence the choice of the type of cloud used.
 
 [[LG-1-4]]
 ==== LG 1-4: Apply Availability, Scaling and Performance Requirements as Parameters in Cloud Architecture Design

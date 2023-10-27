@@ -25,12 +25,12 @@ Softwarearchitekt:innen verstehen Linux-Kernel-Isolationsmechanismen, die bei Co
 * Namespaces und cgroups
 * Capabilities
 
-Sie kennen ausserdem die Auswirkungen, Nutzungszenarien und Gefahren privilegierter Container.
+Sie kennen außerdem die Auswirkungen, Nutzungszenarien und Gefahren privilegierter Container.
 
 [[LZ-3-3]]
-==== LZ 3-3: Abstraktionskonzepte von Container Managern verstehen
+==== LZ 3-3: Abstraktionskonzepte von Container-Managern verstehen
 
-Softwarearchitekt:innen verstehen die Abstraktionskonzepte aktueller Container-Manager und kennen bewährte Muster und Praktiken, wie die Erfüllung nichtfunktionaler Anforderungen (NFR) auf sie übertragen werden kann. Zum Beispiel:
+Softwarearchitekt:innen verstehen die Abstraktionskonzepte aktueller Container-Manager und kennen bewährte Muster und Praktiken, wie die Erfüllung von Qualitätsanforderungen auf sie übertragen werden kann. Zum Beispiel:
 
 * Finite Workloads wie (Cron-) Jobs
 * Health Check und Self Healing
@@ -52,9 +52,9 @@ Softwarearchitekt:innen verstehen, wie aktuelle Core/Container-Linux-Distributio
 [[LZ-3-5]]
 ==== LZ 3-5: Persistenzlösungen in Cloud-Umgebungen bewerten und auswählen
 
-Softwarearchitekt:innen kennen die verschiedenen Wege um Daten zu persistieren.
+Softwarearchitekt:innen kennen verschiedene Wege, um Daten zu persistieren.
 
-Sie kennen den Unterschied von Object- und Block-Storage und können die verschiedenen Storage-Dienste der Cloud-Anbieter, unterschiedliche COTS-Produkte und selbstverwaltete Lösungen für unterschiedliche Einsatzszenarien klassifizieren.
+Sie kennen den Unterschied von Object- und Block-Storage und können verschiedene Storage-Dienste der Cloud-Anbieter, unterschiedliche COTS-Produkte und selbstverwaltete Lösungen für unterschiedliche Einsatzszenarien klassifizieren.
 
 Softwarearchitekt:innen verstehen die Vor- und Nachteile einer Cloud-Native-Storage-Lösung und können die höherwertigen Managed Services (wie etwa RDBMS) der Cloud-Anbieter mit der Verwendung selbstverwalteter Lösungen vergleichen.
 
@@ -90,7 +90,7 @@ They also understand the implications, usage scenarios, and threats of privilege
 [[LG-3-3]]
 ==== LG 3-3: Understand Container Manager Abstraction Concepts
 
-Software architects understand the abstraction concepts of current container managers and know patterns and best practices on how to apply non-functional requirements (NFR) fulfillment to them. For example:
+Software architects understand the abstraction concepts of current container managers and know best patterns and practices on how to apply quality requirements to them. For example:
 
 * Finite workloads such as (cron) jobs.
 * Health Check and Self Healing

@@ -4,7 +4,7 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Verschiedene Muster für die Modularisierung von Cloud-Native Architekturen kennen
 
-Softwarearchitekt:innen kennen die Konzepte des Container Application Designs (Container Pattern), um Software-Komponenten in Container modularisieren zu können und Cloud-native Architekturen zu realisieren.
+Softwarearchitekt:innen kennen die Konzepte des Container Application Designs (Container Pattern), um Softwarekomponenten in Container modularisieren zu können und Cloud-native Architekturen zu realisieren.
 
 Sie kennen verschiedene Container Application Design Muster, wie zum Beispiel:
 
@@ -14,20 +14,20 @@ Sie kennen verschiedene Container Application Design Muster, wie zum Beispiel:
 
 Literatur: <<burns>>
 
-Softwarearchitekt:innen kennen Methoden, um technische von fachlichen Aufgaben durch getrennte Container zu realisieren und verstehen, wie Container-Manager über dieses Prinzip technische Aufgaben übernimmt, insbesondere:
+Softwarearchitekt:innen kennen Methoden, um technische von fachlichen Aufgaben durch getrennte Container zu realisieren und verstehen, wie Container-Manager über dieses Prinzip technische Aufgaben übernehmen, insbesondere:
 
 * Konfiguration und Initialisierung von Anwendungen
 * Adaptive Skalierung über Custom Metrics
 * Container Management durch Operator bzw. Controller
 
 [[LZ-4-2]]
-==== LZ 4-2: Passende Resilienz-Muster zur Erhöhung von Fehlertoleranz auswählen
+==== LZ 4-2: Passende Resilienzmuster zur Erhöhung von Fehlertoleranz auswählen
 
 Softwarearchitekt:innen verstehen, wie bei einer verteilten Anwendung die Kommunikation zwischen den Services fehlertolerant realisiert werden kann.
 
-Sie verstehen, durch welche Muster Fehlertoleranz auf der Kommunikationsebene erhöht werden kann und wie gängige Service-Mesh-Konzepte verwendet werden können, um die Implementation Resilienz-Mustern vom fachlichen Code zu trennen.
+Sie verstehen, durch welche Muster Fehlertoleranz auf der Kommunikationsebene erhöht werden kann und wie gängige Service-Mesh-Konzepte verwendet werden können, um die Implementation von Resilienzmustern vom fachlichen Code zu trennen.
 
-Softwarearchitekt:innen kennen u. a. folgende Resilienz-Muster:
+Softwarearchitekt:innen kennen u. a. folgende Resilienzmuster:
 
 * Circuit Breaker
 * Conditional Rate Limits

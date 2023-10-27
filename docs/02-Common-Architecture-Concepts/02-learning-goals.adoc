@@ -19,7 +19,7 @@ Sie verstehen die unterschiedlichen Technologien entkoppelter Kommunikation und 
 Softwarearchitekt:innen kennen die Auswirkungen einer Shared-Something/Nothing-Architektur, die insbesondere durch eine Skalierung über Container entsteht.
 
 [[LZ-2-2]]
-==== LZ 2-2: Situativ passende Integrations-Konzepte verteilter Anwendungen auswählen
+==== LZ 2-2: Situativ passende Integrationskonzepte verteilter Anwendungen auswählen
 
 Softwarearchitekt:innen verstehen, wie mehrere Services über unterschiedliche Wege zu einer Applikation integriert werden können, zum Beispiel durch Integration über:
 

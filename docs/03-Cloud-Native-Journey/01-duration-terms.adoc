@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-NFRs to the Platform, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux.
+Qualitätsanforderungen an die Plattform, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux.
 
 
 // end::DE[]
@@ -15,7 +15,7 @@ NFRs to the Platform, Cloud Native Storage, Backup & Restore, Overlay Networking
 |===
 
 === Terms and Principles
-NFRs to the Platform, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux.
+Platform quality requirements, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux.
 
 // end::EN[]
 
