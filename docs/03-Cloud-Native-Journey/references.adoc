@@ -1,7 +1,3 @@
 === {references}
 
-- [[[davis,Davis 2019]]] Cornelia Davis: Cloud Native Patterns. Designing Change-tolerant Software. Manning, 2019
-
-- [[[burns,Burns 2018]]] Brendan Burns: Designing Distributed Systems. Patterns and Paradigms for Scaleable, Reliable Services. O'Reilly Media, 2018
-
-- [[[bilgin_huss,Bilgin, Huss 2023]]] Ibryam Bilgin, Roland Huss: Kubernetes Patterns. Reusable Elements for Designing Cloud Native Applications. O'Reilly Media, Second edition, 2023
+<<davis>>, <<burns>>, <<bilgin_huss>>

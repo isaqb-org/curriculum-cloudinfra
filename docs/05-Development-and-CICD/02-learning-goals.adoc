@@ -20,14 +20,10 @@ Sie kennen Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Applic
 ** Canary Deployment
 ** Blue/Green Deployment
 
-Literatur: <<davis>>, <<bilgin_huss>>
-
 Sie kennen Komponenten und Vorgehensmodelle, um einen schnellen Test- und Deployment-Prozess zu realisieren. Insbesondere Konzepte zum Dev/Test/Prod Cluster wie:
 
 * Verantwortlichkeiten und Zugriffskontrolle
 * Good Practices zur Komponentengruppierung
-
-Literatur : <<richardson>>
 
 [[LZ-5-2]]
 ==== LZ 5-2: Wege der Beobachtbarkeit von verteilten Applikationen kennen
@@ -39,8 +35,6 @@ Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einflus
 * Logging
 * Monitoring/Metriken und Alerting
 * Distributed Tracing
-
-Literatur: <<davis>>
 
 Sie kennen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts.
 // end::DE[]
@@ -64,14 +58,10 @@ They understand the possibilities of implementing deployments and application li
 ** Canary deployment
 ** Blue/green deployment
 
-References: <<davis>>, <<bilgin_huss>>
-
 They are familiar with components and models for achieving a fast testing and deployment process, particularly concepts related to dev/test/prod clusters, such as:
 
 * Responsibilities and access control
 * Good practices for component grouping
-
-Literatur : <<richardson>>
 
 [[LG-5-2]]
 ==== LG 5-2: Understanding approaches for observability of distributed applications
@@ -83,8 +73,6 @@ They understand the unique conditions of distributed applications and their impa
 * Logging
 * Monitoring/metrics and alerting
 * Distributed tracing
-
-Literatur : <<davis>>
 
 They are familiar with approaches and responsibilities for creating predictive time series queries for alerts.
 // end::EN[]

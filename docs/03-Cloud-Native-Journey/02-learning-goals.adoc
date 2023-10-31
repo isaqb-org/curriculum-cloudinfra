@@ -11,8 +11,6 @@ Softwarearchitekt:innen verstehen den Nutzen und die Ziele des Cloud Native Konz
 * Lieferartefakte
 * Isolation der Applikation vom Hostsystem
 
-Literatur: <<davis>>
-
 [[LZ-3-2]]
 ==== LZ 3-2: Grundlegende Container Konzepte verstehen
 
@@ -36,8 +34,6 @@ Softwarearchitekt:innen verstehen die Abstraktionskonzepte aktueller Container-M
 * Health Check und Self Healing
 * Skalierung und Load Balancing
 * Placement
-
-Literatur: <<bruns>>, <<bilgin_huss>>
 
 Softwarearchitekt:innen kennen die Prinzipien eines Overlay-Networks (VLAN) für Container und Container-Manager und verstehen, wie verschiedene Services oder Systeme isoliert werden. Sie kennen Anforderungszenarien wie z. B. die Realisierung einer verteilten Firewall zur Isolation von:
 
@@ -71,8 +67,6 @@ Software architects understand the benefits and goals of the Cloud Native concep
 * Resource abstraction
 * Delivery artifacts
 
-References: <<davis>>
-
 [[LG-3-2]]
 ==== LG 3-2: Understand Basic Container Concepts
 
@@ -96,8 +90,6 @@ Software architects understand the abstraction concepts of current container man
 * Health Check and Self Healing
 * Scaling and load balancing
 * Placement
-
-References: <<davis>>, <<bruns>>, <<bilgin_huss>>
 
 Software architects know the principles of an overlay network (VLAN) for containers and container managers and understand how different services or systems are isolated. They are familiar with requirement scenarios such as implementing a distributed firewall for isolating:
 

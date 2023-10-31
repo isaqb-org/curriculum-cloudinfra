@@ -7,42 +7,80 @@
 
 // tag::DE[]
 Dieser Abschnitt enthält Ressourcen, die zur Erfüllung des Lehrplans verwendet werden sollten.
-// end::DE[]
-
-// tag::EN[]
-This section contains resources that should be used to fulfill the curriculum.
-// end::EN[]
-
-- [[[davis,Davis 2019]]] Cornelia Davis: Cloud Native Patterns. Designing Change-tolerant Software. Manning, 2019
 
 - [[[awati_wigmore,Awati, R. & Wigmore, I. (2022). Monolithic architecture]]] Awati, R. & Wigmore, I. (2022). Monolithic architecture. WhatIs.com. https://www.techtarget.com/whatis/definition/monolithic-architecture
 
-- [[[microservices_monolith,Monolithic architecture pattern. (o. D.). microservices.io]]] Monolithic architecture pattern. (o. D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/monolithic.html
+- [[[backend_integration,Backend integration. (o.D.)]]] Backend integration. (o.D.). Abgerufen am 4. Oktober 2023, von https://www.microservice-api-patterns.org/patterns/foundation/BackendIntegration
+
+- [[[Betsy]]] Beyer Betsy, Chris Jones, Jennifer Petoff, Niall Richard Murphy: Site Reliability Engineering. How Google Runs Production Systems. O'Reilly, 2016
+
+- [[[cncf_landscape_streaming_messaging,Cloud Native landscape. (o.D.). Cloud Native Landscape]]] Cloud Native landscape. (o.D.). Cloud Native Landscape. Abgerufen am 4. Oktober 2023, von https://landscape.cncf.io/card-mode?category=streaming-messaging&grouping=category
+
+- [[[davis,Davis 2019]]] Cornelia Davis: Cloud Native Patterns. Designing Change-tolerant Software. Manning, 2019
 
 - [[[fowler_monolith,Dehghani, Z. (o.D.). How to break a monolith into microservices]]] Dehghani, Z. (o.D.). How to break a monolith into microservices. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://martinfowler.com/articles/break-monolith-into-microservices.html
 
-- [[[fowler_monolithfirst,Fowler, M. (o.D.). Bliki: MonolithFirst]]] Fowler, M. (o.D.). Bliki: MonolithFirst. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://www.martinfowler.com/bliki/MonolithFirst.html
+- [[[microservices_event-sourcing,Event sourcing. (o.D.). microservices.io]]] Event sourcing. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/data/event-sourcing.html
+
+- [[[frontend_integration,Frontend Integration. (o.D.)]]] Frontend Integration. (o.D.). Abgerufen am 4. Oktober 2023, von https://www.microservice-api-patterns.org/patterns/foundation/FrontendIntegration
+
+- [[[kim]]] Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: The Devops Handbook. How to Create World-Class Agility Reliability and Security in Technology Organizations. IT Revolution Press, Second edition, 2021
+
+- [[[microservices_messaging,Messaging. (o.D.). microservices.io]]] Messaging. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/communication-style/messaging.html
 
 - [[[fowler_microservices,Lewis, J. (o.D.). Microservices]]] Lewis, J. (o.D.). Microservices. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://martinfowler.com/articles/microservices.html
 
 - [[[microservices_microservice,Microservice Architecture Pattern. (o.D.). microservices.io]]] Microservice Architecture Pattern. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/microservices.html
 
-- [[[scs,SCS: Self-contained systems (o. D.)]]] SCS: Self-contained systems. (o.D.). Abgerufen am 4. Oktober 2023, von https://scs-architecture.org/
+- [[[microservices_monolith,Monolithic architecture pattern. (o. D.). microservices.io]]] Monolithic architecture pattern. (o. D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/monolithic.html
 
-- [[[scs_wolff,Wolff, E. (2017, 3. Mai). Self Contained Systems (SCS): Microservices done right]]] Wolff, E. (2017, 3. Mai). Self Contained Systems (SCS): Microservices done right. InfoQ. Abgerufen am 4. Oktober 2023, von https://www.infoq.com/articles/scs-microservices-done-right/
+- [[[fowler_monolithfirst,Fowler, M. (o.D.). Bliki: MonolithFirst]]] Fowler, M. (o.D.). Bliki: MonolithFirst. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://www.martinfowler.com/bliki/MonolithFirst.html
 
-- [[[microservices_event-sourcing,Event sourcing. (o.D.). microservices.io]]] Event sourcing. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/data/event-sourcing.html
-
-- [[[cncf_landscape_streaming_messaging,Cloud Native landscape. (o.D.). Cloud Native Landscape]]] Cloud Native landscape. (o.D.). Cloud Native Landscape. Abgerufen am 4. Oktober 2023, von https://landscape.cncf.io/card-mode?category=streaming-messaging&grouping=category
-
-- [[[microservices_messaging,Messaging. (o.D.). microservices.io]]] Messaging. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/communication-style/messaging.html
+- [[[richardson,Richardson 2018]]] Chris Richardson: Microservice Patterns. Manning, 2018
 
 - [[[rss,RSS 2.0 specification (Current). (o.D.)]]] RSS 2.0 specification (Current). (o.D.). Abgerufen am 4. Oktober 2023, von https://www.rssboard.org/rss-specification
 
-- [[[backend_integration,Backend integration. (o.D.)]]] Backend integration. (o.D.). Abgerufen am 4. Oktober 2023, von https://www.microservice-api-patterns.org/patterns/foundation/BackendIntegration
+- [[[scs,SCS: Self-contained systems (o. D.)]]] SCS: Self-contained systems. (o.D.). Abgerufen am 4. Oktober 2023, von https://scs-architecture.org/
 
-- [[[frontend_integration,Frontend Integration. (o.D.)]]] Frontend Integration. (o.D.). Abgerufen am 4. Oktober 2023, von https://www.microservice-api-patterns.org/patterns/foundation/FrontendIntegration
+- [[[scs_wolff,Wolff, E. (2017, 3. Mai). Self Contained Systems (SCS): Microservices done right]]] Wolff, E. (2017, 3. Mai). Self Contained Systems (SCS): Microservices done right. InfoQ. Abgerufen am 4. Oktober 2023, von https://www.infoq.com/articles/scs-microservices-done-right/
+// end::DE[]
+
+// tag::EN[]
+This section contains resources that should be used to fulfill the curriculum.
+
+- [[[awati_wigmore,Awati, R. & Wigmore, I. (2022). Monolithic architecture]]] Awati, R. & Wigmore, I. (2022). Monolithic architecture. WhatIs.com. https://www.techtarget.com/whatis/definition/monolithic-architecture
+
+- [[[backend_integration,Backend integration. (o.D.)]]] Backend integration. (o.D.). Abgerufen am 4. Oktober 2023, von https://www.microservice-api-patterns.org/patterns/foundation/BackendIntegration
 
 - [[[Betsy]]] Beyer Betsy, Chris Jones, Jennifer Petoff, Niall Richard Murphy: Site Reliability Engineering. How Google Runs Production Systems. O'Reilly, 2016
 
+- [[[cncf_landscape_streaming_messaging,Cloud Native landscape. (o.D.). Cloud Native Landscape]]] Cloud Native landscape. (o.D.). Cloud Native Landscape. Abgerufen am 4. Oktober 2023, von https://landscape.cncf.io/card-mode?category=streaming-messaging&grouping=category
+
+- [[[davis,Davis 2019]]] Cornelia Davis: Cloud Native Patterns. Designing Change-tolerant Software. Manning, 2019
+
+- [[[fowler_monolith,Dehghani, Z. (o.D.). How to break a monolith into microservices]]] Dehghani, Z. (o.D.). How to break a monolith into microservices. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://martinfowler.com/articles/break-monolith-into-microservices.html
+
+- [[[microservices_event-sourcing,Event sourcing. (o.D.). microservices.io]]] Event sourcing. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/data/event-sourcing.html
+
+- [[[frontend_integration,Frontend Integration. (o.D.)]]] Frontend Integration. (o.D.). Abgerufen am 4. Oktober 2023, von https://www.microservice-api-patterns.org/patterns/foundation/FrontendIntegration
+
 - [[[kim]]] Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: The Devops Handbook. How to Create World-Class Agility Reliability and Security in Technology Organizations. IT Revolution Press, Second edition, 2021
+
+- [[[microservices_messaging,Messaging. (o.D.). microservices.io]]] Messaging. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/communication-style/messaging.html
+
+- [[[fowler_microservices,Lewis, J. (o.D.). Microservices]]] Lewis, J. (o.D.). Microservices. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://martinfowler.com/articles/microservices.html
+
+- [[[microservices_microservice,Microservice Architecture Pattern. (o.D.). microservices.io]]] Microservice Architecture Pattern. (o.D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/microservices.html
+
+- [[[microservices_monolith,Monolithic architecture pattern. (o. D.). microservices.io]]] Monolithic architecture pattern. (o. D.). microservices.io. Abgerufen am 4. Oktober 2023, von https://microservices.io/patterns/monolithic.html
+
+- [[[fowler_monolithfirst,Fowler, M. (o.D.). Bliki: MonolithFirst]]] Fowler, M. (o.D.). Bliki: MonolithFirst. martinfowler.com. Abgerufen am 4. Oktober 2023, von https://www.martinfowler.com/bliki/MonolithFirst.html
+
+- [[[richardson,Richardson 2018]]] Chris Richardson: Microservice Patterns. Manning, 2018
+
+- [[[rss,RSS 2.0 specification (Current). (o.D.)]]] RSS 2.0 specification (Current). (o.D.). Abgerufen am 4. Oktober 2023, von https://www.rssboard.org/rss-specification
+
+- [[[scs,SCS: Self-contained systems (o. D.)]]] SCS: Self-contained systems. (o.D.). Abgerufen am 4. Oktober 2023, von https://scs-architecture.org/
+
+- [[[scs_wolff,Wolff, E. (2017, 3. Mai). Self Contained Systems (SCS): Microservices done right]]] Wolff, E. (2017, 3. Mai). Self Contained Systems (SCS): Microservices done right. InfoQ. Abgerufen am 4. Oktober 2023, von https://www.infoq.com/articles/scs-microservices-done-right/
+// end::EN[]

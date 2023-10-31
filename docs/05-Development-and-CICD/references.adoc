@@ -1,7 +1,3 @@
 === {references}
 
-- [[[davis,Davis 2019]]] Cornelia Davis: Cloud Native Patterns. Designing Change-tolerant Software. Manning, 2019
-
-- [[[bilgin_huss,Bilgin, Huss 2023]]] Ibryam Bilgin, Roland Huss: Kubernetes Patterns. Reusable Elements for Designing Cloud Native Applications. O'Reilly Media, Second edition, 2023
-
-- [[[richardson,Richardson 2018]]] Chris Richardson: Microservice Patterns. Manning, 2018
+<<davis>>, <<bilgin_huss>>, <<richardson>>

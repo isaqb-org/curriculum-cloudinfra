@@ -6,15 +6,15 @@
 
 Softwarearchitekt:innen kennen Muster moderner Architekturen für verteilte Anwendungen (speziell Microservices, Self-contained Systems) und verstehen die Gründe, die zu diesen Lösungen führen.
 
-* Monolith <<awati_wigmore>>, <<microservices_monolith>>, <<fowler_monolith>>, <<fowler_monolithfirst>>
-* Microsoervices <<fowler_microservices>>,<<microservices_microservice>>
-* Self Contained Systems <<scs>>, <<scs_wolff>>
+* Monolith
+* Microsoervices
+* Self Contained Systems
 
 Sie verstehen die unterschiedlichen Technologien entkoppelter Kommunikation und des Datenaustauschs zwischen Services, zum Beispiel:
 
-* Event Sourcing <<davis>>, <<microservices_event-sourcing>>, <<microservices_messaging>>
-* Messaging Middleware <<cncf_landscape_streaming_messaging>>
-* HTTP feeds <<rss>>
+* Event Sourcing
+* Messaging Middleware
+* HTTP feeds
 
 Softwarearchitekt:innen kennen die Auswirkungen einer Shared-Something/Nothing-Architektur, die insbesondere durch eine Skalierung über Container entsteht.
 
@@ -23,8 +23,8 @@ Softwarearchitekt:innen kennen die Auswirkungen einer Shared-Something/Nothing-A
 
 Softwarearchitekt:innen verstehen, wie mehrere Services über unterschiedliche Wege zu einer Applikation integriert werden können, zum Beispiel durch Integration über:
 
-* Backend (message bus, database, etc.) <<backend_integration>>
-* Frontend (UI integration) <<frontend_integration>>
+* Backend (message bus, database, etc.)
+* Frontend (UI integration)
 
 Softwarearchitekt:innen kennen die Auswirkungen von Eventual Consistency auf die Datenintegrität und Datenkonsistenz.
 
@@ -36,15 +36,15 @@ Softwarearchitekt:innen kennen die Auswirkungen von Eventual Consistency auf die
 
 Software architects are familiar with patterns of modern architectures for distributed applications (especially microservices, self-contained systems) and understand the reasons that lead to these solutions.
 
-* Monolith <<awati_wigmore>>, <<microservices_monolith>>, <<fowler_monolith>>, <<fowler_monolithfirst>>
-* Microsoervices <<fowler_microservices>>,<<microservices_microservice>>
-* Self Contained Systems <<scs>>, <<scs_wolff>>
+* Monolith
+* Microsoervices
+* Self Contained Systems
 
 They understand the different possibilities of decoupled communication and data exchange between services, for example:
 
-* Event Sourcing <<davis>>, <<microservices_event-sourcing>>, <<microservices_messaging>>
-* Messaging Middleware <<cncf_landscape_streaming_messaging>>
-* HTTP feeds <<rss>>
+* Event Sourcing
+* Messaging Middleware
+* HTTP feeds
 
 Software architects understand the implications of a shared-something/nothing architecture, particularly as a result of scaling via containers.
 
@@ -53,8 +53,8 @@ Software architects understand the implications of a shared-something/nothing ar
 
 Software architects understand how multiple services can be integrated into an application through different approaches, such as integration via:
 
-* Backend (message bus, database, etc.) <<backend_integration>>
-* Frontend (UI integration) <<frontend_integration>>
+* Backend (message bus, database, etc.)
+* Frontend (UI integration)
 
 Software architects understand the impact of eventual consistency on data integrity and consistency.
 // end::EN[]
