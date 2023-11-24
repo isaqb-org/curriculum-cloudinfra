@@ -4,8 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-
-IaaS, SaaS, PaaS, CaaS, FaaS etc. Infrastructure as Code, Umsetzung moderner Microservice-Architekturen, verteilte Anwendungen, Container, Container-Manager, Cloud-Anbieter, Bare Metal, Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations, Private/Public Cloud, Networking, Applikations-Orientierung.
+Cloud, Cloud-Arten, Cloud-Anbieter, On Premise, Bare Metal, Cloud Service Modelle (*aaS), Vendor Lock-in, Managed Services, Cloud Native Services, Cloud-Muster, Cloud-Migrationsmuster, Multi/Hybrid Cloud, Organisatorische Aspekte der Cloud Migration, Rechtliche Rahmenbedingungen, Time-to-Market, Verfügbarkeit, Skalierung, Geo Redundanz und Skalierung, Performance, IOPS, Decoupling Operations, Networking.
 
 // end::DE[]
 
@@ -15,8 +14,7 @@ IaaS, SaaS, PaaS, CaaS, FaaS etc. Infrastructure as Code, Umsetzung moderner Mic
 |===
 
 === Terms and Principles
-
-IaaS, SaaS, PaaS, CaaS, FaaS etc. Infrastructure as Code, implementation of modern microservice architectures, distributed applications, containers, container managers, cloud providers, bare metal, time-to-market, availability, scaling, performance, IOPS, decoupling operations, private/public cloud, networking, application orientation.
+Cloud, cloud types, cloud provider, on premise, bare metal, cloud service models (*aaS), vendor lock-in, managed services, cloud native services, cloud patterns, cloud migration patterns, multi/hybrid cloud, organizational aspects of cloud migration, legal conditions, time-to-market, availability, geo redundancy and scalability, performance, IOPS, decoupling operations, networking.
 // end::EN[]
 
 

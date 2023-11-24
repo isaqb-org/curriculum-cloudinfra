@@ -1,0 +1,16 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-7-1]]
+==== LZ 7-1: Vertiefung durch praktische Übungen
+Die Fallstudie soll die Themen durch praktische Übungen vertiefen und die Praxis verdeutlichen.
+
+// end::DE[]
+
+
+// tag::EN[]
+[[LG-7-1]]
+==== LG 7-1: Deepening the Understanding by Practical Exercises
+The Case Study is intended to deepen the topics through practical exercises and to clarify the practice.
+// end::EN[]
+

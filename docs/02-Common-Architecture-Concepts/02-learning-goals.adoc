@@ -2,39 +2,59 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Modularisierung und Kommunikation
-* verstehen die Ansätze moderner Architekturen (speziell Microservices, Self-contained Systems) und die Gründe, die zu diesen Lösungen führen
-* verstehen die unterschiedlichen Möglichkeiten der Kommunikation bzw. des Datenaustauschs der Services untereinander, zum Beispiel:
-** Event Sourcing
-** Messaging Middleware
-** RSS-Feeds
-* kennen die Auswirkungen einer Shared-Something/Nothing-Architektur, die insbesondere durch eine Skalierung über Container entsteht
+==== LZ 2-1: Situativ passende Kommunikations-Konzepte verteilter Anwendungen auswählen
+
+Softwarearchitekt:innen kennen Muster moderner Architekturen für verteilte Anwendungen (speziell Microservices, Self-contained Systems) und verstehen die Gründe, die zu diesen Lösungen führen.
+
+* Monolith
+* Microsoervices
+* Self Contained Systems
+
+Sie verstehen die unterschiedlichen Technologien entkoppelter Kommunikation und des Datenaustauschs zwischen Services, zum Beispiel:
+
+* Event Sourcing
+* Messaging Middleware
+* HTTP feeds
+
+Softwarearchitekt:innen kennen die Auswirkungen einer Shared-Something/Nothing-Architektur, die insbesondere durch eine Skalierung über Container entsteht.
 
 [[LZ-2-2]]
-==== LZ 2-2: Modularisierung und Integration
-verstehen, wie man mehrere Services über unterschiedliche Wege zu einer Applikation integrieren kann, zum Beispiel durch Integration über:
+==== LZ 2-2: Situativ passende Integrationskonzepte verteilter Anwendungen auswählen
 
-* Backend (Message-Bus, Datenbank, etc.)
-* Frontend (UI-Integration)
+Softwarearchitekt:innen verstehen, wie mehrere Services über unterschiedliche Wege zu einer Applikation integriert werden können, zum Beispiel durch Integration über:
+
+* Backend (message bus, database, etc.)
+* Frontend (UI integration)
+
+Softwarearchitekt:innen kennen die Auswirkungen von Eventual Consistency auf die Datenintegrität und Datenkonsistenz.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: Modularization and Communication
-* understand the approaches of modern architectures (especially microservices, self-contained systems) and the reasons that lead to these solutions
-* understand the different ways in which services communicate or exchange data with each other, for example:
-** event sourcing
-** messaging middleware
-** RSS feeds
-* understand the implications of a shared-something/nothing architecture, particularly as a result of scaling via containers
+==== LG 2-1: Understand Modularization and Communication Options
+
+Software architects are familiar with patterns of modern architectures for distributed applications (especially microservices, self-contained systems) and understand the reasons that lead to these solutions.
+
+* Monolith
+* Microsoervices
+* Self Contained Systems
+
+They understand the different possibilities of decoupled communication and data exchange between services, for example:
+
+* Event Sourcing
+* Messaging Middleware
+* HTTP feeds
+
+Software architects understand the implications of a shared-something/nothing architecture, particularly as a result of scaling via containers.
 
 [[LG-2-2]]
-==== LG 2-2: Modularization and Integration
-Understand how to integrate multiple services into one application using different paths, for example, integration via:
+==== LG 2-2: Understand Modularization and Integration Options
 
-* backend (message bus, database, etc.)
-* front-end (UI integration)
+Software architects understand how multiple services can be integrated into an application through different approaches, such as integration via:
+
+* Backend (message bus, database, etc.)
+* Frontend (UI integration)
+
+Software architects understand the impact of eventual consistency on data integrity and consistency.
 // end::EN[]
-
-

@@ -1,0 +1,87 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-6-1]]
+==== LZ 6-1: Neue Rollen und deren Aufgaben kennen und unterscheiden
+
+Softwarearchitekt:innen kennen die neuen Rollen, die im Kontext des Betriebs von Applikationen in der Cloud populär geworden sind, wie DevOps, DevSecOps und SRE.
+
+Sie verstehen die Herausforderungen der Adaption dieser neuen Rollen in klassischen Organisationsstrukturen.
+
+[[LZ-6-2]]
+==== LZ 6-2: Wege zur Schaffung von skalierbaren und hochzuverlässigen Systeme verstehen
+
+Softwarearchitekt:innen verstehen die Möglichkeiten zur Schaffung skalierbarer und hochzuverlässiger Systeme.
+
+Sie kennen die Definition, Methoden und die Herausforderungen des Site Reliability Engineerings.
+
+[[LZ-6-3]]
+==== LZ 6-3: Automatisierungskonzepte zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur verstehen
+
+Softwarearchitekt:innen verstehen, dass Automatisierung durch Infrastructure as Code eine Schlüsselmethode modernen Betriebs und eine Komponente des Continuous Delivery ist.
+
+Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies mit Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur über die APIs unterschiedlicher Cloud-Anbieter realisiert werden kann.
+
+Sie kennen den Unterschied zwischen Infrastrukturkonfiguration und -Provisionierung, sowie etablierte Vorgehensweisen der Infrastruktur-Verwaltung.
+
+
+[[LZ-6-4]]
+==== LZ 6-4: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
+
+Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunktionalität der Container-Orchestrierungswerkzeuge erweitern lassen.
+
+Sie kennen die Einsatzmöglichkeiten vom Container-Managern und können ihre Abstraktionsebenen unterscheiden.
+
+[[LZ-6-5]]
+==== LZ 6-5: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
+
+Softwarearchitekt:innen kennen Methoden zur Berechnung des Ressourcenbedarfs für:
+
+* Verfügbarkeit
+* Größe eines Clusters
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-6-1]]
+==== LG 6-1: Understand and Differentiate New Roles and Their Responsibilities
+
+Software architects are familiar with the new roles that have become popular in the context of operating applications in the cloud, such as DevOps, DevSecOps, and SRE.
+
+They understand the challenges of adapting these new roles in traditional organizational structures.
+
+
+[[LG-6-2]]
+==== LG 6-2: Understand Ways to Create Scalable and Highly Reliable Systems
+
+Software architects understand the possibilities for creating scalable and highly reliable systems.
+
+They are familiar with the definition, methods, and challenges of Site Reliability Engineering.
+
+[[LG-6-3]]
+==== LG 6-3: Understand Automation Concepts for Predictable Infrastructure Creation, Modification, and Improvement
+
+Software architects understand that automation through Infrastructure as Code is a key method of modern operations and a component of Continuous Delivery.
+
+They are familiar with the possibilities of automation and understand how this can be realized using tools for automated provisioning of cloud infrastructure through the APIs of different cloud providers.
+
+They understand the difference between infrastructure configuration and provisioning, as well as established practices for infrastructure management.
+
+[[LG-6-4]]
+==== LG 6-4: Differentiate and Understand Different Abstraction Layers of Container Managers
+
+Software architects are aware that container managers can extend the basic functionality of container orchestration tools.
+
+They are familiar with the use cases for container managers and can differentiate their abstraction layers.
+
+[[LG-6-5]]
+==== LG 6-5: Understand Resource Sizing Calculation Methods
+
+Software architects are familiar with methods for calculating resource requirements for:
+
+* Availability
+* Cluster size
+// end::EN[]
+
+

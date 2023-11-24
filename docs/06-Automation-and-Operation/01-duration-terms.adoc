@@ -1,0 +1,21 @@
+// tag::DE[]
+|===
+| Dauer: 180 Min. | Übungszeit: 20 Min.
+|===
+
+=== Begriffe und Konzepte
+DevOps, DevSecOps, Site Reliability Engineering (SRE), Konfiguration, Provisionierung, Infrastructure as Code, Cloud Provider APIs, Abstraktionsebenen von Container-Managern, Berechnung Verfügbarkeit, Berechnung Cluster Größe
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 180 min | Practice time: 20 min
+|===
+
+=== Terms and Principles
+DevOps, DevSecOps, Site Reliability Engineering (SRE), configuration, provisioning, Infrastructure as Code, Cloud Provider APIs, abstraction levels of container manager, calculate availability, calculate cluster size
+// end::EN[]
+
+
+
+

@@ -1,0 +1,78 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Projekte in Cloud-Umgebungen umsetzen
+
+Softwarearchitekt:innen wissen, dass es bei der Arbeit in Cloud-Umgebungen neue Anforderungen an den Softwareentwicklungsprozess gibt.
+
+Sie kennen verschiedene Vorgehensweisen, um Projekte in Cloud-Umgebungen durchzuführen. Zum Beispiel:
+
+* Organisatorische Good Practices
+* Development- und CI/CD-Umgebungen
+
+Sie kennen Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:
+
+* Versionierung von Containern und Deployment-Spezifikationen etc.
+* Etablierte Formen der Bereitstellung von Anwendungen, wie z. B.:
+** Rolling Deployment
+** Canary Deployment
+** Blue/Green Deployment
+
+Sie kennen Komponenten und Vorgehensmodelle, um einen schnellen Test- und Deployment-Prozess zu realisieren. Insbesondere Konzepte zum Dev/Test/Prod Cluster wie:
+
+* Verantwortlichkeiten und Zugriffskontrolle
+* Good Practices zur Komponentengruppierung
+
+[[LZ-5-2]]
+==== LZ 5-2: Wege der Beobachtbarkeit von verteilten Applikationen kennen
+
+Softwarearchitekt:innen wissen, dass es durch die verteilte Ausführung von Prozessen neue Herausforderungen an die Beobachtbarkeit verteilter Applikationen gibt.
+
+Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:
+
+* Logging
+* Monitoring/Metriken und Alerting
+* Distributed Tracing
+
+Sie kennen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts.
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: Implementing Projects in Cloud Environments
+
+Software architects are aware that working in cloud environments brings new requirements to the software development process.
+
+They are familiar with different approaches to implementing projects in cloud environments, such as:
+
+* Organizational good practices
+* Development and CI/CD environments
+
+They understand the possibilities of implementing deployments and application lifecycle management in a cloud environment, particularly:
+
+* Versioning of containers and deployment specifications, etc.
+* Established forms of application deployment, such as:
+** Rolling deployment
+** Canary deployment
+** Blue/green deployment
+
+They are familiar with components and models for achieving a fast testing and deployment process, particularly concepts related to dev/test/prod clusters, such as:
+
+* Responsibilities and access control
+* Good practices for component grouping
+
+[[LG-5-2]]
+==== LG 5-2: Understanding approaches for observability of distributed applications
+
+Software architects know that the distributed execution of processes presents new challenges for observability of distributed applications.
+
+They understand the unique conditions of distributed applications and their impact on observability through:
+
+* Logging
+* Monitoring/metrics and alerting
+* Distributed tracing
+
+They are familiar with approaches and responsibilities for creating predictive time series queries for alerts.
+// end::EN[]
