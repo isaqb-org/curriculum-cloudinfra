@@ -16,7 +16,7 @@ Sie verstehen die unterschiedlichen Technologien entkoppelter Kommunikation und 
 * Messaging Middleware
 * HTTP feeds
 
-Sie kennen die Auswirkungen einer Shared-Something/Nothing-Architektur, die insbesondere durch eine Skalierung über Container entsteht
+Softwarearchitekt:innen kennen die Auswirkungen einer Shared-Something/Nothing-Architektur, die insbesondere durch eine Skalierung über Container entsteht.
 
 [[LZ-2-2]]
 ==== LZ 2-2: Situativ passende Integrationskonzepte verteilter Anwendungen auswählen

@@ -4,8 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Resilience Pattern, Container Application Design, Container Pattern, Service Mesh
-
+Resilienz Muster, Container Application Design, Cloud Native Architekturen, Container Pattern, Service Mesh
 
 // end::DE[]
 
