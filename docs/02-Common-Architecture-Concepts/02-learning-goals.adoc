@@ -8,7 +8,7 @@ Softwarearchitekt:innen kennen Muster moderner Architekturen für verteilte Anwe
 
 * Monolith
 * Microservices
-* Self Contained Systems
+* Self-contained Systems
 
 Sie verstehen die unterschiedlichen Technologien entkoppelter Kommunikation und des Datenaustauschs zwischen Services, zum Beispiel:
 
@@ -38,7 +38,7 @@ Software architects are familiar with patterns of modern architectures for distr
 
 * Monolith
 * Microservices
-* Self Contained Systems
+* Self-contained Systems
 
 They understand the different possibilities of decoupled communication and data exchange between services, for example:
 
