@@ -7,8 +7,8 @@
 Softwarearchitekt:innen kennen Muster moderner Architekturen für verteilte Anwendungen (speziell Microservices, Self-contained Systems) und verstehen die Gründe, die zu diesen Lösungen führen.
 
 * Monolith
-* Microsoervices
-* Self Contained Systems
+* Microservices
+* Self-contained Systems
 
 Sie verstehen die unterschiedlichen Technologien entkoppelter Kommunikation und des Datenaustauschs zwischen Services, zum Beispiel:
 
@@ -37,8 +37,8 @@ Softwarearchitekt:innen kennen die Auswirkungen von Eventual Consistency auf die
 Software architects are familiar with patterns of modern architectures for distributed applications (especially microservices, self-contained systems) and understand the reasons that lead to these solutions.
 
 * Monolith
-* Microsoervices
-* Self Contained Systems
+* Microservices
+* Self-contained Systems
 
 They understand the different possibilities of decoupled communication and data exchange between services, for example:
 
