@@ -2,13 +2,18 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Cloud-Arten, Cloud-Muster und Cloud Migrationsmuster verstehen und unterscheiden
+==== LZ 1-1: Cloud-Arten verstehen und unterscheiden
 
 Softwarearchitekt:innen kennen die gängigen Cloud-Begriffe und können verschiedene Arten wie Public, Private, Hybrid/Multi und On-Premise voneinander unterscheiden. 
 
-Sie verstehen gängige Cloud-Migrationsmuster, sowie deren Anwendung.
+Sie verstehen, dass der Hybrid/Multi Cloud Betrieb keine Ausnahme darstellt und können die Gründe von Hybrid/Multi Cloud Betrieb benennen, beispielsweise:
 
-Sie verstehen den Unterschied zwischen Public Cloud- und On-Premise-Betrieb sowie die Argumente für und gegen den Public Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
+* Schrittweise Migration in die Cloud
+* Kostenersparnis beim Betrieb
+* Datenschutz und Datensicherheit
+* Integration mit Bestandssystemen
+
+Sie verstehen den Unterschied zwischen Public Cloud- und On-Premise-Betrieb sowie die Herausforderungen und Argumente für und gegen den Public Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
 
 [[LZ-1-2]]
 ==== LZ 1-2: Entscheidungskriterien für die Nutzung von managed Services und self-managed Services verstehen
@@ -43,13 +48,18 @@ Sie kennen die Leistungsanforderungen an die Infrastruktur und die Limitierungen
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: Understand and Distinguish Cloud Types, Cloud Patterns and Cloud Migration Patterns
+==== LG 1-1: Understand and differente between cloud types
 
-Software architects know the common cloud terms and can distinguish between different types such as public, private, hybrid/multi and on-premise. 
+Software architects know the common cloud terms and can distinguish between different types such as public, private, hybrid/multi and on-premise.
 
-They understand common cloud migration patterns, and how to apply them.
+They understand that hybrid/multi-cloud operation is no exception and can name the reasons for hybrid/multi-cloud operation, for example:
 
-They understand the difference between operating in the public cloud and on-premises, as well as the arguments for and against operating in the public cloud. They also recognize when the use of own hardware (bare metal) is more appropriate.
+* Gradual migration to the cloud
+* Cost savings during operation
+* Data protection and data security
+* Integration with existing systems
+
+Software architects understand the difference between public cloud and on-premise operation as well as the challenges and arguments for and against public cloud operation. They also recognize when it makes more sense to use dedicated hardware (bare metal).
 
 [[LG-1-2]]
 ==== LG 1-2: Understand Decision Criteria for the Use of Managed Services and Self-Managed Services
