@@ -6,9 +6,9 @@
 
 Softwarearchitekt:innen kennen die gängigen Cloud-Begriffe und können verschiedene Arten wie Public, Private, Hybrid/Multi und On-Premise voneinander unterscheiden. 
 
-Sie verstehen Cloud-Muster und Cloud-Migrationsmuster, sowie deren Anwendung.
+Sie verstehen gängige Cloud-Migrationsmuster, sowie deren Anwendung.
 
-Sie verstehen den Unterschied zwischen Cloud- und On-Premise-Betrieb sowie die Argumente für und gegen den Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
+Sie verstehen den Unterschied zwischen Public Cloud- und On-Premise-Betrieb sowie die Argumente für und gegen den Public Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
 
 [[LZ-1-2]]
 ==== LZ 1-2: Entscheidungskriterien für die Nutzung von managed Services und self-managed Services verstehen
@@ -47,9 +47,9 @@ Sie kennen die Leistungsanforderungen an die Infrastruktur und die Limitierungen
 
 Software architects know the common cloud terms and can distinguish between different types such as public, private, hybrid/multi and on-premise. 
 
-They understand cloud patterns and cloud migration patterns, and how to apply them.
+They understand common cloud migration patterns, and how to apply them.
 
-They understand the difference between cloud and on-premise operations, as well as the arguments for and against cloud operations. They also recognize when the use of own hardware (bare metal) is more appropriate.
+They understand the difference between operating in the public cloud and on-premises, as well as the arguments for and against operating in the public cloud. They also recognize when the use of own hardware (bare metal) is more appropriate.
 
 [[LG-1-2]]
 ==== LG 1-2: Understand Decision Criteria for the Use of Managed Services and Self-Managed Services
