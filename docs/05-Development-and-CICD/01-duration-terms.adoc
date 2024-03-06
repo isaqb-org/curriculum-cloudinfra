@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Development Environment, CI/CD Environment, Mean Time To Recovery (MTTR), Application Lifecycle Management, Formen von Deployments wie Rolling-, Canary- und Blue/Green Deployment, Cluster Design, Logging, Monitoring, Metriken, Distributed Tracing, Time Series Queries, Alerting
+Development Environment, CI/CD Environment, Mean Time To Recovery (MTTR), Application Lifecycle Management, Formen von Deployments wie Rolling-, Canary- und Blue/Green Deployment, Cluster Design
 // end::DE[]
 
 // tag::EN[]
@@ -13,7 +13,7 @@ Development Environment, CI/CD Environment, Mean Time To Recovery (MTTR), Applic
 |===
 
 === Terms and Principles
-Development environment, CI/CD environment, Mean Time To Recovery (MTTR), application lifecycle management, forms of deployments like Rolling-, Canary- and Blue/Green deployment, cluster design, logging, monitoring, metrics, distributed tracing, time series queries, alerting
+Development environment, CI/CD environment, Mean Time To Recovery (MTTR), application lifecycle management, forms of deployments like Rolling-, Canary- and Blue/Green deployment, cluster design
 // end::EN[]
 
 

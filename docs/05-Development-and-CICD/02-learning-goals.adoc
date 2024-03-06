@@ -25,18 +25,7 @@ Sie kennen Komponenten und Vorgehensmodelle, um einen schnellen Test- und Deploy
 * Verantwortlichkeiten und Zugriffskontrolle
 * Good Practices zur Komponentengruppierung
 
-[[LZ-5-2]]
-==== LZ 5-2: Wege der Beobachtbarkeit von verteilten Applikationen kennen
 
-Softwarearchitekt:innen wissen, dass es durch die verteilte Ausführung von Prozessen neue Herausforderungen an die Beobachtbarkeit verteilter Applikationen gibt.
-
-Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:
-
-* Logging
-* Monitoring/Metriken und Alerting
-* Distributed Tracing
-
-Sie kennen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts.
 // end::DE[]
 
 // tag::EN[]
@@ -63,16 +52,4 @@ They are familiar with components and models for achieving a fast testing and de
 * Responsibilities and access control
 * Good practices for component grouping
 
-[[LG-5-2]]
-==== LG 5-2: Understanding approaches for observability of distributed applications
-
-Software architects know that the distributed execution of processes presents new challenges for observability of distributed applications.
-
-They understand the unique conditions of distributed applications and their impact on observability through:
-
-* Logging
-* Monitoring/metrics and alerting
-* Distributed tracing
-
-They are familiar with approaches and responsibilities for creating predictive time series queries for alerts.
 // end::EN[]
