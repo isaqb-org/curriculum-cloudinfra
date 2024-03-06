@@ -7,12 +7,15 @@
 
 Softwarearchitekt:innen wissen, dass es bei der Arbeit in Cloud-Umgebungen neue Anforderungen an den Softwareentwicklungsprozess gibt.
 
-Sie kennen verschiedene Vorgehensweisen, um Projekte in Cloud-Umgebungen durchzuführen. Zum Beispiel:
+Sie kennen verschiedene Vorgehensweisen und Technologien, um Projekte in Cloud-Umgebungen durchzuführen. Zum Beispiel:
 
 * Organisatorische Good Practices
 * Development- und CI/CD-Umgebungen
 
-Sie kennen Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:
+[[LZ-5-2]]
+==== LZ 5-2: Application Lifecycle Management in Cloud-Umgebungen umsetzen
+
+Softwarearchitekt:innen kennen Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:
 
 * Versionierung von Containern und Deployment-Spezifikationen etc.
 * Etablierte Formen der Bereitstellung von Anwendungen, wie z. B.:
@@ -25,6 +28,16 @@ Sie kennen Komponenten und Vorgehensmodelle, um einen schnellen Test- und Deploy
 * Verantwortlichkeiten und Zugriffskontrolle
 * Good Practices zur Komponentengruppierung
 
+[[LZ-5-3]]
+==== LZ 5-3: Secrets Management Optionen kennen
+
+Softwarearchitekt:innen verstehen die kritische Rolle und Techniken zur Verwaltung von Geheimnissen (Secrets) in der Cloud, darunter:
+
+* Integration von Cloud-Diensten zur Secrets-Verwaltung
+* Secrets Operator Konzept
+* Automatisierte Secret Rotation
+
+Darüber hinaus können sie die Vor- und Nachteile zum eigenen Betrieb eines Secrets Managers benennen.
 
 // end::DE[]
 
@@ -34,12 +47,16 @@ Sie kennen Komponenten und Vorgehensmodelle, um einen schnellen Test- und Deploy
 
 Software architects are aware that working in cloud environments brings new requirements to the software development process.
 
-They are familiar with different approaches to implementing projects in cloud environments, such as:
+They are familiar with different approaches and technologies to implementing projects in cloud environments, such as:
 
 * Organizational good practices
 * Development and CI/CD environments
 
-They understand the possibilities of implementing deployments and application lifecycle management in a cloud environment, particularly:
+
+[[LG-5-2]]
+==== LG 5-2: Implementing Application Lifecycle Management in Cloud Environments
+
+Software architects understand the possibilities of implementing deployments and application lifecycle management in a cloud environment, particularly:
 
 * Versioning of containers and deployment specifications, etc.
 * Established forms of application deployment, such as:
@@ -51,5 +68,17 @@ They are familiar with components and models for achieving a fast testing and de
 
 * Responsibilities and access control
 * Good practices for component grouping
+
+
+[[LG-5-3]]
+==== LG 5-3: Know Secrets Management Options
+
+Software architects understand the critical role and techniques for managing secrets in the cloud, including:
+
+* Integration of cloud services for secrets management
+* Secrets operator concept
+* Automated secret rotation
+
+In addition, they can name the advantages and disadvantages of operating a Secrets Manager themselves.
 
 // end::EN[]
