@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Resilienz Muster, Container Application Design, Cloud Native Architekturen, Container Pattern, Service Mesh
+Resilienz Muster, Container Application Design, Cloud Native Architekturen, Functions as a Service (FaaS), Container Pattern, Service Mesh
 
 // end::DE[]
 
@@ -14,7 +14,7 @@ Resilienz Muster, Container Application Design, Cloud Native Architekturen, Cont
 |===
 
 === Terms and Principles
-Resilience Patterns, Container Application Design, Cloud Native Architectures, Container Patterns, Service Mesh
+Resilience Patterns, Container Application Design, Cloud Native Architectures, Functions as a Service (FaaS), Container Patterns, Service Mesh
 
 // end::EN[]
 
