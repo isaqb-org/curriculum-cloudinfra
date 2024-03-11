@@ -74,7 +74,7 @@ Software architects can select suitable technologies for operating modules of a 
 They select these technologies in a requirements-driven manner. Various aspects must be taken into account, such as
 
 * Scaling requirements
-* start and runtime duration
+* Start and runtime duration
 * Complexity of operation and domain boundaries
 * Access to persistence
 * Limitations on observability and debugging
