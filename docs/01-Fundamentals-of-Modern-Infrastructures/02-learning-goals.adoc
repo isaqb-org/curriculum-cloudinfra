@@ -48,7 +48,7 @@ Sie kennen die Leistungsanforderungen an die Infrastruktur und die Limitierungen
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: Understand and differente between cloud types
+==== LG 1-1: Understand and Differentiate Cloud Types
 
 Software architects know the common cloud terms and can distinguish between different types such as public, private, hybrid/multi and on-premise.
 
