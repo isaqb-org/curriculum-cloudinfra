@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Development Environment, CI/CD Environment, Application Lifecycle Management, Formen von Deployments wie Rolling-, Canary- und Blue/Green Deployment, Cluster Design, Secrets Management
+Development Environment, CI/CD Environment, Mean Time To Recovery (MTTR), Application Lifecycle Management, Formen von Deployments wie Rolling-, Canary- und Blue/Green Deployment, Cluster Design, Secrets Management
 // end::DE[]
 
 // tag::EN[]
@@ -13,7 +13,7 @@ Development Environment, CI/CD Environment, Application Lifecycle Management, Fo
 |===
 
 === Terms and Principles
-Development environment, CI/CD environment, application lifecycle management, forms of deployments like Rolling-, Canary- and Blue/Green deployment, cluster design, secrets management
+Development environment, CI/CD environment, Mean Time To Recovery (MTTR), application lifecycle management, forms of deployments like Rolling-, Canary- and Blue/Green deployment, cluster design, secrets management
 // end::EN[]
 
 
