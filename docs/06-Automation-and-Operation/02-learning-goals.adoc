@@ -25,16 +25,28 @@ Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies mit We
 
 Sie kennen den Unterschied zwischen Infrastrukturkonfiguration und -Provisionierung, sowie etablierte Vorgehensweisen der Infrastruktur-Verwaltung.
 
-
 [[LZ-6-4]]
-==== LZ 6-4: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
+==== LZ 6-4: Grundprinzipien der Berechtigungsverwaltung verstehen
+
+Softwarearchitekt:innen verstehen die Bedeutung und Implementierung des Prinzips der minimalen Rechtevergabe (Least Privilege) in der Cloud-Umgebung.
+Sie erkennen die Notwendigkeit, jedem Nutzenden und Service-Account nur die minimalen Berechtigungen zu erteilen, die zur Ausführung ihrer spezifischen Aufgaben notwendig sind.
+
+Dabei können sie folgende Herausforderungen benennen:
+
+* Automatisiertes Ausrollen von Berechtigungseinstellungen
+* Verwaltung von konsistenten Berechtigungen in einem Hybrid/Multi-Cloud Setup
+* Balance finden zwischen der minimalen Rechtevergabe (Least Privilege) und autonomen Entwicklungsteams
+* Durchsetzung von Compliance Vorgaben bei der Berechtigungsverwaltung z.B. über Policy Enforcement
+
+[[LZ-6-5]]
+==== LZ 6-5: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
 
 Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunktionalität der Container-Orchestrierungswerkzeuge erweitern lassen.
 
 Sie kennen die Einsatzmöglichkeiten vom Container-Managern und können ihre Abstraktionsebenen unterscheiden.
 
-[[LZ-6-5]]
-==== LZ 6-5: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
+[[LZ-6-6]]
+==== LZ 6-6: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
 
 Softwarearchitekt:innen kennen Methoden zur Berechnung des Ressourcenbedarfs für:
 
@@ -50,7 +62,6 @@ Softwarearchitekt:innen kennen Methoden zur Berechnung des Ressourcenbedarfs fü
 Software architects are familiar with the new roles that have become popular in the context of operating applications in the cloud, such as DevOps, DevSecOps, and SRE.
 
 They understand the challenges of adapting these new roles in traditional organizational structures.
-
 
 [[LG-6-2]]
 ==== LG 6-2: Understand Ways to Create Scalable and Highly Reliable Systems
@@ -69,14 +80,27 @@ They are familiar with the possibilities of automation and understand how this c
 They understand the difference between infrastructure configuration and provisioning, as well as established practices for infrastructure management.
 
 [[LG-6-4]]
-==== LG 6-4: Differentiate and Understand Different Abstraction Layers of Container Managers
+==== LG 6-4: Understand the Fundamental Principles of Permissions Management
+
+Software architects understand the importance and implementation of the least privilege principle in cloud environments.
+They understand the need to grant each user and service account only the minimum permissions required to perform their specific tasks.
+
+They can name the following challenges:
+
+* Automated roll-out of permissions settings
+* Managing consistent permissions in a hybrid/multi-cloud setup
+* Striking a balance between least-privilege and autonomous development teams
+* Enforcement of compliance requirements in permissions management, e.g. via policy enforcement
+
+[[LG-6-5]]
+==== LG 6-5: Differentiate and Understand Different Abstraction Layers of Container Managers
 
 Software architects are aware that container managers can extend the basic functionality of container orchestration tools.
 
 They are familiar with the use cases for container managers and can differentiate their abstraction layers.
 
-[[LG-6-5]]
-==== LG 6-5: Understand Resource Sizing Calculation Methods
+[[LG-6-6]]
+==== LG 6-6: Understand Resource Sizing Calculation Methods
 
 Software architects are familiar with methods for calculating resource requirements for:
 
