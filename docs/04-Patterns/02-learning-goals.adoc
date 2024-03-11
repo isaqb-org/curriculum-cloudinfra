@@ -25,7 +25,8 @@ Softwarearchitekt:innen können geeignete Technologien zum Betrieb von Modulen e
 
 Darüber hinaus können Sie die Anwendung dieser Technologien Anforderungsgetrieben anwenden. Dabei gibt es verschiedene Aspekte zu beachten wie:
 
-* Skalierungsanforderungen und Ausführungszeit
+* Skalierungsanforderungen
+* Start- und Ausführungszeit
 * Komplexität des Betriebs und fachlichen Schnitts
 * Zugriff auf Persistenz
 * Limitierungen für Observability und Debugging
@@ -72,7 +73,8 @@ Software architects can select suitable technologies for operating modules of a 
 
 They select these technologies in a requirements-driven manner. Various aspects must be taken into account, such as
 
-* Scaling requirements and runtime duration
+* Scaling requirements
+* start and runtime duration
 * Complexity of operation and domain boundaries
 * Access to persistence
 * Limitations on observability and debugging
