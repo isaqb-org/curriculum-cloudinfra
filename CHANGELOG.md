@@ -7,6 +7,7 @@
 - definition, methods, and challenges of Site Reliability Engineering
 - DevOps, DevSecOps, and SRE
 - Abstraction Layers of Container Managers
+- Secrets Management
 
 ## Added/Changed wording
 

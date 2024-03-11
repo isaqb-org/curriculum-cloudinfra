@@ -17,7 +17,20 @@ Softwarearchitekt:innen verstehen die Möglichkeiten zur Schaffung skalierbarer 
 Sie kennen die Definition, Methoden und die Herausforderungen des Site Reliability Engineerings.
 
 [[LZ-6-3]]
-==== LZ 6-3: Automatisierungskonzepte zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur verstehen
+==== LZ 6-3: Wege der Beobachtbarkeit von verteilten Applikationen kennen
+
+Softwarearchitekt:innen wissen, dass es durch die verteilte Ausführung von Prozessen neue Herausforderungen an die Beobachtbarkeit verteilter Applikationen gibt.
+
+Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:
+
+* Monitoring/Metriken und Alerting
+* Logging
+* Distributed Tracing
+
+Sie kennen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts.
+
+[[LZ-6-4]]
+==== LZ 6-4: Automatisierungskonzepte zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur verstehen
 
 Softwarearchitekt:innen verstehen, dass Automatisierung durch Infrastructure as Code eine Schlüsselmethode modernen Betriebs und eine Komponente des Continuous Delivery ist.
 
@@ -25,16 +38,15 @@ Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies mit We
 
 Sie kennen den Unterschied zwischen Infrastrukturkonfiguration und -Provisionierung, sowie etablierte Vorgehensweisen der Infrastruktur-Verwaltung.
 
-
-[[LZ-6-4]]
-==== LZ 6-4: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
+[[LZ-6-5]]
+==== LZ 6-5: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
 
 Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunktionalität der Container-Orchestrierungswerkzeuge erweitern lassen.
 
 Sie kennen die Einsatzmöglichkeiten vom Container-Managern und können ihre Abstraktionsebenen unterscheiden.
 
-[[LZ-6-5]]
-==== LZ 6-5: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
+[[LZ-6-6]]
+==== LZ 6-6: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
 
 Softwarearchitekt:innen kennen Methoden zur Berechnung des Ressourcenbedarfs für:
 
@@ -60,7 +72,20 @@ Software architects understand the possibilities for creating scalable and highl
 They are familiar with the definition, methods, and challenges of Site Reliability Engineering.
 
 [[LG-6-3]]
-==== LG 6-3: Understand Automation Concepts for Predictable Infrastructure Creation, Modification, and Improvement
+==== LG 6-3: Understanding approaches for observability of distributed applications
+
+Software architects know that the distributed execution of processes presents new challenges for observability of distributed applications.
+
+They understand the unique conditions of distributed applications and their impact on observability through:
+
+* Monitoring/metrics and alerting
+* Logging
+* Distributed tracing
+
+They are familiar with approaches and responsibilities for creating predictive time series queries for alerts.
+
+[[LG-6-4]]
+==== LG 6-4: Understand Automation Concepts for Predictable Infrastructure Creation, Modification, and Improvement
 
 Software architects understand that automation through Infrastructure as Code is a key method of modern operations and a component of Continuous Delivery.
 
@@ -68,15 +93,15 @@ They are familiar with the possibilities of automation and understand how this c
 
 They understand the difference between infrastructure configuration and provisioning, as well as established practices for infrastructure management.
 
-[[LG-6-4]]
-==== LG 6-4: Differentiate and Understand Different Abstraction Layers of Container Managers
+[[LG-6-5]]
+==== LG 6-5: Differentiate and Understand Different Abstraction Layers of Container Managers
 
 Software architects are aware that container managers can extend the basic functionality of container orchestration tools.
 
 They are familiar with the use cases for container managers and can differentiate their abstraction layers.
 
-[[LG-6-5]]
-==== LG 6-5: Understand Resource Sizing Calculation Methods
+[[LG-6-6]]
+==== LG 6-6: Understand Resource Sizing Calculation Methods
 
 Software architects are familiar with methods for calculating resource requirements for:
 
