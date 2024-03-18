@@ -30,7 +30,7 @@ Sie kennen das Konzept des Vendor Lock-in und seine Relevanz für die Entscheidu
 Softwarearchitekt:innen kennen die organisatorischen Aspekte der Cloud Migration und die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud, z. b.:
 
 * DSGVO (GDPR)
-* GoBD
+* BSI C5 (Kriterienkatalog Cloud Computing)
 * ISO 27001
 * BSI IT-Grundschutz
 
@@ -76,9 +76,9 @@ They know the concept of vendor lock-in and its relevance for decision-making be
 Software architects are familiar with the organizational aspects of cloud migration and the legal framework for operating applications in the cloud, e.g:
 
 * DSGVO (GDPR)
-* GoBD (Principles for electronical accounting and archiving)
+* BSI C5 (Cloud Computing Compliance Criteria Catalogue)
 * ISO 27001
-* IT-Grundschutz (A systematic basis for information security)
+* BSI IT-Grundschutz (A systematic basis for information security)
 
 They understand that the aspects of data security are relevant for the decision for or against a public cloud and that organizational and/or legal requirements influence the choice of the type of cloud used.
 
