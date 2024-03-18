@@ -55,6 +55,14 @@ Sie kennen den Unterschied von Object- und Block-Storage und können verschieden
 Softwarearchitekt:innen verstehen die Vor- und Nachteile einer Cloud-Native-Storage-Lösung und können die höherwertigen Managed Services (wie etwa RDBMS) der Cloud-Anbieter mit der Verwendung selbstverwalteter Lösungen vergleichen.
 
 Sie kennen verschiedene Konzepte, um Backup und Restore von persistenten Daten in der Cloud zu realisieren.
+
+[[LZ-3-6]]
+==== LZ 3-6: Cloud Migrationsmuster verstehen
+
+Softwarearchitekt:innen kennen verschiedene Cloud-Migrationsmuster und können sie Anforderungsgetrieben auswählen.
+
+Sie kennen darüber hinaus Migrationsmuster, die ein Hybrid/Multi Cloud Setup erfordern, z. B. für eine schrittweise Migration in die Cloud.
+
 // end::DE[]
 
 // tag::EN[]
@@ -111,5 +119,12 @@ They understand the difference between object and block storage and can classify
 Software architects understand the advantages and disadvantages of a cloud-native storage solution and can compare higher-level managed services (such as RDBMS) provided by cloud providers with the use of self-managed solutions.
 
 They are familiar with various concepts for backing up and restoring persistent data in the cloud.
+
+[[LG-3-6]]
+==== LG 3-6: Understand cloud migration patterns
+
+Software architects are familiar with various cloud migration patterns and can select them based on requirements.
+
+They are also aware of migration patterns that require a hybrid/multi cloud setup e.g. for a gradual migration to the cloud.
 
 // end::EN[]

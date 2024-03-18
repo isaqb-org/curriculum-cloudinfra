@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Qualitätsanforderungen an die Plattform, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux.
+Qualitätsanforderungen an die Plattform, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux, Cloud Migration.
 
 
 // end::DE[]
@@ -15,7 +15,7 @@ Qualitätsanforderungen an die Plattform, Cloud Native Storage, Backup & Restore
 |===
 
 === Terms and Principles
-Platform quality requirements, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux.
+Platform quality requirements, Cloud Native Storage, Backup & Restore, Overlay Networking, Network Policies, Container Security, Container Linux, Cloud Migration.
 
 // end::EN[]
 

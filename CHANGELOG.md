@@ -3,7 +3,7 @@
 ## New concepts
 
 - Cloud migration patterns
-- Multi/Hybrid cloud patterns
+- Hybrid/Multi cloud patterns
 - definition, methods, and challenges of Site Reliability Engineering
 - DevOps, DevSecOps, and SRE
 - Abstraction Layers of Container Managers
