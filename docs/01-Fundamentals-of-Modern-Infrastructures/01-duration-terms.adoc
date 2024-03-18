@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 120 Min. | Übungszeit: 0 Min.
+| Dauer: 180 Min. | Übungszeit: 0 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Cloud, Cloud-Arten, Cloud-Anbieter, On Premise, Bare Metal, Cloud Service Modell
 
 // tag::EN[]
 |===
-| Duration: 120 min | Practice time: 0 min
+| Duration: 180 min | Practice time: 0 min
 |===
 
 === Terms and Principles
