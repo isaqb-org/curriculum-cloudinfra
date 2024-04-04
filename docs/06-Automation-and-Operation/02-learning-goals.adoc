@@ -46,7 +46,20 @@ Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunkt
 Sie kennen die Einsatzmöglichkeiten vom Container-Managern und können ihre Abstraktionsebenen unterscheiden.
 
 [[LZ-6-6]]
-==== LZ 6-6: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
+==== LZ 6-6: Wege der Beobachtbarkeit von verteilten Applikationen kennen
+
+Softwarearchitekt:innen wissen, dass es durch die verteilte Ausführung von Prozessen neue Herausforderungen an die Beobachtbarkeit verteilter Applikationen gibt.
+
+Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:
+
+* Monitoring/Metriken und Alerting
+* Logging
+* Distributed Tracing
+
+Sie kennen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts.
+
+[[LZ-6-7]]
+==== LZ 6-7: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
 
 Softwarearchitekt:innen kennen Methoden zur Berechnung des Ressourcenbedarfs für:
 
@@ -100,7 +113,20 @@ Software architects are aware that container managers can extend the basic funct
 They are familiar with the use cases for container managers and can differentiate their abstraction layers.
 
 [[LG-6-6]]
-==== LG 6-6: Understand Resource Sizing Calculation Methods
+==== LG 6-6: Understanding approaches for observability of distributed applications
+
+Software architects know that the distributed execution of processes presents new challenges for observability of distributed applications.
+
+They understand the unique conditions of distributed applications and their impact on observability through:
+
+* Monitoring/metrics and alerting
+* Logging
+* Distributed tracing
+
+They are familiar with approaches and responsibilities for creating predictive time series queries for alerts.
+
+[[LG-6-7]]
+==== LG 6-7: Understand Resource Sizing Calculation Methods
 
 Software architects are familiar with methods for calculating resource requirements for:
 
