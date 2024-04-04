@@ -19,7 +19,20 @@ Softwarearchitekt:innen kennen Methoden, um technische von fachlichen Aufgaben d
 * Container Management durch Operator bzw. Controller
 
 [[LZ-4-2]]
-==== LZ 4-2: Passende Resilienzmuster zur Erhöhung von Fehlertoleranz auswählen
+==== LZ 4-2: Passende Technologien für den Betrieb von Modulen auswählen
+
+Softwarearchitekt:innen können geeignete Technologien zum Betrieb von Modulen eines verteilten Systems auswählen, z.B. mit Functions as a Service (FaaS) und Container Orchestrierung.
+
+Darüber hinaus können Sie die Anwendung dieser Technologien Anforderungsgetrieben anwenden. Dabei gibt es verschiedene Aspekte zu beachten wie:
+
+* Skalierungsanforderungen
+* Start- und Ausführungszeit
+* Komplexität des Betriebs und fachlichen Schnitts
+* Zugriff auf Persistenz
+* Limitierungen für Observability und Debugging
+
+[[LZ-4-3]]
+==== LZ 4-3: Passende Resilienzmuster zur Erhöhung von Fehlertoleranz auswählen
 
 Softwarearchitekt:innen verstehen, wie bei einer verteilten Anwendung die Kommunikation zwischen den Services fehlertolerant realisiert werden kann.
 
@@ -54,7 +67,20 @@ Software architects are familiar with methods for separating technical and busin
 * Container management through operators or controllers
 
 [[LG-4-2]]
-==== LG 4-2: Ability to Select Appropriate Resilience Patterns to Increase Fault Tolerance
+==== LG 4-2: Ability to Select Suitable Technologies for Operating Modules
+
+Software architects can select suitable technologies for operating modules of a distributed system, e.g. with Functions as a Service (FaaS) and container orchestration.
+
+They select these technologies in a requirements-driven manner. Various aspects must be taken into account, such as
+
+* Scaling requirements
+* Start and runtime duration
+* Complexity of operation and domain boundaries
+* Access to persistence
+* Limitations on observability and debugging
+
+[[LG-4-3]]
+==== LG 4-3: Ability to Select Appropriate Resilience Patterns to Increase Fault Tolerance
 
 Software architects understand how communication between services in a distributed application can be made fault-tolerant.
 
