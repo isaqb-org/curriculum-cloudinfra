@@ -20,7 +20,9 @@ Sie verstehen den Unterschied zwischen Public Cloud- und On-Premise-Betrieb sowi
 
 Softwarearchitekt:innen kennen unterschiedliche Cloud Service Modelle (*aaS) und können Services anhand dieser Modelle klassifizieren.
 
-Sie verstehen das Shared-Responsibility-Modell und dessen Relevanz für Kosten- und Risikobewertungen bei der Nutzung von managed Cloud Services.
+Sie verstehen darüber hinaus das Serverless Computing Konzept und können es den Cloud Service Modellen zuordnen.
+
+Softwarearchitekt:innen verstehen das Shared-Responsibility-Modell und dessen Relevanz für Kosten- und Risikobewertungen bei der Nutzung von managed Cloud Services.
 
 Sie kennen das Konzept des Vendor Lock-in und seine Relevanz für die Entscheidungsfindung zwischen managed und self-managed Services.
 
@@ -66,7 +68,9 @@ Software architects understand the difference between public cloud and on-premis
 
 Software architects know different cloud service models (*aaS) and can classify services based on these models.
 
-They understand the shared responsibility model and its relevance for cost and risk assessments when using managed cloud services. 
+They also understand the serverless computing concept and can assign it to the cloud service models.
+
+Software architects understand the shared responsibility model and its relevance for cost and risk assessments when using managed cloud services.
 
 They know the concept of vendor lock-in and its relevance for decision-making between managed and self-managed services.
 

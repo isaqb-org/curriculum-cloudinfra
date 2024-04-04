@@ -8,11 +8,13 @@
 - DevOps, DevSecOps, and SRE
 - Abstraction Layers of Container Managers
 
-## Added/Changed wording
+## Naming concepts more explicitly
 
 - Chaos engineering
 - Eventual consistency
 - Platform quality requirements
+- Serverless
+- Functions as a Service (FaaS)
 
 ## Removed
 - Mentioning of tool names for automation and operation (Ansible, Chef, Terraform, Rancher, Tectonic, Kops, Kubeadm, OpenShift)

@@ -5,7 +5,6 @@
 
 === Begriffe und Konzepte
 Cloud, Cloud-Arten, Cloud-Anbieter, On Premise, Bare Metal, Cloud Service Modelle (*aaS), Vendor Lock-in, Managed Services, Cloud Native Services, Cloud-Muster, Cloud-Migrationsmuster, Hybrid/Multi Cloud, Organisatorische Aspekte der Cloud Migration, Rechtliche Rahmenbedingungen, Time-to-Market, Verfügbarkeit, Skalierung, Geo Redundanz, Performance, IOPS, Decoupling Operations, Networking.
-
 // end::DE[]
 
 // tag::EN[]
