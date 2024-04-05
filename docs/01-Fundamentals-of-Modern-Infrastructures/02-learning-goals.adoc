@@ -2,13 +2,18 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Cloud-Arten, Cloud-Muster und Cloud Migrationsmuster verstehen und unterscheiden
+==== LZ 1-1: Cloud-Arten verstehen und unterscheiden
 
 Softwarearchitekt:innen kennen die gängigen Cloud-Begriffe und können verschiedene Arten wie Public, Private, Hybrid/Multi und On-Premise voneinander unterscheiden. 
 
-Sie verstehen Cloud-Muster und Cloud-Migrationsmuster, sowie deren Anwendung.
+Sie verstehen, dass der Hybrid/Multi Cloud Betrieb keine Ausnahme darstellt und können die Gründe von Hybrid/Multi Cloud Betrieb benennen, beispielsweise:
 
-Sie verstehen den Unterschied zwischen Cloud- und On-Premise-Betrieb sowie die Argumente für und gegen den Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
+* Schrittweise Migration in die Cloud
+* Kostenersparnis beim Betrieb
+* Datenschutz und Datensicherheit
+* Integration mit Bestandssystemen
+
+Sie verstehen den Unterschied zwischen Public Cloud- und On-Premise-Betrieb sowie die Herausforderungen und Argumente für und gegen den Public Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
 
 [[LZ-1-2]]
 ==== LZ 1-2: Entscheidungskriterien für die Nutzung von managed Services und self-managed Services verstehen
@@ -27,7 +32,7 @@ Sie kennen das Konzept des Vendor Lock-in und seine Relevanz für die Entscheidu
 Softwarearchitekt:innen kennen die organisatorischen Aspekte der Cloud Migration und die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud, z. b.:
 
 * DSGVO (GDPR)
-* GoBD
+* BSI C5 (Kriterienkatalog Cloud Computing)
 * ISO 27001
 * BSI IT-Grundschutz
 
@@ -45,13 +50,18 @@ Sie kennen die Leistungsanforderungen an die Infrastruktur und die Limitierungen
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: Understand and Distinguish Cloud Types, Cloud Patterns and Cloud Migration Patterns
+==== LG 1-1: Understand and Differentiate Cloud Types
 
-Software architects know the common cloud terms and can distinguish between different types such as public, private, hybrid/multi and on-premise. 
+Software architects know the common cloud terms and can distinguish between different types such as public, private, hybrid/multi and on-premise.
 
-They understand cloud patterns and cloud migration patterns, and how to apply them.
+They understand that hybrid/multi-cloud operation is no exception and can name the reasons for hybrid/multi-cloud operation, for example:
 
-They understand the difference between cloud and on-premise operations, as well as the arguments for and against cloud operations. They also recognize when the use of own hardware (bare metal) is more appropriate.
+* Gradual migration to the cloud
+* Cost savings during operation
+* Data protection and data security
+* Integration with existing systems
+
+Software architects understand the difference between public cloud and on-premise operation as well as the challenges and arguments for and against public cloud operation. They also recognize when it makes more sense to use dedicated hardware (bare metal).
 
 [[LG-1-2]]
 ==== LG 1-2: Understand Decision Criteria for the Use of Managed Services and Self-Managed Services
@@ -70,9 +80,9 @@ They know the concept of vendor lock-in and its relevance for decision-making be
 Software architects are familiar with the organizational aspects of cloud migration and the legal framework for operating applications in the cloud, e.g:
 
 * DSGVO (GDPR)
-* GoBD (Principles for electronical accounting and archiving)
+* BSI C5 (Cloud Computing Compliance Criteria Catalogue)
 * ISO 27001
-* IT-Grundschutz (A systematic basis for information security)
+* BSI IT-Grundschutz (A systematic basis for information security)
 
 They understand that the aspects of data security are relevant for the decision for or against a public cloud and that organizational and/or legal requirements influence the choice of the type of cloud used.
 

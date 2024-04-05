@@ -1,20 +1,19 @@
 // tag::DE[]
 |===
-| Dauer: 120 Min. | Übungszeit: 0 Min.
+| Dauer: 180 Min. | Übungszeit: 0 Min.
 |===
 
 === Begriffe und Konzepte
-Cloud, Cloud-Arten, Cloud-Anbieter, On Premise, Bare Metal, Cloud Service Modelle (*aaS), Vendor Lock-in, Managed Services, Serverless Computing, Cloud Native Services, Cloud-Muster, Cloud-Migrationsmuster, Multi/Hybrid Cloud, Organisatorische Aspekte der Cloud Migration, Rechtliche Rahmenbedingungen, Time-to-Market, Verfügbarkeit, Skalierung, Geo Redundanz und Skalierung, Performance, IOPS, Decoupling Operations, Networking.
-
+Cloud, Cloud-Arten, Cloud-Anbieter, On Premise, Bare Metal, Cloud Service Modelle (*aaS), Vendor Lock-in, Managed Services, Cloud Native Services, Cloud-Muster, Cloud-Migrationsmuster, Hybrid/Multi Cloud, Organisatorische Aspekte der Cloud Migration, Rechtliche Rahmenbedingungen, Time-to-Market, Verfügbarkeit, Skalierung, Geo Redundanz, Performance, IOPS, Decoupling Operations, Networking.
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 120 min | Practice time: 0 min
+| Duration: 180 min | Practice time: 0 min
 |===
 
 === Terms and Principles
-Cloud, cloud types, cloud provider, on premise, bare metal, cloud service models (*aaS), vendor lock-in, managed services, serverless computing, cloud native services, cloud patterns, cloud migration patterns, multi/hybrid cloud, organizational aspects of cloud migration, legal conditions, time-to-market, availability, geo redundancy and scalability, performance, IOPS, decoupling operations, networking.
+Cloud, cloud types, cloud provider, on premise, bare metal, cloud service models (*aaS), vendor lock-in, managed services, cloud native services, cloud patterns, cloud migration patterns, hybrid/multi cloud, organizational aspects of cloud migration, legal conditions, time-to-market, availability, scalability, geo redundancy, performance, IOPS, decoupling operations, networking.
 // end::EN[]
 
 

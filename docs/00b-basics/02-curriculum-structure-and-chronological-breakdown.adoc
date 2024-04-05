@@ -4,12 +4,12 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Grundlagen moderner Infrastrukturen | 120
+| 1. Grundlagen moderner Infrastrukturen | 180
 | 2. Gängige Architekturkonzepte | 120
 | 3. Cloud Native Journey | 240
 | 4. Muster für verteilte Anwendungen und Cloud Native Architekturen | 240
-| 5. Development und CI/CD | 180
-| 6. Automatisierung und Betrieb | 180
+| 5. Development und CI/CD | 150
+| 6. Automatisierung und Betrieb | 150
 | 7. Case Study | 120
 | |
 | Summe | 1200 (20h)
@@ -25,12 +25,12 @@
 |===
 | Content
 | Recommended minimum duration (min)
-| 1. Fundamentals of Modern Infrastructures | 120
+| 1. Fundamentals of Modern Infrastructures | 180
 | 2. Common Architecture Concepts | 120
 | 3. Cloud Native Journey | 240
 | 4. Patterns for Distributed Applications and Cloud Native Architectures | 240
-| 5. Development and CI/CD | 180
-| 6. Automation and Operation | 180
+| 5. Development and CI/CD | 150
+| 6. Automation and Operation | 150
 | 7. Case Study | 120
 | |
 | Total | 1200 (20h)
