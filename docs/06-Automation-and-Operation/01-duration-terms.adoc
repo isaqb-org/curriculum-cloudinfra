@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-DevOps, DevSecOps, Site Reliability Engineering (SRE), Mean Time To Recovery (MTTR), Konfiguration, Provisionierung, Infrastructure as Code, Cloud Provider APIs, Abstraktionsebenen von Container-Managern, Berechnung von Verfügbarkeit, Logging, Monitoring, Metriken, Distributed Tracing, Time Series Queries, Alerting, Berechnung Cluster Größe
+DevOps, DevSecOps, Site Reliability Engineering (SRE), Konfiguration, Provisionierung, Infrastructure as Code, Cloud Provider APIs, Berechtigungsverwaltung, Abstraktionsebenen von Container-Managern, Berechnung Verfügbarkeit, Logging, Monitoring, Metriken, Distributed Tracing, Time Series Queries, Alerting, Berechnung Cluster Größe
 // end::DE[]
 
 // tag::EN[]
@@ -13,7 +13,7 @@ DevOps, DevSecOps, Site Reliability Engineering (SRE), Mean Time To Recovery (MT
 |===
 
 === Terms and Principles
-DevOps, DevSecOps, Site Reliability Engineering (SRE), Mean Time To Recovery (MTTR), configuration, provisioning, Infrastructure as Code, Cloud Provider APIs, abstraction levels of container manager, calculate availability, logging, monitoring, metrics, distributed tracing, time series queries, alerting, calculate cluster size
+DevOps, DevSecOps, Site Reliability Engineering (SRE), configuration, provisioning, Infrastructure as Code, Cloud Provider APIs, Permissions Management, abstraction levels of container manager, calculate availability, logging, monitoring, metrics, distributed tracing, time series queries, alerting, calculate cluster size
 // end::EN[]
 
 

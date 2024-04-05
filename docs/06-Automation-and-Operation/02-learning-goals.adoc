@@ -17,7 +17,36 @@ Softwarearchitekt:innen verstehen die Möglichkeiten zur Schaffung skalierbarer 
 Sie kennen die Definition, Methoden und die Herausforderungen des Site Reliability Engineerings.
 
 [[LZ-6-3]]
-==== LZ 6-3: Wege der Beobachtbarkeit von verteilten Applikationen kennen
+==== LZ 6-3: Automatisierungskonzepte zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur verstehen
+
+Softwarearchitekt:innen verstehen, dass Automatisierung durch Infrastructure as Code eine Schlüsselmethode modernen Betriebs und eine Komponente des Continuous Delivery ist.
+
+Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies mit Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur über die APIs unterschiedlicher Cloud-Anbieter realisiert werden kann.
+
+Sie kennen den Unterschied zwischen Infrastrukturkonfiguration und -Provisionierung, sowie etablierte Vorgehensweisen der Infrastruktur-Verwaltung.
+
+[[LZ-6-4]]
+==== LZ 6-4: Grundprinzipien der Berechtigungsverwaltung verstehen
+
+Softwarearchitekt:innen verstehen die Bedeutung und Implementierung des Prinzips der minimalen Rechtevergabe (Least Privilege) in der Cloud-Umgebung.
+Sie erkennen die Notwendigkeit, jedem Nutzenden und Service-Account nur die minimalen Berechtigungen zu erteilen, die zur Ausführung ihrer spezifischen Aufgaben notwendig sind.
+
+Dabei können sie folgende Herausforderungen benennen:
+
+* Automatisiertes Ausrollen von Berechtigungseinstellungen
+* Verwaltung von konsistenten Berechtigungen in einem Hybrid/Multi-Cloud Setup
+* Balance finden zwischen der minimalen Rechtevergabe (Least Privilege) und autonomen Entwicklungsteams
+* Durchsetzung von Compliance Vorgaben bei der Berechtigungsverwaltung z.B. über Policy Enforcement
+
+[[LZ-6-5]]
+==== LZ 6-5: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
+
+Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunktionalität der Container-Orchestrierungswerkzeuge erweitern lassen.
+
+Sie kennen die Einsatzmöglichkeiten vom Container-Managern und können ihre Abstraktionsebenen unterscheiden.
+
+[[LZ-6-6]]
+==== LZ 6-6: Wege der Beobachtbarkeit von verteilten Applikationen kennen
 
 Softwarearchitekt:innen wissen, dass es durch die verteilte Ausführung von Prozessen neue Herausforderungen an die Beobachtbarkeit verteilter Applikationen gibt.
 
@@ -29,24 +58,8 @@ Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einflus
 
 Sie kennen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts.
 
-[[LZ-6-4]]
-==== LZ 6-4: Automatisierungskonzepte zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur verstehen
-
-Softwarearchitekt:innen verstehen, dass Automatisierung durch Infrastructure as Code eine Schlüsselmethode modernen Betriebs und eine Komponente des Continuous Delivery ist.
-
-Sie kennen die Möglichkeiten der Automatisierung und verstehen, wie dies mit Werkzeuge zur automatisierten Bereitstellung von Cloud Infrastruktur über die APIs unterschiedlicher Cloud-Anbieter realisiert werden kann.
-
-Sie kennen den Unterschied zwischen Infrastrukturkonfiguration und -Provisionierung, sowie etablierte Vorgehensweisen der Infrastruktur-Verwaltung.
-
-[[LZ-6-5]]
-==== LZ 6-5: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
-
-Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunktionalität der Container-Orchestrierungswerkzeuge erweitern lassen.
-
-Sie kennen die Einsatzmöglichkeiten vom Container-Managern und können ihre Abstraktionsebenen unterscheiden.
-
-[[LZ-6-6]]
-==== LZ 6-6: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
+[[LZ-6-7]]
+==== LZ 6-7: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
 
 Softwarearchitekt:innen kennen Methoden zur Berechnung des Ressourcenbedarfs für:
 
@@ -63,7 +76,6 @@ Software architects are familiar with the new roles that have become popular in 
 
 They understand the challenges of adapting these new roles in traditional organizational structures.
 
-
 [[LG-6-2]]
 ==== LG 6-2: Understand Ways to Create Scalable and Highly Reliable Systems
 
@@ -72,7 +84,36 @@ Software architects understand the possibilities for creating scalable and highl
 They are familiar with the definition, methods, and challenges of Site Reliability Engineering.
 
 [[LG-6-3]]
-==== LG 6-3: Understanding approaches for observability of distributed applications
+==== LG 6-3: Understand Automation Concepts for Predictable Infrastructure Creation, Modification, and Improvement
+
+Software architects understand that automation through Infrastructure as Code is a key method of modern operations and a component of Continuous Delivery.
+
+They are familiar with the possibilities of automation and understand how this can be realized using tools for automated provisioning of cloud infrastructure through the APIs of different cloud providers.
+
+They understand the difference between infrastructure configuration and provisioning, as well as established practices for infrastructure management.
+
+[[LG-6-4]]
+==== LG 6-4: Understand the Fundamental Principles of Permissions Management
+
+Software architects understand the importance and implementation of the least privilege principle in cloud environments.
+They understand the need to grant each user and service account only the minimum permissions required to perform their specific tasks.
+
+They can name the following challenges:
+
+* Automated roll-out of permissions settings
+* Managing consistent permissions in a hybrid/multi-cloud setup
+* Striking a balance between least-privilege and autonomous development teams
+* Enforcement of compliance requirements in permissions management, e.g. via policy enforcement
+
+[[LG-6-5]]
+==== LG 6-5: Differentiate and Understand Different Abstraction Layers of Container Managers
+
+Software architects are aware that container managers can extend the basic functionality of container orchestration tools.
+
+They are familiar with the use cases for container managers and can differentiate their abstraction layers.
+
+[[LG-6-6]]
+==== LG 6-6: Understanding approaches for observability of distributed applications
 
 Software architects know that the distributed execution of processes presents new challenges for observability of distributed applications.
 
@@ -84,24 +125,8 @@ They understand the unique conditions of distributed applications and their impa
 
 They are familiar with approaches and responsibilities for creating predictive time series queries for alerts.
 
-[[LG-6-4]]
-==== LG 6-4: Understand Automation Concepts for Predictable Infrastructure Creation, Modification, and Improvement
-
-Software architects understand that automation through Infrastructure as Code is a key method of modern operations and a component of Continuous Delivery.
-
-They are familiar with the possibilities of automation and understand how this can be realized using tools for automated provisioning of cloud infrastructure through the APIs of different cloud providers.
-
-They understand the difference between infrastructure configuration and provisioning, as well as established practices for infrastructure management.
-
-[[LG-6-5]]
-==== LG 6-5: Differentiate and Understand Different Abstraction Layers of Container Managers
-
-Software architects are aware that container managers can extend the basic functionality of container orchestration tools.
-
-They are familiar with the use cases for container managers and can differentiate their abstraction layers.
-
-[[LG-6-6]]
-==== LG 6-6: Understand Resource Sizing Calculation Methods
+[[LG-6-7]]
+==== LG 6-7: Understand Resource Sizing Calculation Methods
 
 Software architects are familiar with methods for calculating resource requirements for:
 
