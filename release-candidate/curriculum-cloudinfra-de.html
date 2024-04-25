@@ -1897,8 +1897,8 @@ h2 {
 <div id="header">
 <h1>Curriculum für<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><em>Advanced Level</em>: <br> Modul<br>CLOUDINFRA<br><br>Infrastruktur, Container und Cloud Native</h1>
 <div class="details">
-<span id="revnumber"> 2023.1-RC1-DE,</span>
-<span id="revdate">20231124</span>
+<span id="revnumber"> 2024.1-RC2-DE,</span>
+<span id="revdate">20240425</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Inhaltsverzeichnis</div>
@@ -2024,7 +2024,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <div class="ulist">
 <ul>
 <li>
-<p><a href="#LZ-1-1">LZ 1-1: Cloud-Arten, Cloud-Muster und Cloud Migrationsmuster verstehen und unterscheiden</a></p>
+<p><a href="#LZ-1-1">LZ 1-1: Cloud-Arten verstehen und unterscheiden</a></p>
 </li>
 <li>
 <p><a href="#LZ-1-2">LZ 1-2: Entscheidungskriterien für die Nutzung von managed Services und self-managed Services verstehen</a></p>
@@ -2057,16 +2057,25 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-3-5">LZ 3-5: Persistenzlösungen in Cloud-Umgebungen bewerten und auswählen</a></p>
 </li>
 <li>
+<p><a href="#LZ-3-6">LZ 3-6: Cloud Migrationsmuster verstehen</a></p>
+</li>
+<li>
 <p><a href="#LZ-4-1">LZ 4-1: Verschiedene Muster für die Modularisierung von Cloud-Native Architekturen kennen</a></p>
 </li>
 <li>
-<p><a href="#LZ-4-2">LZ 4-2: Passende Resilienzmuster zur Erhöhung von Fehlertoleranz auswählen</a></p>
+<p><a href="#LZ-4-2">LZ 4-2: Passende Technologien für den Betrieb von Modulen auswählen</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-3">LZ 4-3: Passende Resilienzmuster zur Erhöhung von Fehlertoleranz auswählen</a></p>
 </li>
 <li>
 <p><a href="#LZ-5-1">LZ 5-1: Projekte in Cloud-Umgebungen umsetzen</a></p>
 </li>
 <li>
-<p><a href="#LZ-5-2">LZ 5-2: Wege der Beobachtbarkeit von verteilten Applikationen kennen</a></p>
+<p><a href="#LZ-5-2">LZ 5-2: Application Lifecycle Management in Cloud-Umgebungen umsetzen</a></p>
+</li>
+<li>
+<p><a href="#LZ-5-3">LZ 5-3: Secrets Management Optionen kennen</a></p>
 </li>
 <li>
 <p><a href="#LZ-6-1">LZ 6-1: Neue Rollen und deren Aufgaben kennen und unterscheiden</a></p>
@@ -2078,10 +2087,16 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-6-3">LZ 6-3: Automatisierungskonzepte zum vorhersehbaren Erzeugen, Verändern und Verbessern der Infrastruktur verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-6-4">LZ 6-4: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen</a></p>
+<p><a href="#LZ-6-4">LZ 6-4: Grundprinzipien der Berechtigungsverwaltung verstehen</a></p>
 </li>
 <li>
-<p><a href="#LZ-6-5">LZ 6-5: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen</a></p>
+<p><a href="#LZ-6-5">LZ 6-5: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-6-6">LZ 6-6: Wege der Beobachtbarkeit von verteilten Applikationen kennen</a></p>
+</li>
+<li>
+<p><a href="#LZ-6-7">LZ 6-7: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen</a></p>
 </li>
 <li>
 <p><a href="#LZ-7-1">LZ 7-1: Vertiefung durch praktische Übungen</a></p>
@@ -2201,7 +2216,7 @@ Zusätzlich werden gängige Services verschiedener Cloud-Anbieter besprochen, M�
 <tbody>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">1. Grundlagen moderner Infrastrukturen</p></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock">120</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">180</p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">2. Gängige Architekturkonzepte</p></td>
@@ -2217,11 +2232,11 @@ Zusätzlich werden gängige Services verschiedener Cloud-Anbieter besprochen, M�
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">5. Development und CI/CD</p></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock">180</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">150</p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">6. Automatisierung und Betrieb</p></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock">180</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">150</p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">7. Case Study</p></td>
@@ -2346,7 +2361,7 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 </colgroup>
 <tbody>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 120 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 180 Min.</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Übungszeit: 0 Min.</p></td>
 </tr>
 </tbody>
@@ -2354,21 +2369,37 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 <div class="sect2">
 <h3 id="_begriffe_und_konzepte">1.1. Begriffe und Konzepte</h3>
 <div class="paragraph">
-<p>Cloud, Cloud-Arten, Cloud-Anbieter, On Premise, Bare Metal, Cloud Service Modelle (*aaS), Vendor Lock-in, Managed Services, Cloud Native Services, Cloud-Muster, Cloud-Migrationsmuster, Multi/Hybrid Cloud, Organisatorische Aspekte der Cloud Migration, Rechtliche Rahmenbedingungen, Time-to-Market, Verfügbarkeit, Skalierung, Geo Redundanz und Skalierung, Performance, IOPS, Decoupling Operations, Networking.</p>
+<p>Cloud, Cloud-Arten, Cloud-Anbieter, On Premise, Bare Metal, Cloud Service Modelle (*aaS), Vendor Lock-in, Managed Services, Cloud Native Services, Cloud-Muster, Cloud-Migrationsmuster, Hybrid/Multi Cloud, Organisatorische Aspekte der Cloud Migration, Rechtliche Rahmenbedingungen, Time-to-Market, Verfügbarkeit, Skalierung, Geo Redundanz, Performance, IOPS, Decoupling Operations, Networking.</p>
 </div>
 </div>
 <div class="sect2">
 <h3 id="_lernziele">1.2. Lernziele</h3>
 <div class="sect3">
-<h4 id="LZ-1-1">LZ 1-1: Cloud-Arten, Cloud-Muster und Cloud Migrationsmuster verstehen und unterscheiden</h4>
+<h4 id="LZ-1-1">LZ 1-1: Cloud-Arten verstehen und unterscheiden</h4>
 <div class="paragraph">
 <p>Softwarearchitekt:innen kennen die gängigen Cloud-Begriffe und können verschiedene Arten wie Public, Private, Hybrid/Multi und On-Premise voneinander unterscheiden.</p>
 </div>
 <div class="paragraph">
-<p>Sie verstehen Cloud-Muster und Cloud-Migrationsmuster, sowie deren Anwendung.</p>
+<p>Sie verstehen, dass der Hybrid/Multi Cloud Betrieb keine Ausnahme darstellt und können die Gründe von Hybrid/Multi Cloud Betrieb benennen, beispielsweise:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Schrittweise Migration in die Cloud</p>
+</li>
+<li>
+<p>Kostenersparnis beim Betrieb</p>
+</li>
+<li>
+<p>Datenschutz und Datensicherheit</p>
+</li>
+<li>
+<p>Integration mit Bestandssystemen</p>
+</li>
+</ul>
 </div>
 <div class="paragraph">
-<p>Sie verstehen den Unterschied zwischen Cloud- und On-Premise-Betrieb sowie die Argumente für und gegen den Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.</p>
+<p>Sie verstehen den Unterschied zwischen Public Cloud- und On-Premise-Betrieb sowie die Herausforderungen und Argumente für und gegen den Public Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2377,7 +2408,10 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 <p>Softwarearchitekt:innen kennen unterschiedliche Cloud Service Modelle (*aaS) und können Services anhand dieser Modelle klassifizieren.</p>
 </div>
 <div class="paragraph">
-<p>Sie verstehen das Shared-Responsibility-Modell und dessen Relevanz für Kosten- und Risikobewertungen bei der Nutzung von managed Cloud Services.</p>
+<p>Sie verstehen darüber hinaus das Serverless Computing Konzept und können es den Cloud Service Modellen zuordnen.</p>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen verstehen das Shared-Responsibility-Modell und dessen Relevanz für Kosten- und Risikobewertungen bei der Nutzung von managed Cloud Services.</p>
 </div>
 <div class="paragraph">
 <p>Sie kennen das Konzept des Vendor Lock-in und seine Relevanz für die Entscheidungsfindung zwischen managed und self-managed Services.</p>
@@ -2394,7 +2428,7 @@ Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett off
 <p>DSGVO (GDPR)</p>
 </li>
 <li>
-<p>GoBD</p>
+<p>BSI C5 (Kriterienkatalog Cloud Computing)</p>
 </li>
 <li>
 <p>ISO 27001</p>
@@ -2459,10 +2493,10 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 <p>Monolith</p>
 </li>
 <li>
-<p>Microsoervices</p>
+<p>Microservices</p>
 </li>
 <li>
-<p>Self Contained Systems</p>
+<p>Self-contained Systems</p>
 </li>
 </ul>
 </div>
@@ -2533,7 +2567,7 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 <div class="sect2">
 <h3 id="_begriffe_und_konzepte_3">3.1. Begriffe und Konzepte</h3>
 <div class="paragraph">
-<p>Qualitätsanforderungen an die Plattform, Cloud Native Storage, Backup &amp; Restore, Overlay Networking, Network Policies, Container Security, Container Linux.</p>
+<p>Qualitätsanforderungen an die Plattform, Cloud Native Storage, Backup &amp; Restore, Overlay Networking, Network Policies, Container Security, Container Linux, Cloud Migration.</p>
 </div>
 </div>
 <div class="sect2">
@@ -2641,6 +2675,15 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 <p>Sie kennen verschiedene Konzepte, um Backup und Restore von persistenten Daten in der Cloud zu realisieren.</p>
 </div>
 </div>
+<div class="sect3">
+<h4 id="LZ-3-6">LZ 3-6: Cloud Migrationsmuster verstehen</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen kennen verschiedene Cloud-Migrationsmuster und können sie Anforderungsgetrieben auswählen.</p>
+</div>
+<div class="paragraph">
+<p>Sie kennen darüber hinaus Migrationsmuster, die ein Hybrid/Multi Cloud Setup erfordern, z. B. für eine schrittweise Migration in die Cloud.</p>
+</div>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_referenzen_2">3.3. Referenzen</h3>
@@ -2669,7 +2712,7 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 <div class="sect2">
 <h3 id="_begriffe_und_konzepte_4">4.1. Begriffe und Konzepte</h3>
 <div class="paragraph">
-<p>Resilienz Muster, Container Application Design, Cloud Native Architekturen, Container Pattern, Service Mesh</p>
+<p>Resilienz Muster, Container Application Design, Cloud Native Architekturen, Container Pattern, Functions as a Service (FaaS), Service Mesh</p>
 </div>
 </div>
 <div class="sect2">
@@ -2713,7 +2756,35 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-4-2">LZ 4-2: Passende Resilienzmuster zur Erhöhung von Fehlertoleranz auswählen</h4>
+<h4 id="LZ-4-2">LZ 4-2: Passende Technologien für den Betrieb von Modulen auswählen</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können geeignete Technologien zum Betrieb von Modulen eines verteilten Systems auswählen, z.B. mit Functions as a Service (FaaS) und Container Orchestrierung.</p>
+</div>
+<div class="paragraph">
+<p>Darüber hinaus können Sie die Anwendung dieser Technologien Anforderungsgetrieben anwenden. Dabei gibt es verschiedene Aspekte zu beachten wie:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Skalierungsanforderungen</p>
+</li>
+<li>
+<p>Start- und Ausführungszeit</p>
+</li>
+<li>
+<p>Komplexität des Betriebs und fachlichen Schnitts</p>
+</li>
+<li>
+<p>Zugriff auf Persistenz</p>
+</li>
+<li>
+<p>Limitierungen für Observability und Debugging</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-3">LZ 4-3: Passende Resilienzmuster zur Erhöhung von Fehlertoleranz auswählen</h4>
 <div class="paragraph">
 <p>Softwarearchitekt:innen verstehen, wie bei einer verteilten Anwendung die Kommunikation zwischen den Services fehlertolerant realisiert werden kann.</p>
 </div>
@@ -2760,7 +2831,7 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 </colgroup>
 <tbody>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 180 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 150 Min.</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Übungszeit: 20 Min.</p></td>
 </tr>
 </tbody>
@@ -2768,7 +2839,7 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 <div class="sect2">
 <h3 id="_begriffe_und_konzepte_5">5.1. Begriffe und Konzepte</h3>
 <div class="paragraph">
-<p>Development Environment, CI/CD Environment, Mean Time To Recovery (MTTR), Application Lifecycle Management, Formen von Deployments wie Rolling-, Canary- und Blue/Green Deployment, Cluster Design, Logging, Monitoring, Metriken, Distributed Tracing, Time Series Queries, Alerting</p>
+<p>Development Environment, CI/CD Environment, Mean Time To Recovery (MTTR), Application Lifecycle Management, Formen von Deployments wie Rolling-, Canary- und Blue/Green Deployment, Cluster Design, Secrets Management</p>
 </div>
 </div>
 <div class="sect2">
@@ -2779,7 +2850,7 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 <p>Softwarearchitekt:innen wissen, dass es bei der Arbeit in Cloud-Umgebungen neue Anforderungen an den Softwareentwicklungsprozess gibt.</p>
 </div>
 <div class="paragraph">
-<p>Sie kennen verschiedene Vorgehensweisen, um Projekte in Cloud-Umgebungen durchzuführen. Zum Beispiel:</p>
+<p>Sie kennen verschiedene Vorgehensweisen und Technologien, um Projekte in Cloud-Umgebungen durchzuführen. Zum Beispiel:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -2791,8 +2862,11 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 </li>
 </ul>
 </div>
+</div>
+<div class="sect3">
+<h4 id="LZ-5-2">LZ 5-2: Application Lifecycle Management in Cloud-Umgebungen umsetzen</h4>
 <div class="paragraph">
-<p>Sie kennen Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:</p>
+<p>Softwarearchitekt:innen kennen Möglichkeiten, um in einer Cloud-Umgebung Deployments und ein Application Lifecycle Management zu realisieren, insbesondere:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -2832,28 +2906,25 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-5-2">LZ 5-2: Wege der Beobachtbarkeit von verteilten Applikationen kennen</h4>
+<h4 id="LZ-5-3">LZ 5-3: Secrets Management Optionen kennen</h4>
 <div class="paragraph">
-<p>Softwarearchitekt:innen wissen, dass es durch die verteilte Ausführung von Prozessen neue Herausforderungen an die Beobachtbarkeit verteilter Applikationen gibt.</p>
-</div>
-<div class="paragraph">
-<p>Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:</p>
+<p>Softwarearchitekt:innen verstehen die kritische Rolle und Techniken zur Verwaltung von Geheimnissen (Secrets) in der Cloud, darunter:</p>
 </div>
 <div class="ulist">
 <ul>
 <li>
-<p>Logging</p>
+<p>Integration von Cloud-Diensten zur Secrets-Verwaltung</p>
 </li>
 <li>
-<p>Monitoring/Metriken und Alerting</p>
+<p>Secrets Operator Konzept</p>
 </li>
 <li>
-<p>Distributed Tracing</p>
+<p>Automatisierte Secret Rotation</p>
 </li>
 </ul>
 </div>
 <div class="paragraph">
-<p>Sie kennen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts.</p>
+<p>Darüber hinaus können sie die Vor- und Nachteile zum eigenen Betrieb eines Secrets Managers benennen.</p>
 </div>
 </div>
 </div>
@@ -2876,7 +2947,7 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 </colgroup>
 <tbody>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 180 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 150 Min.</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Übungszeit: 20 Min.</p></td>
 </tr>
 </tbody>
@@ -2884,7 +2955,7 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 <div class="sect2">
 <h3 id="_begriffe_und_konzepte_6">6.1. Begriffe und Konzepte</h3>
 <div class="paragraph">
-<p>DevOps, DevSecOps, Site Reliability Engineering (SRE), Konfiguration, Provisionierung, Infrastructure as Code, Cloud Provider APIs, Abstraktionsebenen von Container-Managern, Berechnung Verfügbarkeit, Berechnung Cluster Größe</p>
+<p>DevOps, DevSecOps, Site Reliability Engineering (SRE), Konfiguration, Provisionierung, Infrastructure as Code, Cloud Provider APIs, Berechtigungsverwaltung, Abstraktionsebenen von Container-Managern, Berechnung Verfügbarkeit, Logging, Monitoring, Metriken, Distributed Tracing, Time Series Queries, Alerting, Berechnung Cluster Größe</p>
 </div>
 </div>
 <div class="sect2">
@@ -2920,7 +2991,33 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-6-4">LZ 6-4: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen</h4>
+<h4 id="LZ-6-4">LZ 6-4: Grundprinzipien der Berechtigungsverwaltung verstehen</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen verstehen die Bedeutung und Implementierung des Prinzips der minimalen Rechtevergabe (Least Privilege) in der Cloud-Umgebung.
+Sie erkennen die Notwendigkeit, jedem Nutzenden und Service-Account nur die minimalen Berechtigungen zu erteilen, die zur Ausführung ihrer spezifischen Aufgaben notwendig sind.</p>
+</div>
+<div class="paragraph">
+<p>Dabei können sie folgende Herausforderungen benennen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Automatisiertes Ausrollen von Berechtigungseinstellungen</p>
+</li>
+<li>
+<p>Verwaltung von konsistenten Berechtigungen in einem Hybrid/Multi-Cloud Setup</p>
+</li>
+<li>
+<p>Balance finden zwischen der minimalen Rechtevergabe (Least Privilege) und autonomen Entwicklungsteams</p>
+</li>
+<li>
+<p>Durchsetzung von Compliance Vorgaben bei der Berechtigungsverwaltung z.B. über Policy Enforcement</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-6-5">LZ 6-5: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen</h4>
 <div class="paragraph">
 <p>Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunktionalität der Container-Orchestrierungswerkzeuge erweitern lassen.</p>
 </div>
@@ -2929,7 +3026,32 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-6-5">LZ 6-5: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen</h4>
+<h4 id="LZ-6-6">LZ 6-6: Wege der Beobachtbarkeit von verteilten Applikationen kennen</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen wissen, dass es durch die verteilte Ausführung von Prozessen neue Herausforderungen an die Beobachtbarkeit verteilter Applikationen gibt.</p>
+</div>
+<div class="paragraph">
+<p>Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Monitoring/Metriken und Alerting</p>
+</li>
+<li>
+<p>Logging</p>
+</li>
+<li>
+<p>Distributed Tracing</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Sie kennen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-6-7">LZ 6-7: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen</h4>
 <div class="paragraph">
 <p>Softwarearchitekt:innen kennen Methoden zur Berechnung des Ressourcenbedarfs für:</p>
 </div>
@@ -3068,8 +3190,8 @@ CQRS, Event Sourcing, Eventual Consistency.</p>
 </div>
 <div id="footer">
 <div id="footer-text">
- 2023.1-RC1-DE<br>
-Last updated 2023-11-24 18:31:50 UTC
+ 2024.1-RC2-DE<br>
+Last updated 2024-04-25 15:47:39 UTC
 </div>
 </div>
 </body>

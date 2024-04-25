@@ -1897,8 +1897,8 @@ h2 {
 <div id="header">
 <h1>Curriculum for<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><em>Advanced Level</em>: <br> Module<br>CLOUDINFRA<br><br>Infrastructure, Containers and Cloud Native</h1>
 <div class="details">
-<span id="revnumber"> 2023.1-RC1-EN,</span>
-<span id="revdate">20231124</span>
+<span id="revnumber"> 2024.1-RC2-EN,</span>
+<span id="revdate">20240425</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
@@ -2021,7 +2021,7 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 <div class="ulist">
 <ul>
 <li>
-<p><a href="#LG-1-1">LG 1-1: Understand and Distinguish Cloud Types, Cloud Patterns and Cloud Migration Patterns</a></p>
+<p><a href="#LG-1-1">LG 1-1: Understand and Differentiate Cloud Types</a></p>
 </li>
 <li>
 <p><a href="#LG-1-2">LG 1-2: Understand Decision Criteria for the Use of Managed Services and Self-Managed Services</a></p>
@@ -2054,16 +2054,25 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 <p><a href="#LG-3-5">LG 3-5: Evaluate and Select Persistence Solutions in Cloud Environments</a></p>
 </li>
 <li>
+<p><a href="#LG-3-6">LG 3-6: Understand cloud migration patterns</a></p>
+</li>
+<li>
 <p><a href="#LG-4-1">LG 4-1: Know Different Patterns for Modularizing Cloud-Native Architectures</a></p>
 </li>
 <li>
-<p><a href="#LG-4-2">LG 4-2: Ability to Select Appropriate Resilience Patterns to Increase Fault Tolerance</a></p>
+<p><a href="#LG-4-2">LG 4-2: Ability to Select Suitable Technologies for Operating Modules</a></p>
+</li>
+<li>
+<p><a href="#LG-4-3">LG 4-3: Ability to Select Appropriate Resilience Patterns to Increase Fault Tolerance</a></p>
 </li>
 <li>
 <p><a href="#LG-5-1">LG 5-1: Implementing Projects in Cloud Environments</a></p>
 </li>
 <li>
-<p><a href="#LG-5-2">LG 5-2: Understanding approaches for observability of distributed applications</a></p>
+<p><a href="#LG-5-2">LG 5-2: Implementing Application Lifecycle Management in Cloud Environments</a></p>
+</li>
+<li>
+<p><a href="#LG-5-3">LG 5-3: Know Secrets Management Options</a></p>
 </li>
 <li>
 <p><a href="#LG-6-1">LG 6-1: Understand and Differentiate New Roles and Their Responsibilities</a></p>
@@ -2075,10 +2084,16 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 <p><a href="#LG-6-3">LG 6-3: Understand Automation Concepts for Predictable Infrastructure Creation, Modification, and Improvement</a></p>
 </li>
 <li>
-<p><a href="#LG-6-4">LG 6-4: Differentiate and Understand Different Abstraction Layers of Container Managers</a></p>
+<p><a href="#LG-6-4">LG 6-4: Understand the Fundamental Principles of Permissions Management</a></p>
 </li>
 <li>
-<p><a href="#LG-6-5">LG 6-5: Understand Resource Sizing Calculation Methods</a></p>
+<p><a href="#LG-6-5">LG 6-5: Differentiate and Understand Different Abstraction Layers of Container Managers</a></p>
+</li>
+<li>
+<p><a href="#LG-6-6">LG 6-6: Understanding approaches for observability of distributed applications</a></p>
+</li>
+<li>
+<p><a href="#LG-6-7">LG 6-7: Understand Resource Sizing Calculation Methods</a></p>
 </li>
 <li>
 <p><a href="#LG-7-1">LG 7-1: Deepening the Understanding by Practical Exercises</a></p>
@@ -2194,7 +2209,7 @@ Additionally, common services from various cloud providers will be discussed, po
 <tbody>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">1. Fundamentals of Modern Infrastructures</p></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock">120</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">180</p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">2. Common Architecture Concepts</p></td>
@@ -2210,11 +2225,11 @@ Additionally, common services from various cloud providers will be discussed, po
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">5. Development and CI/CD</p></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock">180</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">150</p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">6. Automation and Operation</p></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock">180</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">150</p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">7. Case Study</p></td>
@@ -2339,7 +2354,7 @@ In particular, the curriculum provides no specifications on the nature of the ex
 </colgroup>
 <tbody>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 120 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 180 min</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 0 min</p></td>
 </tr>
 </tbody>
@@ -2347,21 +2362,37 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <div class="sect2">
 <h3 id="_terms_and_principles">1.1. Terms and Principles</h3>
 <div class="paragraph">
-<p>Cloud, cloud types, cloud provider, on premise, bare metal, cloud service models (*aaS), vendor lock-in, managed services, cloud native services, cloud patterns, cloud migration patterns, multi/hybrid cloud, organizational aspects of cloud migration, legal conditions, time-to-market, availability, geo redundancy and scalability, performance, IOPS, decoupling operations, networking.</p>
+<p>Cloud, cloud types, cloud provider, on premise, bare metal, cloud service models (*aaS), vendor lock-in, managed services, cloud native services, cloud patterns, cloud migration patterns, hybrid/multi cloud, organizational aspects of cloud migration, legal conditions, time-to-market, availability, scalability, geo redundancy, performance, IOPS, decoupling operations, networking.</p>
 </div>
 </div>
 <div class="sect2">
 <h3 id="_learning_goals">1.2. Learning Goals</h3>
 <div class="sect3">
-<h4 id="LG-1-1">LG 1-1: Understand and Distinguish Cloud Types, Cloud Patterns and Cloud Migration Patterns</h4>
+<h4 id="LG-1-1">LG 1-1: Understand and Differentiate Cloud Types</h4>
 <div class="paragraph">
 <p>Software architects know the common cloud terms and can distinguish between different types such as public, private, hybrid/multi and on-premise.</p>
 </div>
 <div class="paragraph">
-<p>They understand cloud patterns and cloud migration patterns, and how to apply them.</p>
+<p>They understand that hybrid/multi-cloud operation is no exception and can name the reasons for hybrid/multi-cloud operation, for example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Gradual migration to the cloud</p>
+</li>
+<li>
+<p>Cost savings during operation</p>
+</li>
+<li>
+<p>Data protection and data security</p>
+</li>
+<li>
+<p>Integration with existing systems</p>
+</li>
+</ul>
 </div>
 <div class="paragraph">
-<p>They understand the difference between cloud and on-premise operations, as well as the arguments for and against cloud operations. They also recognize when the use of own hardware (bare metal) is more appropriate.</p>
+<p>Software architects understand the difference between public cloud and on-premise operation as well as the challenges and arguments for and against public cloud operation. They also recognize when it makes more sense to use dedicated hardware (bare metal).</p>
 </div>
 </div>
 <div class="sect3">
@@ -2370,7 +2401,10 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <p>Software architects know different cloud service models (*aaS) and can classify services based on these models.</p>
 </div>
 <div class="paragraph">
-<p>They understand the shared responsibility model and its relevance for cost and risk assessments when using managed cloud services.</p>
+<p>They also understand the serverless computing concept and can assign it to the cloud service models.</p>
+</div>
+<div class="paragraph">
+<p>Software architects understand the shared responsibility model and its relevance for cost and risk assessments when using managed cloud services.</p>
 </div>
 <div class="paragraph">
 <p>They know the concept of vendor lock-in and its relevance for decision-making between managed and self-managed services.</p>
@@ -2387,13 +2421,13 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <p>DSGVO (GDPR)</p>
 </li>
 <li>
-<p>GoBD (Principles for electronical accounting and archiving)</p>
+<p>BSI C5 (Cloud Computing Compliance Criteria Catalogue)</p>
 </li>
 <li>
 <p>ISO 27001</p>
 </li>
 <li>
-<p>IT-Grundschutz (A systematic basis for information security)</p>
+<p>BSI IT-Grundschutz (A systematic basis for information security)</p>
 </li>
 </ul>
 </div>
@@ -2451,10 +2485,10 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <p>Monolith</p>
 </li>
 <li>
-<p>Microsoervices</p>
+<p>Microservices</p>
 </li>
 <li>
-<p>Self Contained Systems</p>
+<p>Self-contained Systems</p>
 </li>
 </ul>
 </div>
@@ -2525,7 +2559,7 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <div class="sect2">
 <h3 id="_terms_and_principles_3">3.1. Terms and Principles</h3>
 <div class="paragraph">
-<p>Platform quality requirements, Cloud Native Storage, Backup &amp; Restore, Overlay Networking, Network Policies, Container Security, Container Linux.</p>
+<p>Platform quality requirements, Cloud Native Storage, Backup &amp; Restore, Overlay Networking, Network Policies, Container Security, Container Linux, Cloud Migration.</p>
 </div>
 </div>
 <div class="sect2">
@@ -2630,6 +2664,15 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <p>They are familiar with various concepts for backing up and restoring persistent data in the cloud.</p>
 </div>
 </div>
+<div class="sect3">
+<h4 id="LG-3-6">LG 3-6: Understand cloud migration patterns</h4>
+<div class="paragraph">
+<p>Software architects are familiar with various cloud migration patterns and can select them based on requirements.</p>
+</div>
+<div class="paragraph">
+<p>They are also aware of migration patterns that require a hybrid/multi cloud setup e.g. for a gradual migration to the cloud.</p>
+</div>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_references_2">3.3. References</h3>
@@ -2658,7 +2701,7 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <div class="sect2">
 <h3 id="_terms_and_principles_4">4.1. Terms and Principles</h3>
 <div class="paragraph">
-<p>Resilience Patterns, Container Application Design, Cloud Native Architectures, Container Patterns, Service Mesh</p>
+<p>Resilience Patterns, Container Application Design, Cloud Native Architectures, Container Patterns, Functions as a Service (FaaS), Service Mesh</p>
 </div>
 </div>
 <div class="sect2">
@@ -2702,7 +2745,35 @@ In particular, the curriculum provides no specifications on the nature of the ex
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-4-2">LG 4-2: Ability to Select Appropriate Resilience Patterns to Increase Fault Tolerance</h4>
+<h4 id="LG-4-2">LG 4-2: Ability to Select Suitable Technologies for Operating Modules</h4>
+<div class="paragraph">
+<p>Software architects can select suitable technologies for operating modules of a distributed system, e.g. with Functions as a Service (FaaS) and container orchestration.</p>
+</div>
+<div class="paragraph">
+<p>They select these technologies in a requirements-driven manner. Various aspects must be taken into account, such as</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Scaling requirements</p>
+</li>
+<li>
+<p>Start and runtime duration</p>
+</li>
+<li>
+<p>Complexity of operation and domain boundaries</p>
+</li>
+<li>
+<p>Access to persistence</p>
+</li>
+<li>
+<p>Limitations on observability and debugging</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-4-3">LG 4-3: Ability to Select Appropriate Resilience Patterns to Increase Fault Tolerance</h4>
 <div class="paragraph">
 <p>Software architects understand how communication between services in a distributed application can be made fault-tolerant.</p>
 </div>
@@ -2749,7 +2820,7 @@ In particular, the curriculum provides no specifications on the nature of the ex
 </colgroup>
 <tbody>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 180 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 150 min</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 20 min</p></td>
 </tr>
 </tbody>
@@ -2757,7 +2828,7 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <div class="sect2">
 <h3 id="_terms_and_principles_5">5.1. Terms and Principles</h3>
 <div class="paragraph">
-<p>Development environment, CI/CD environment, Mean Time To Recovery (MTTR), application lifecycle management, forms of deployments like Rolling-, Canary- and Blue/Green deployment, cluster design, logging, monitoring, metrics, distributed tracing, time series queries, alerting</p>
+<p>Development environment, CI/CD environment, Mean Time To Recovery (MTTR), application lifecycle management, forms of deployments like Rolling-, Canary- and Blue/Green deployment, cluster design, secrets management</p>
 </div>
 </div>
 <div class="sect2">
@@ -2768,7 +2839,7 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <p>Software architects are aware that working in cloud environments brings new requirements to the software development process.</p>
 </div>
 <div class="paragraph">
-<p>They are familiar with different approaches to implementing projects in cloud environments, such as:</p>
+<p>They are familiar with different approaches and technologies to implementing projects in cloud environments, such as:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -2780,8 +2851,11 @@ In particular, the curriculum provides no specifications on the nature of the ex
 </li>
 </ul>
 </div>
+</div>
+<div class="sect3">
+<h4 id="LG-5-2">LG 5-2: Implementing Application Lifecycle Management in Cloud Environments</h4>
 <div class="paragraph">
-<p>They understand the possibilities of implementing deployments and application lifecycle management in a cloud environment, particularly:</p>
+<p>Software architects understand the possibilities of implementing deployments and application lifecycle management in a cloud environment, particularly:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -2821,28 +2895,25 @@ In particular, the curriculum provides no specifications on the nature of the ex
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-5-2">LG 5-2: Understanding approaches for observability of distributed applications</h4>
+<h4 id="LG-5-3">LG 5-3: Know Secrets Management Options</h4>
 <div class="paragraph">
-<p>Software architects know that the distributed execution of processes presents new challenges for observability of distributed applications.</p>
-</div>
-<div class="paragraph">
-<p>They understand the unique conditions of distributed applications and their impact on observability through:</p>
+<p>Software architects understand the critical role and techniques for managing secrets in the cloud, including:</p>
 </div>
 <div class="ulist">
 <ul>
 <li>
-<p>Logging</p>
+<p>Integration of cloud services for secrets management</p>
 </li>
 <li>
-<p>Monitoring/metrics and alerting</p>
+<p>Secrets operator concept</p>
 </li>
 <li>
-<p>Distributed tracing</p>
+<p>Automated secret rotation</p>
 </li>
 </ul>
 </div>
 <div class="paragraph">
-<p>They are familiar with approaches and responsibilities for creating predictive time series queries for alerts.</p>
+<p>In addition, they can name the advantages and disadvantages of operating a Secrets Manager themselves.</p>
 </div>
 </div>
 </div>
@@ -2865,7 +2936,7 @@ In particular, the curriculum provides no specifications on the nature of the ex
 </colgroup>
 <tbody>
 <tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 180 min</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 150 min</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Practice time: 20 min</p></td>
 </tr>
 </tbody>
@@ -2873,7 +2944,7 @@ In particular, the curriculum provides no specifications on the nature of the ex
 <div class="sect2">
 <h3 id="_terms_and_principles_6">6.1. Terms and Principles</h3>
 <div class="paragraph">
-<p>DevOps, DevSecOps, Site Reliability Engineering (SRE), configuration, provisioning, Infrastructure as Code, Cloud Provider APIs, abstraction levels of container manager, calculate availability, calculate cluster size</p>
+<p>DevOps, DevSecOps, Site Reliability Engineering (SRE), configuration, provisioning, Infrastructure as Code, Cloud Provider APIs, Permissions Management, abstraction levels of container manager, calculate availability, logging, monitoring, metrics, distributed tracing, time series queries, alerting, calculate cluster size</p>
 </div>
 </div>
 <div class="sect2">
@@ -2909,7 +2980,33 @@ In particular, the curriculum provides no specifications on the nature of the ex
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-6-4">LG 6-4: Differentiate and Understand Different Abstraction Layers of Container Managers</h4>
+<h4 id="LG-6-4">LG 6-4: Understand the Fundamental Principles of Permissions Management</h4>
+<div class="paragraph">
+<p>Software architects understand the importance and implementation of the least privilege principle in cloud environments.
+They understand the need to grant each user and service account only the minimum permissions required to perform their specific tasks.</p>
+</div>
+<div class="paragraph">
+<p>They can name the following challenges:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Automated roll-out of permissions settings</p>
+</li>
+<li>
+<p>Managing consistent permissions in a hybrid/multi-cloud setup</p>
+</li>
+<li>
+<p>Striking a balance between least-privilege and autonomous development teams</p>
+</li>
+<li>
+<p>Enforcement of compliance requirements in permissions management, e.g. via policy enforcement</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-5">LG 6-5: Differentiate and Understand Different Abstraction Layers of Container Managers</h4>
 <div class="paragraph">
 <p>Software architects are aware that container managers can extend the basic functionality of container orchestration tools.</p>
 </div>
@@ -2918,7 +3015,32 @@ In particular, the curriculum provides no specifications on the nature of the ex
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-6-5">LG 6-5: Understand Resource Sizing Calculation Methods</h4>
+<h4 id="LG-6-6">LG 6-6: Understanding approaches for observability of distributed applications</h4>
+<div class="paragraph">
+<p>Software architects know that the distributed execution of processes presents new challenges for observability of distributed applications.</p>
+</div>
+<div class="paragraph">
+<p>They understand the unique conditions of distributed applications and their impact on observability through:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Monitoring/metrics and alerting</p>
+</li>
+<li>
+<p>Logging</p>
+</li>
+<li>
+<p>Distributed tracing</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>They are familiar with approaches and responsibilities for creating predictive time series queries for alerts.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-6-7">LG 6-7: Understand Resource Sizing Calculation Methods</h4>
 <div class="paragraph">
 <p>Software architects are familiar with methods for calculating resource requirements for:</p>
 </div>
@@ -3057,8 +3179,8 @@ In particular, the curriculum provides no specifications on the nature of the ex
 </div>
 <div id="footer">
 <div id="footer-text">
- 2023.1-RC1-EN<br>
-Last updated 2023-11-24 18:31:50 UTC
+ 2024.1-RC2-EN<br>
+Last updated 2024-04-25 15:47:39 UTC
 </div>
 </div>
 </body>
