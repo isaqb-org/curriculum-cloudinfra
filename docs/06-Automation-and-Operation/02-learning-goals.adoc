@@ -38,6 +38,8 @@ Dabei können sie folgende Herausforderungen benennen:
 * Balance finden zwischen der minimalen Rechtevergabe (Least Privilege) und autonomen Entwicklungsteams
 * Durchsetzung von Compliance Vorgaben bei der Berechtigungsverwaltung z.B. über Policy Enforcement
 
+Das Erarbeiten, Bewerten oder Vermitteln konkreter Lösungsansätze für dieses Lernziel ist optional.
+
 [[LZ-6-5]]
 ==== LZ 6-5: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
 
@@ -104,6 +106,8 @@ They can name the following challenges:
 * Managing consistent permissions in a hybrid/multi-cloud setup
 * Striking a balance between least-privilege and autonomous development teams
 * Enforcement of compliance requirements in permissions management, e.g. via policy enforcement
+
+Developing, evaluating, or teaching concrete solution approaches for this learning goal is optional.
 
 [[LG-6-5]]
 ==== LG 6-5: Differentiate and Understand Different Abstraction Layers of Container Managers
