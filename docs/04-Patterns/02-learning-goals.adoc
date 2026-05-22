@@ -32,17 +32,11 @@ Darüber hinaus können Sie die Anwendung dieser Technologien Anforderungsgetrie
 * Limitierungen für Observability und Debugging
 
 [[LZ-4-3]]
-==== LZ 4-3: Passende Resilienzmuster zur Erhöhung von Fehlertoleranz auswählen
+==== LZ 4-3: Methoden der Systemresilienz verstehen und anwenden
 
 Softwarearchitekt:innen verstehen, wie bei einer verteilten Anwendung die Kommunikation zwischen den Services fehlertolerant realisiert werden kann.
 
 Sie verstehen, durch welche Muster Fehlertoleranz auf der Kommunikationsebene erhöht werden kann und wie gängige Service-Mesh-Konzepte verwendet werden können, um die Implementation von Resilienzmustern vom fachlichen Code zu trennen.
-
-Softwarearchitekt:innen kennen u. a. folgende Resilienzmuster:
-
-* Circuit Breaker
-* Conditional Rate Limits
-* Traffic Shifting
 
 Sie kennen das Konzept von Chaos Engineering und dessen Methoden, die Systemresilienz durch gezieltes Einbringen von Störungen zu testen.
 
@@ -80,17 +74,11 @@ They select these technologies in a requirements-driven manner. Various aspects 
 * Limitations on observability and debugging
 
 [[LG-4-3]]
-==== LG 4-3: Ability to Select Appropriate Resilience Patterns to Increase Fault Tolerance
+==== LG 4-3: Understand and Apply Methods of System Resilience
 
 Software architects understand how communication between services in a distributed application can be made fault-tolerant.
 
 They understand which patterns can increase fault tolerance at the communication level and how common service mesh concepts can be used to separate the implementation of resilience patterns from the business code.
-
-Software architects are familiar with the following resilience patterns, among others:
-
-* Circuit Breaker
-* Conditional Rate Limits
-* Traffic Shifting
 
 They are familiar with the concept of chaos engineering and its methods to test system resilience by deliberately introducing disruptions.
 
