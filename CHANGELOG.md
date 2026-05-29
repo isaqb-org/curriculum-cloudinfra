@@ -12,6 +12,7 @@
 - Architecture of observability tools in cloud environments
 
 ## Removed
+
 - Fixed list of concrete resilience patterns (Circuit Breaker, Conditional Rate Limits, Traffic Shifting)
 - Elaboration of concrete solution approaches for cloud permissions management
 - Term: Cloud patterns
@@ -37,5 +38,6 @@
 - Functions as a Service (FaaS)
 
 ## Removed
+
 - Mentioning of tool names for automation and operation (Ansible, Chef, Terraform, Rancher, Tectonic, Kops, Kubeadm, OpenShift)
 - Tests and testability. Not affected are resilience testing, test execution via CI/CD systems and the setup of test environments.
