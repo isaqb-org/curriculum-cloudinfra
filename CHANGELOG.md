@@ -1,3 +1,21 @@
+# Release Notes 2024.2
+
+## New concepts
+
+- Provider selection criteria
+- Digital sovereignty
+- Container runtime security
+
+## Naming concepts more explicitly
+
+- Methods of system resilience
+- Architecture of observability tools in cloud environments
+
+## Removed
+- Fixed list of concrete resilience patterns (Circuit Breaker, Conditional Rate Limits, Traffic Shifting)
+- Elaboration of concrete solution approaches for cloud permissions management
+- Term: Cloud patterns
+
 # Release Notes 2024.1
 
 ## New concepts
