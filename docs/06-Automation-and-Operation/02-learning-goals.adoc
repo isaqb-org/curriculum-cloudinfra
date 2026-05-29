@@ -38,6 +38,8 @@ Dabei können sie folgende Herausforderungen benennen:
 * Balance finden zwischen der minimalen Rechtevergabe (Least Privilege) und autonomen Entwicklungsteams
 * Durchsetzung von Compliance Vorgaben bei der Berechtigungsverwaltung z.B. über Policy Enforcement
 
+Das Erarbeiten, Bewerten oder Vermitteln konkreter Lösungsansätze für dieses Lernziel ist optional.
+
 [[LZ-6-5]]
 ==== LZ 6-5: Verschiedene Abstraktionsebenen von Container-Managern unterscheiden und verstehen
 
@@ -46,17 +48,15 @@ Softwarearchitekt:innen wissen, dass sich durch Container-Manager die Grundfunkt
 Sie kennen die Einsatzmöglichkeiten vom Container-Managern und können ihre Abstraktionsebenen unterscheiden.
 
 [[LZ-6-6]]
-==== LZ 6-6: Wege der Beobachtbarkeit von verteilten Applikationen kennen
+==== LZ 6-6: Architektur von Observability-Tools in Cloud-Umgebungen kennen und einordnen
 
-Softwarearchitekt:innen wissen, dass es durch die verteilte Ausführung von Prozessen neue Herausforderungen an die Beobachtbarkeit verteilter Applikationen gibt.
+Softwarearchitekt:innen verstehen, dass verteilte Ausführung in der Cloud besondere Anforderungen an die Architektur von Observability-Lösungen stellt.
 
-Sie kennen die besonderen Rahmenbedingungen verteilter Anwendung und den Einfluss auf die Beobachtbarkeit mittels:
+Sie kennen architektonische Muster zur Erfassung, Weiterleitung und Verarbeitung von Telemetriedaten (Metriken, Logs, Traces) in unterschiedlichen Cloud-Betriebsumgebungen wie Container-Manager, virtuelle Maschinen und managed Plattformen.
 
-* Monitoring/Metriken und Alerting
-* Logging
-* Distributed Tracing
+Sie wissen, in welchen Fällen Push- bzw. Pull-Verfahren für den Versand von Telemetriedaten geeignet sind.
 
-Sie kennen Wege und Verantwortlichkeiten zur Erstellung möglichst fehlervorhersagenden Time Series Queries für Alerts.
+Sie kennen die Auswirkungen dieser Architekturentscheidungen auf Skalierbarkeit, Betriebsaufwand und Ausfallsicherheit.
 
 [[LZ-6-7]]
 ==== LZ 6-7: Berechnungsmethoden zur Dimensionierung von Ressourcen kennen
@@ -105,6 +105,8 @@ They can name the following challenges:
 * Striking a balance between least-privilege and autonomous development teams
 * Enforcement of compliance requirements in permissions management, e.g. via policy enforcement
 
+Developing, evaluating, or teaching concrete solution approaches for this learning goal is optional.
+
 [[LG-6-5]]
 ==== LG 6-5: Differentiate and Understand Different Abstraction Layers of Container Managers
 
@@ -113,17 +115,15 @@ Software architects are aware that container managers can extend the basic funct
 They are familiar with the use cases for container managers and can differentiate their abstraction layers.
 
 [[LG-6-6]]
-==== LG 6-6: Understanding approaches for observability of distributed applications
+==== LG 6-6: Understand and Classify the Architecture of Observability Tools in Cloud Environments
 
-Software architects know that the distributed execution of processes presents new challenges for observability of distributed applications.
+Software architects understand that distributed execution in the cloud creates specific requirements for the architecture of observability solutions.
 
-They understand the unique conditions of distributed applications and their impact on observability through:
+They are familiar with architectural patterns for collecting, forwarding, and processing telemetry data (metrics, logs, traces) in different cloud operating environments such as container managers, virtual machines, and managed platforms.
 
-* Monitoring/metrics and alerting
-* Logging
-* Distributed tracing
+They know in which cases push and pull methods are suitable for shipping telemetry data.
 
-They are familiar with approaches and responsibilities for creating predictive time series queries for alerts.
+They understand the impact of these architecture decisions on scalability, operational effort, and resilience.
 
 [[LG-6-7]]
 ==== LG 6-7: Understand Resource Sizing Calculation Methods
@@ -133,5 +133,4 @@ Software architects are familiar with methods for calculating resource requireme
 * Availability
 * Cluster size
 // end::EN[]
-
 

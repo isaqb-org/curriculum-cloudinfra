@@ -12,7 +12,7 @@ Softwarearchitekt:innen verstehen den Nutzen und die Ziele des Cloud Native Konz
 * Isolation der Applikation vom Hostsystem
 
 [[LZ-3-2]]
-==== LZ 3-2: Grundlegende Container Konzepte verstehen
+==== LZ 3-2: Isolationskonzepte für Container und Container-Runtimes verstehen
 
 Softwarearchitekt:innen verstehen die technischen Grundlagen und den Mehrwert von Containern und kennen den Unterschied zwischen konventionellem Deployment und dem mit Containern.
 
@@ -24,6 +24,12 @@ Softwarearchitekt:innen verstehen Linux-Kernel-Isolationsmechanismen, die bei Co
 * Capabilities
 
 Sie kennen außerdem die Auswirkungen, Nutzungszenarien und Gefahren privilegierter Container.
+
+Softwarearchitekt:innen kennen geeignete Sicherheitsmaßnahmen, um Risiken wie Container Escape und Privilegieneskalation beim Einsatz von Containern zu reduzieren, zum Beispiel:
+
+* Policy- and Rule-based Runtime Security
+* VM-isolated Container Runtimes
+* Kernel-Proxy Runtimes
 
 [[LZ-3-3]]
 ==== LZ 3-3: Abstraktionskonzepte von Container-Managern verstehen
@@ -76,7 +82,7 @@ Software architects understand the benefits and goals of the Cloud Native concep
 * Delivery artifacts
 
 [[LG-3-2]]
-==== LG 3-2: Understand Basic Container Concepts
+==== LG 3-2: Understand Isolation Concepts for Containers and Container Runtimes
 
 Software architects understand the technical basics and the added value of containers and know the difference between conventional deployment and deployment with containers.
 
@@ -88,6 +94,12 @@ Software architects understand Linux kernel isolation mechanisms that apply to c
 * Capabilities
 
 They also understand the implications, usage scenarios, and threats of privileged containers.
+
+Software architects are familiar with suitable security measures to reduce risks such as container escape and privilege escalation when using containers, for example:
+
+* Policy- and Rule-based Runtime Security
+* VM-isolated Container Runtimes
+* Kernel-Proxy Runtimes
 
 [[LG-3-3]]
 ==== LG 3-3: Understand Container Manager Abstraction Concepts

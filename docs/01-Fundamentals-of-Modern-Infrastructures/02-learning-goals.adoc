@@ -4,7 +4,7 @@
 [[LZ-1-1]]
 ==== LZ 1-1: Cloud-Arten verstehen und unterscheiden
 
-Softwarearchitekt:innen kennen die gängigen Cloud-Begriffe und können verschiedene Arten wie Public, Private, Hybrid/Multi und On-Premise voneinander unterscheiden. 
+Softwarearchitekt:innen kennen die gängigen Cloud-Begriffe und können verschiedene Arten wie Public, Private, Hybrid/Multi und On-Premise voneinander unterscheiden.
 
 Sie verstehen, dass der Hybrid/Multi Cloud Betrieb keine Ausnahme darstellt und können die Gründe von Hybrid/Multi Cloud Betrieb benennen, beispielsweise:
 
@@ -16,7 +16,25 @@ Sie verstehen, dass der Hybrid/Multi Cloud Betrieb keine Ausnahme darstellt und 
 Sie verstehen den Unterschied zwischen Public Cloud- und On-Premise-Betrieb sowie die Herausforderungen und Argumente für und gegen den Public Cloud-Betrieb. Sie erkennen auch, wann der Einsatz von eigener Hardware (Bare Metal) sinnvoller ist.
 
 [[LZ-1-2]]
-==== LZ 1-2: Entscheidungskriterien für die Nutzung von managed Services und self-managed Services verstehen
+==== LZ 1-2: Entscheidungskriterien für die Provider-Auswahl verstehen
+
+Softwarearchitekt:innen kennen unterschiedliche Kriterien bei der Provider-Auswahl, zum Beispiel:
+
+* Vorhandene Zertifizierungen, Verträge und Geschäftsbeziehungen
+* Technische Anforderungen (Service-Angebot)
+* Besondere Datenschutz- und Datensicherheitsanforderungen
+* Besondere rechtliche Vorgaben für kritische Infrastrukturen
+* Aktuelle politische und wirtschaftliche Rahmenbedingungen
+* Mögliche Abhängigkeiten von Services und Infrastrukturen externer Parteien
+
+Softwarearchitekt:innen können Risiken und Nachteile unterschiedlicher Provider-Optionen unter gegebenen Rahmenbedingungen (z. B. Budget, Personal, Compliance) bewerten und begründet entscheiden, welche Optionen tragbar sind.
+
+Sie kennen das Konzept des Vendor Lock-in und können bewerten, wie sich ein Vendor Lock-in oder dessen Vermeidung auf Kosten, Komplexität und Handlungsfähigkeit auswirkt.
+
+Softwarearchitekt:innen kennen den Begriff der digitalen Souveränität und können ihn erklären.
+
+[[LZ-1-3]]
+==== LZ 1-3: Entscheidungskriterien für die Nutzung von managed Services und self-managed Services verstehen
 
 Softwarearchitekt:innen kennen unterschiedliche Cloud Service Modelle (*aaS) und können Services anhand dieser Modelle klassifizieren.
 
@@ -24,10 +42,10 @@ Sie verstehen darüber hinaus das Serverless Computing Konzept und können es de
 
 Softwarearchitekt:innen verstehen das Shared-Responsibility-Modell und dessen Relevanz für Kosten- und Risikobewertungen bei der Nutzung von managed Cloud Services.
 
-Sie kennen das Konzept des Vendor Lock-in und seine Relevanz für die Entscheidungsfindung zwischen managed und self-managed Services.
+Sie kennen die Relevanz von Vendor Lock-in für die Entscheidungsfindung zwischen managed und self-managed Services.
 
-[[LZ-1-3]]
-==== LZ 1-3: Compliance und organisatorische Aspekte bei der Cloud-Architektur berücksichtigen
+[[LZ-1-4]]
+==== LZ 1-4: Compliance und organisatorische Aspekte bei der Cloud-Architektur berücksichtigen
 
 Softwarearchitekt:innen kennen die organisatorischen Aspekte der Cloud Migration und die rechtlichen Rahmenbedingungen für einen Betrieb von Anwendungen in der Cloud, z. b.:
 
@@ -38,8 +56,8 @@ Softwarearchitekt:innen kennen die organisatorischen Aspekte der Cloud Migration
 
 Sie verstehen, dass die Aspekte der Datensicherheit für die Entscheidung für oder gegen eine Public Cloud relevant sind und dass organisatorische und/oder rechtliche Anforderungen die Wahl der verwendeten Cloud-Art beeinflussen.
 
-[[LZ-1-4]]
-==== LZ 1-4: Verfügbarkeit, Skalierung und Performance als Anforderungsparameter beim Cloud-Architektur-Design anwenden
+[[LZ-1-5]]
+==== LZ 1-5: Verfügbarkeit, Skalierung und Performance als Anforderungsparameter beim Cloud-Architektur-Design anwenden
 
 Softwarearchitekt:innen kennen die Auswirkungen der Cloud auf Time-to-Market, Verfügbarkeit, Skalierung, Performance, IOPS, Decoupling Operations und Networking.
 
@@ -64,7 +82,25 @@ They understand that hybrid/multi-cloud operation is no exception and can name t
 Software architects understand the difference between public cloud and on-premise operation as well as the challenges and arguments for and against public cloud operation. They also recognize when it makes more sense to use dedicated hardware (bare metal).
 
 [[LG-1-2]]
-==== LG 1-2: Understand Decision Criteria for the Use of Managed Services and Self-Managed Services
+==== LG 1-2: Understand Decision Criteria for Provider Selection
+
+Software architects know different criteria for provider selection, for example:
+
+* Existing certifications, contracts, and business relationships
+* Technical requirements (service offering)
+* Specific data protection and data security requirements
+* Specific legal requirements for critical infrastructures
+* Current political and economic constraints
+* Potential dependencies on services and infrastructures of external parties
+
+Software architects can assess risks and disadvantages of different provider options under given constraints (e.g. budget, staffing, compliance) and make well-founded decisions about which options are acceptable.
+
+They know the concept of vendor lock-in and can assess how vendor lock-in or its avoidance affects costs, complexity, and ability to act.
+
+Software architects know the term digital sovereignty and can explain it.
+
+[[LG-1-3]]
+==== LG 1-3: Understand Decision Criteria for the Use of Managed Services and Self-Managed Services
 
 Software architects know different cloud service models (*aaS) and can classify services based on these models.
 
@@ -72,10 +108,10 @@ They also understand the serverless computing concept and can assign it to the c
 
 Software architects understand the shared responsibility model and its relevance for cost and risk assessments when using managed cloud services.
 
-They know the concept of vendor lock-in and its relevance for decision-making between managed and self-managed services.
+They know the relevance of vendor lock-in for decision-making between managed and self-managed services.
 
-[[LG-1-3]]
-==== LG 1-3: Incorporate Compliance and Organizational Aspects Into Cloud Architecture
+[[LG-1-4]]
+==== LG 1-4: Incorporate Compliance and Organizational Aspects Into Cloud Architecture
 
 Software architects are familiar with the organizational aspects of cloud migration and the legal framework for operating applications in the cloud, e.g:
 
@@ -86,8 +122,8 @@ Software architects are familiar with the organizational aspects of cloud migrat
 
 They understand that the aspects of data security are relevant for the decision for or against a public cloud and that organizational and/or legal requirements influence the choice of the type of cloud used.
 
-[[LG-1-4]]
-==== LG 1-4: Apply Availability, Scaling and Performance Requirements as Parameters in Cloud Architecture Design
+[[LG-1-5]]
+==== LG 1-5: Apply Availability, Scaling and Performance Requirements as Parameters in Cloud Architecture Design
 
 Software architects understand the impact of the cloud on time-to-market, availability, scaling, performance, IOPS, decoupling operations, and networking.
 
@@ -95,5 +131,3 @@ They can assess when cloud applications require distribution across multiple ava
 
 Know infrastructure performance requirements and public cloud limitations, such as IOPS for storage.
 // end::EN[]
-
-
